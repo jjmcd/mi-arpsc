@@ -1,7 +1,7 @@
 <?php
 
 //    arpscsked.php
-//    $Revision: 1.2 $ - $Date: 2007-11-06 08:27:44-05 $
+//    $Revision: 1.3 $ - $Date: 2010-02-16 08:53:44-05 $
 //
 //	arpscsked displays the net control schedule for the MI-ARPSC
 //	Sunday night net.
@@ -40,14 +40,14 @@
   // This array is indexed by week number.  It contains the number of the
   // district responsible for net control, with 0 being the staff.
   $ncs = array( 80,0,3,5,6,0,7,8,1,
+		2,0,3,5,6,0,7,8,1,
 		0,2,3,5,6,0,7,8,1,
 		0,2,3,5,0,6,7,8,1,
-		0,2,3,5,0,6,7,8,1,
-		0,2,3,5,6,8,1,2,0,  // After 6
-		3,5,6,0,7,8,1,2 );
+		0,2,3,5,0,6,7,8,1,  // After 6
+		0,2,3,5,0,6,7,8 );
 
   $now = mktime();
-  $thismonth = date(m);
+  $thismonth = date("m");
 
   $lastmonth = " ";
 
@@ -72,11 +72,11 @@
 	  // If the NCS is staff, say so, otherwise say "District <districtno>"
 	  if ( $thisncs == 0 )
 	    {
-	      echo "Section Staff<br />\n";
+	      echo "<span style=\"color:steelblue;\">Section Staff</span><br />\n";
 	    }
 	  else
 	    {
-	      echo "District " . $thisncs . "<br />\n";
+	      echo "District <b>" . $thisncs . "</b><br />\n";
 	    }
 	}
       $now += 86400;	// Add one day to current date
@@ -91,7 +91,7 @@
 
   // Right bar
   sectLeaders($db);
-  footer($starttime,$maxdate,"\$Revision: 1.2 $ - \$Date: 2007-11-06 08:27:44-05 $");
+  footer($starttime,$maxdate,"\$Revision: 1.3 $ - \$Date: 2010-02-16 08:53:44-05 $");
 }
 ?>
 </body>
