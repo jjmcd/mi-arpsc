@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /FSD212import/
+Disallow: /includes/
+Disallow: /ECcontact.php
+Disallow: /cgi-bin/
+Disallow: /downloads/Position_Manual/
+
