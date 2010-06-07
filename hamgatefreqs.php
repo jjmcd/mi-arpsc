@@ -1,8 +1,8 @@
 <?php
-//    countyfreqs.php
-//    $Revision: 1.0 $ - $Date: 2010-04-12 09:33:07-04 $
+//    hamgatefreqs.php
+//    $Revision: 1.0 $ - $Date: 2010-05-09 13:49:07-04 $
 //
-//    Create image of state with county frquencies
+//    Create image of state with hamgate frequencies
 //
 
 include('includes/session.inc');

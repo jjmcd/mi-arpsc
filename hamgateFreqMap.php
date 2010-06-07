@@ -1,8 +1,8 @@
 <?php
-//    freqmap.php
-//    $Revision: 1.0 $ - $Date: 2010-04-12 09:49:55-04 $
+//    hamgateFreqMap.php
+//    $Revision: 1.0 $ - $Date: 2010-05-09 14:31:55-04 $
 //
-//    Display the frequency map image on a standard page
+//    Display the hamgate frequency map image on a standard page
 //
     include('includes/session.inc');
     $title=_('Michigan Hamgate Frequencies');
@@ -55,7 +55,7 @@
     echo "  </div>\n";
     sectLeaders($db);
     footer($starttime,$maxdate,
-      "\$Revision: 1.0 $ - $Date: 2010-05-09 14:06:43-04 $");
+      "\$Revision: 1.0 $ - $Date: 2010-05-09 14:31:43-04 $");
 ?>
 </div>
 </body>
