@@ -62,8 +62,10 @@
 
       <p>&nbsp;</p>
       <p>
-        To get real time updates, follow <b>mi_arpsc</b> on 
-        <a href="twitter.com" target="other">Twitter</a>.  
+        To get real time updates, follow <b>miarpsc</b> on 
+        <a href="http://identi.ca" target="other">identi.ca</a> 
+        or <b>mi_arpsc</b> on 
+        <a href="http://twitter.com" target="other">Twitter</a>.  
         It is free to sign up.
       </p>
       <p>
@@ -76,7 +78,7 @@
 <?php
     sectLeaders($db);
     footer($starttime,$maxdate,
-      "\$Revision: 1.1 $ - \$Date: 2010-06-07 09:09:13-05 $");
+      "\$Revision: 1.2 $ - \$Date: 2011-01-03 09:37:14-05 $");
 ?>
 </div>
 </body>
