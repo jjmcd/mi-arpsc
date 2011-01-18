@@ -39,12 +39,19 @@
 
   // This array is indexed by week number.  It contains the number of the
   // district responsible for net control, with 0 being the staff.
-  $ncs = array( 80,0,3,5,6,0,7,8,1,
-		2,0,3,5,6,0,7,8,1,
-		0,2,3,5,6,0,7,8,1,
-		0,2,3,5,0,6,7,8,1,
-		0,2,3,5,0,6,7,8,1,  // After 6
-		0,2,3,5,0,6,7,8 );
+  $ncs = array( 80,0,1,2,3,5,       // Jan
+		0,6,7,8,
+		0,1,2,3,
+		0,5,6,7,            // Apr
+		0,8,1,2,3,
+		0,5,6,7,
+		0,8,1,2,3,          // Jul
+		0,5,6,7,
+		0,8,1,2,
+		0,3,5,6,7,          // Oct
+		0,8,1,2,
+		0,3,5,6
+		);
 
   $now = mktime();
   $thismonth = date("m");
@@ -91,7 +98,7 @@
 
   // Right bar
   sectLeaders($db);
-  footer($starttime,$maxdate,"\$Revision: 1.3 $ - \$Date: 2010-02-16 08:53:44-05 $");
+  footer($starttime,$maxdate,"\$Revision: 1.4 $ - \$Date: 2011-01-07 09:33:44-05 $");
 }
 ?>
 </body>
