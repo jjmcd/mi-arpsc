@@ -1,6 +1,6 @@
 <?php
 //    arpsc_ecrept.php
-//    $Revision: 1.2 $ - $Date: 2008-06-15 10:12:48-04 $
+//    $Revision: 1.3 $ - \$Date: 2010-12-13 08:53:48-04 $
 //
 //    arpsc_ecrept displays the FSD-212 results for a month.  If there
 //    are no parameters, the most recent period is displayed, otherwise
@@ -325,44 +325,46 @@ while ( $row1 = getRow($r1,$db) )
 			}
 		    else
 			{
-			    if ( $row2[0]=='Arenac' )
-				{
-			    if ( $district != $olddistrict )
+			  if ( $row2[0]=='Arenac' )
 			    {
-				echo "\t\t<td " . $s1B . " rowspan=\"" . $lc . "\">" . $district . " </td>\n";
-				$olddistrict = $district;
-			    }
-				    echo "\t\t<td " . $s1S . ">" . $row2[0] . " </td>\n";
-				    echo "\t\t<td " . $s1L . " colspan=\"10\">" . "w/Ogemaw" . "</td>\n";
-				    echo "\t</tr>\n";
-				}
-			    else if ( $row2[0]=='Clare' )
+			      if ( $district != $olddistrict )
 				{
-			    if ( $district != $olddistrict )
-			    {
-				echo "\t\t<td " . $s1B . " rowspan=\"" . $lc . "\">" . $district . " </td>\n";
-				$olddistrict = $district;
-			    }
-				    echo "\t\t<td " . $s1S . ">" . $row2[0] . " </td>\n";
-				    echo "\t\t<td " . $s1L . " colspan=\"10\">" . "w/Isabella" . "</td>\n";
-				    echo "\t</tr>\n";
+				  echo "\t\t<td " . $s1B . " rowspan=\"" . $lc . "\">" . $district . " </td>\n";
+				  $olddistrict = $district;
 				}
-			    else
+			      echo "\t\t<td " . $s1S . ">" . $row2[0] . " </td>\n";
+			      echo "\t\t<td " . $s1L . " colspan=\"10\">" . "w/Ogemaw" . "</td>\n";
+			      echo "\t</tr>\n";
+			    }
+			  /*
+			  else if ( $row2[0]=='Clare' )
+			    {
+			      if ( $district != $olddistrict )
 				{
-				    echo "\t<tr>\n";
-			    if ( $district != $olddistrict )
-			    {
-				echo "\t\t<td " . $s1B . " rowspan=\"" . $lc . "\">" . $district . " </td>\n";
-				$olddistrict = $district;
-			    }
-				    //echo "\t\t<td " . $s2S . ">" . $row2[0] . " </td>\n";
-				    echo "\t\t<td " . $s2S . "><a href=\"ecrpti.php?county=". $row2[1] . "\">" . $row2[0] . "</a> </td>\n";
-				    echo "\t\t<td colspan=\"10\" " . $s2 . ">" . "- - - - N o &nbsp;  R e p o r t - - - -" . "</td>\n";
-				    echo "\t</tr>\n";
+				  echo "\t\t<td " . $s1B . " rowspan=\"" . $lc . "\">" . $district . " </td>\n";
+				  $olddistrict = $district;
 				}
+			      echo "\t\t<td " . $s1S . ">" . $row2[0] . " </td>\n";
+			      echo "\t\t<td " . $s1L . " colspan=\"10\">" . "w/Isabella" . "</td>\n";
+			      echo "\t</tr>\n";
+			    }
+			  */
+			  else
+			    {
+			      echo "\t<tr>\n";
+			      if ( $district != $olddistrict )
+				{
+				  echo "\t\t<td " . $s1B . " rowspan=\"" . $lc . "\">" . $district . " </td>\n";
+				  $olddistrict = $district;
+				}
+			      //echo "\t\t<td " . $s2S . ">" . $row2[0] . " </td>\n";
+			      echo "\t\t<td " . $s2S . "><a href=\"ecrpti.php?county=". $row2[1] . "\">" . $row2[0] . "</a> </td>\n";
+			      echo "\t\t<td colspan=\"10\" " . $s2 . ">" . "- - - - N o &nbsp;  R e p o r t - - - -" . "</td>\n";
+			      echo "\t</tr>\n";
+			    }
 			}
 		}
-
+	    
 	    // Get staff results, if provided  ---------------------------------
 	    $q5 ='SELECT `aresmem`,`drillsnum`,`drillshrs`,`psesnum`,`pseshrs`,`eopsnum`,`eopshrs`,`aresopsnum`,`aresops` ' .
 			"FROM `arpsc_ecrept` WHERE `county`='" . $key1 . "' AND `period`=" . $period;
@@ -399,7 +401,7 @@ echo "</table>\n";
 echo "  </div>\n";
 sectLeaders($db);
 footer($starttime,$maxdate,
-       "\$Revision: 1.2 $ - \$Date: 2008-06-15 10:12:48-04 $");
+       "\$Revision: 1.3 $ - \$Date: 2010-12-13 08:53:48-04 $");
 ?>
 </div>
 </body>
