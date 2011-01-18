@@ -392,7 +392,7 @@ function footer($start,$max,$revstring)
     if ( $max != "" )
 	echo "    Most recent data: " . $max . "<br />\n";
     echo "    Source " . $revstring . "<br />\n";
-    echo "    copyright &copy; 2007, Michigan Section, American Radio Relay League\n";
+    echo "    copyright &copy; 2007-2011, Michigan Section, American Radio Relay League\n";
     echo "  </div>\n";
 
 }
