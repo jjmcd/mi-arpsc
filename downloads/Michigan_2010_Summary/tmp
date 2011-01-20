@@ -1,0 +1,7 @@
+#!/bin/sh
+ROOT="jjmcd@aidan:Documents/ARPSC/Michigan_2010_Summary/tmp/en-US"
+scp -r $ROOT/txt/* txt/
+scp -r $ROOT/html/* html/
+scp -r $ROOT/html-single/* html-single/
+scp -r $ROOT/pdf/* pdf/
+scp -r $ROOT/ARPSC-2010-Michigan_2010_Summary-en-US.epub epub/

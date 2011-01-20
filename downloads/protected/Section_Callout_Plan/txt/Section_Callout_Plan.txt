@@ -1,0 +1,266 @@
+Product SiteDocumentation Site
+
+ARPSC
+
+
+
+Section Callout Plan
+====================
+
+
+Plan for Activating the Section
+-------------------------------
+
+
+John McDonough
+
+ARRL Michigan Sectionwb8rcr@arrl.net
+
+
+
+Legal Notice
+============
+
+CopyrightÂ© 2010, Michigan Section of the American Radio Relay League The
+text of and illustrations in this document are licensed by the Michigan
+Section of the American Radio Relay League under a Creative Commons
+Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+This paper outlines the plan for activating the Michigan Section Amateur
+Radio Public Service Corps in the event of an emergency.
+
+------------------------------------------------------------------------
+
+1. Notifying the SEC
+
+      1.1. Statewide Events
+
+      1.2. Local/Regional events
+
+      1.3. SEOC Station Activation
+
+      1.4. SEC Staff Notification
+
+2. Notifying the Districts
+
+      2.1. National Weather Service Offices
+
+      2.2. Regional and Local Incidents
+
+      2.3. DEC Contact Information
+
+3. Notifying the Nets
+
+      3.1. Net manager contact information
+
+A. Revision History
+
+
+1.Â Notifying the SEC
+---------------------
+
+
+1.1.Â Statewide Events
+
+For statewide events, the SEC is notified by the Michigan State Police
+via E-Team notification when the SEOC is fully activated, or a need for
+amateur radio is perceived. The SEC also monitors E-Team to be alert to
+incidents which may deteriorate to the point that SEC attention is
+required.
+
+
+1.2.Â Local/Regional events
+
+For local or regional events, the affected EC should notify the SEC by
+cell phone (989-430-4855) or E-Team notification. For events of lower
+urgency the EC may prefer email. When the EC is under significant
+pressure (as is often the case in the event of an activation), the EC may
+delegate notification to the DEC.
+
+
+1.3.Â SEOC Station Activation
+
+When the SEOC is fully activated, the Michigan State Police notifies the
+station manager by pager. For other events, the SEC may notify the
+station manager by telephone as required.
+
+
+1.4.Â SEC Staff Notification
+
+As required, the SEC may notify the Assistant SECs by telephone.
+
+
+2.Â Notifying the Districts
+---------------------------
+
+The SEC will notify the DECs by E-Team notification. If time permits,
+those DECs who cannot be reached via E-Team will be notified by
+telephone. The E-Team notification list is as follows:
+
+  *  District 1 - Daniel Sprow
+
+  *  District 2 - John Fleming
+
+  *  District 3 - Stan Darmofal
+
+  *  District 5 - Art Snapper
+
+  *  District 6 - Jeffrey Nawrot
+
+  *  District 7 - Thomas Duggan
+
+  *  District 8 - Lou Gembolis
+
+In addition, all the ASECs are included in that notification. DECs are
+strongly encouraged to join E-Team themselves, and ensure at least one
+assistant DEC also is qualified for E-Team. Less than half of the DECs
+currently are qualified for E-Team.
+
+
+2.1.Â National Weather Service Offices
+
+Currently, none of the NWS DECs have E-Team capability. As a consequence,
+NWS DECs will be notified by telephone as appropriate.
+
+
+2.2.Â Regional and Local Incidents
+
+In the case of a regional or local event where the SEC becomes involved
+before the DEC, the SEC will typically notify the affected DEC by
+telephone. Depending on the incident, nearby DECs may also be notified.
+
+
+2.3.Â DEC Contact Information
+
+  *  Joe Pullen
+
+      *  cell 517-260-1185
+
+      *  home 517-547-6794
+
+  *  John Fleming
+
+      *  home 248-542-9573
+
+      *  work 248-642-6228
+
+  *  Joe Tusher
+
+      *  Home 810-742-3866
+
+      *  Mobile 810-908-3089
+
+  *  Carl Flickinger
+
+      *  home 269-685-8277
+
+      *  mobile 269-873-7891
+
+  *  Tom van der Mel
+
+      *  mobile 231-206-0422
+
+  *  Red Duggan
+
+      *  home 989-275-2443
+
+      *  mobile 586-413-2831
+
+      *  pager 9892533247@arch.net
+
+  *  Lou Gembolis
+
+      *  home 906-485-5442
+
+  *  Chris Stinsom
+
+      *  mobile 989-430-2375
+
+  *  Ted Davis
+
+      *  mobile 2486282747
+
+      *  mobile (248) 842-4077
+
+  *  Michael Gage
+
+      *  home 616-538-0502
+
+  *  Greg Hanson
+
+      *  home 906-225-1594
+
+
+3.Â Notifying the Nets
+----------------------
+
+Nets are notified as needed by telephone. On some occasions when weather
+is anticipated, some nets hold scheduled times and frequencies for
+monitoring and can be activated by radio.
+
+
+3.1.Â Net manager contact information
+
+  *  QMN
+
+      *  Anne Travis - 313-563-0177
+
+  *  MITN
+
+      *  Jeff Miller - mobile 248-330-0335, home 248-628-3719
+
+  *  GLETN
+
+      *  Jack Wiswasser - 517-641-8553
+
+  *  MACS
+
+      *  John Wehmer - mobile 616-502-4800, home 616-847-6409
+
+  *  UP
+
+      *  Aileen Gagnon - 906-428-9789
+
+  *  Wolverine
+
+      *  Ron Warczynski - 269-468-4068
+
+  *  MVTN
+
+      *  Jean Young - 231-893-3341
+
+  *  SEMTN
+
+      *  Jeff Miller - mobile 248-330-0335, home 248-628-3719
+
+  *  TMMTN
+
+      *  Grant Watson - 810-982-7488
+
+
+A.Â Revision History
+--------------------
+
+Revision History
+
+Revision 0
+
+Sat Sep 25 2010
+
+John McDonough
+
+Initial draft

@@ -1,0 +1,105 @@
+INSERT INTO `ares_juris` VALUES('k8yza','D1  ',now());
+INSERT INTO `ares_juris` VALUES('k8yza','CLIN',now());
+INSERT INTO `ares_juris` VALUES('k8yza','EATO',now());
+INSERT INTO `ares_juris` VALUES('k8yza','GRAT',now());
+INSERT INTO `ares_juris` VALUES('k8yza','HILL',now());
+INSERT INTO `ares_juris` VALUES('k8yza','INGH',now());
+INSERT INTO `ares_juris` VALUES('k8yza','JACK',now());
+INSERT INTO `ares_juris` VALUES('k8yza','LENA',now());
+INSERT INTO `ares_juris` VALUES('k8yza','LIVI',now());
+INSERT INTO `ares_juris` VALUES('k8yza','SHIA',now());
+
+INSERT INTO `ares_juris` VALUES('k8up','D2  ',now());
+INSERT INTO `ares_juris` VALUES('k8up','MACO',now());
+INSERT INTO `ares_juris` VALUES('k8up','MONR',now());
+INSERT INTO `ares_juris` VALUES('k8up','OAKL',now());
+INSERT INTO `ares_juris` VALUES('k8up','STCL',now());
+INSERT INTO `ares_juris` VALUES('k8up','WASH',now());
+INSERT INTO `ares_juris` VALUES('k8up','WAYN',now());
+
+INSERT INTO `ares_juris` VALUES('n8osl','D3  ',now());
+INSERT INTO `ares_juris` VALUES('n8osl','ALCO',now());
+INSERT INTO `ares_juris` VALUES('n8osl','AREN',now());
+INSERT INTO `ares_juris` VALUES('n8osl','BAY ',now());
+INSERT INTO `ares_juris` VALUES('n8osl','GENE',now());
+INSERT INTO `ares_juris` VALUES('n8osl','GLAD',now());
+INSERT INTO `ares_juris` VALUES('n8osl','HURO',now());
+INSERT INTO `ares_juris` VALUES('n8osl','IOSC',now());
+INSERT INTO `ares_juris` VALUES('n8osl','LAPE',now());
+INSERT INTO `ares_juris` VALUES('n8osl','MIDL',now());
+INSERT INTO `ares_juris` VALUES('n8osl','OGEM',now());
+INSERT INTO `ares_juris` VALUES('n8osl','OSCO',now());
+INSERT INTO `ares_juris` VALUES('n8osl','SAGI',now());
+INSERT INTO `ares_juris` VALUES('n8osl','SANI',now());
+INSERT INTO `ares_juris` VALUES('n8osl','TUSC',now());
+
+INSERT INTO `ares_juris` VALUES('kb8fqj','D5  ',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','ALLE',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','BARR',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','BERR',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','BRAN',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','CALH',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','CASS',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','KZOO',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','STJO',now());
+INSERT INTO `ares_juris` VALUES('kb8fqj','VANB',now());
+
+INSERT INTO `ares_juris` VALUES('kb8vee','D6  ',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','CLAR',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','IONI',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','ISAB',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','KENT',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','LAKE',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','MASO',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','MECO',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','MONT',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','MUSK',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','NEWA',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','OCEA',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','OSCE',now());
+INSERT INTO `ares_juris` VALUES('kb8vee','OTTA',now());
+
+INSERT INTO `ares_juris` VALUES('wa8rli','D7  ',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','ALPE',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','ANTR',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','BENZ',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','CHAR',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','CHEB',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','CRAW',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','EMME',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','GRAN',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','KALK',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','LEEL',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','MANI',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','MISS',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','MTMO',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','OTSE',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','PRES',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','ROSC',now());
+INSERT INTO `ares_juris` VALUES('wa8rli','WEXF',now());
+
+INSERT INTO `ares_juris` VALUES('kg8nk','D8  ',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','ALGE',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','BARA',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','CHIP',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','DELT',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','DICK',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','GOGE',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','HOUG',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','IRON',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','KEWE',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','LUCE',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','MACK',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','MARQ',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','MENO',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','ONTO',now());
+INSERT INTO `ares_juris` VALUES('kg8nk','SCHO',now());
+
+INSERT INTO `ares_juris` VALUES('kc8tyk','APX ',now());
+INSERT INTO `ares_juris` VALUES('n8zsa','DTX ',now());
+INSERT INTO `ares_juris` VALUES('n8vln','GRR ',now());
+INSERT INTO `ares_juris` VALUES('ki8af','MQT ',now());
+INSERT INTO `ares_juris` VALUES('wa8efk','Sect',now());
+
+
+

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Position Manual</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2900615" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Position Manual</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id3034309" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>1. General Responsibilities</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="index.html#id3034309"/>
+        <ncx:navPoint id="id3121199" playOrder="3">
+          <ncx:navLabel>
+            <ncx:text>1.1. Team Objectives</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="index.html#id3121199"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2987724" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>1.2. Resource Needs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="index.html#id2987724"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3112708" playOrder="5">
+        <ncx:navLabel>
+          <ncx:text>2. Specific Duties</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ar01s02.html"/>
+        <ncx:navPoint id="id2977513" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>2.1. Checking In</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s02.html#id2977513"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3097407" playOrder="7">
+          <ncx:navLabel>
+            <ncx:text>2.2. Liaison with the station</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s02.html#id3097407"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2977299" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>2.3. Agency Announcements</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s02.html#id2977299"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3048008" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>2.4. Debrief</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s02.html#id3048008"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3049802" playOrder="10">
+        <ncx:navLabel>
+          <ncx:text>3. E-Team</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ar01s03.html"/>
+        <ncx:navPoint id="id2963266" playOrder="11">
+          <ncx:navLabel>
+            <ncx:text>3.1. Introduction</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s03.html#id2963266"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3108623" playOrder="12">
+          <ncx:navLabel>
+            <ncx:text>3.2. Logging On</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s03.html#id3108623"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2921757" playOrder="13">
+          <ncx:navLabel>
+            <ncx:text>3.3. Initial Duties</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s03.html#id2921757"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3033403" playOrder="14">
+          <ncx:navLabel>
+            <ncx:text>3.4. Repetitive Duties</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s03.html#id3033403"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3122395" playOrder="15">
+        <ncx:navLabel>
+          <ncx:text>A. SEOC Contacts</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apa.html"/>
+        <ncx:navPoint id="id3117448" playOrder="16">
+          <ncx:navLabel>
+            <ncx:text>A.1. Collins Road</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apa.html#id3117448"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3122492" playOrder="17">
+          <ncx:navLabel>
+            <ncx:text>A.2. Leadership Cell Phones</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3049866" playOrder="18">
+          <ncx:navLabel>
+            <ncx:text>A.3. MSP Contacts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas03.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2965520" playOrder="19">
+        <ncx:navLabel>
+          <ncx:text>B. District Map</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apb.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2992258" playOrder="20">
+        <ncx:navLabel>
+          <ncx:text>C. District Emergency Coordinators</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apc.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3028240" playOrder="21">
+        <ncx:navLabel>
+          <ncx:text>D. EC Contact Information</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apd.html"/>
+        <ncx:navPoint id="id3079652" playOrder="22">
+          <ncx:navLabel>
+            <ncx:text>D.1. District One</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apd.html#id3079652"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2914478" playOrder="23">
+          <ncx:navLabel>
+            <ncx:text>D.2. District Two</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2969220" playOrder="24">
+          <ncx:navLabel>
+            <ncx:text>D.3. District Three</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3054034" playOrder="25">
+          <ncx:navLabel>
+            <ncx:text>D.4. District Five</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3054502" playOrder="26">
+          <ncx:navLabel>
+            <ncx:text>D.5. District Six</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2963695" playOrder="27">
+          <ncx:navLabel>
+            <ncx:text>D.6. District Seven</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2967288" playOrder="28">
+          <ncx:navLabel>
+            <ncx:text>D.7. District Eight</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds07.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3051970" playOrder="29">
+        <ncx:navLabel>
+          <ncx:text>E. Revision History</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ape.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

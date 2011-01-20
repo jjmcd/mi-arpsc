@@ -1,0 +1,1311 @@
+Product SiteDocumentation Site
+
+RACES
+
+
+
+Position Manual
+===============
+
+
+RACES SEOC Representitive Duties
+--------------------------------
+
+
+[IMAGE]
+
+
+Michigan Section ARRL
+
+wb8rcr@arrl.net
+
+
+
+Legal Notice
+============
+
+CopyrightÂ© 2010, The Michigan Section of the American Radio Relay League
+The text of and illustrations in this document are licensed by the
+Michigan Section of the American Radio Relay League under a Creative
+Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+When the State Emergency Operations Center is activated, a RACES
+representative sits in the State EOC. This document outlines the duties
+of that representative. In addition, useful reference material is
+provided.
+
+------------------------------------------------------------------------
+
+1. General Responsibilities
+
+      1.1. Team Objectives
+
+      1.2. Resource Needs
+
+2. Specific Duties
+
+      2.1. Checking In
+
+      2.2. Liaison with the station
+
+      2.3. Agency Announcements
+
+      2.4. Debrief
+
+3. E-Team
+
+      3.1. Introduction
+
+      3.2. Logging On
+
+      3.3. Initial Duties
+
+      3.4. Repetitive Duties
+
+A. SEOC Contacts
+
+      A.1. Collins Road
+
+      A.2. Leadership Cell Phones
+
+      A.3. MSP Contacts
+
+B. District Map
+
+C. District Emergency Coordinators
+
+D. EC Contact Information
+
+      D.1. District One
+
+      D.2. District Two
+
+      D.3. District Three
+
+      D.4. District Five
+
+      D.5. District Six
+
+      D.6. District Seven
+
+      D.7. District Eight
+
+E. Revision History
+
+
+1.Â General Responsibilities
+----------------------------
+
+
+1.1.Â Team Objectives
+
+ARES/RACES is present at the SEOC to provide backup communications
+between the area of an incident or emergency and the various state
+agencies. The "agency coordinator" (SEC or alternate) sits in on the EOC
+proceedings and stays alert to communications needs of the other
+agencies. The station staff operates the radio station at the direction
+of the coordinator, but, depending on the incident status, may need to
+provide status information and/or direction to the coordinator. Because
+emergencies are by nature unpredictable, the specific actions taken by
+all team members must necessarily react to the incident. Leadership and
+creativity are required at all levels, and each participant must be
+willing to help the others as the need arises. In order to meet the
+communications needs of the incident, resources are required at the SEOC
+station as well as in the field. The station manager is responsible for
+recruiting operators for the SEOC station and marshalling those operators
+as needed. The Emergency Coordinator in the affected area is primarily
+responsible for local resources. However, should the capabilities of the
+local county be exceeded, the SEC or alternate must marshall additional
+resources, typically by contacting the DEC of the affected area, adjacent
+DECs or in some cases, nearby ECs directly.
+
+
+1.2.Â Resource Needs
+
+The SEC or alternate is the top ranking ARES official for the incident.
+As a consequence, it falls to him to ensure that the event is adequately
+staffed. Depending on the needs of the particular incident, this will
+require contacting other individuals around the state, and perhaps
+applying some persuasion to achieve the desired result. Most commonly,
+the SEC will contact the DEC for the area affected by the incident. The
+DEC is aware of the resources of the affected county and the surrounding
+counties. If the EC can be reached, he is typically the most able to
+respond quickly. However, when an incident is underway, the EC can often
+be difficult to reach. At times the local DEC is unreachable or has
+exhausted all resources. The SEC must then exploit the resources of other
+Districts. Nearby Districts are obviously preferred due to travel times,
+but any District may have the needed resources and must be considered.
+
+
+2.Â Specific Duties
+-------------------
+
+
+2.1.Â Checking In
+
+On arrival, sign in at the front door. The door to the downstairs
+stairway will be locked. If the rep or alternate does not have a pass
+card, an officer will escort him to the security station. The rep must
+pick up a badge at the security station outside the EOC room. Because of
+ovecrowding at the SEOC, RACES often does not have a designated position.
+Select a position that is available.
+
+
+2.2.Â Liaison with the station
+
+The rep's primary function is to provide a communications path between
+the station status and the various agencies.
+
+  *  Apprise the various agencies of the current station status if needed
+
+  *  Communicate the current status of the field situation, as understood
+    by the SEOC, to the station.
+
+  *  Alert the station of any communications needs of the agencies.
+
+If possible, spend some time with the operators prior to the exercise to
+understand the situation there. Ideally, the rep will have an HT and will
+agree with the station on an available frequency. Note that the station's
+VHF radio will likely be in use, so communication between the rep and the
+station will probably be HT to HT. If HTs are not available or do not
+work, the telephone may be used. Keep in mind, however, that the SEOC rep
+will likely not have the same number as in previous drills. Be sure the
+station has the number. Stay in regular touch with the station; be aware
+of their situation and whether they are in contact with the site. Keep
+them up to date as to site changes as announced in the SEOC.
+
+
+2.3.Â Agency Announcements
+
+Periodically, the IC or Ops Section Chief will ask for agency updates.
+Give a brief status of the station for each update. Keep in mind that the
+agency reps are non-technical, but most realize that we are their backup
+plan. Give a meaningful status without getting technical. Pay at least
+passing attention to the other agency reports. Should they need us our
+job will be eased if we at least have some familiarity with their
+situation. Consider updating the station with any interesting items from
+the other agencies. Depending on the drill and players, there may be EOCs
+on the converse bridge unaware of the situation at the site and in need
+of update.
+
+
+2.4.Â Debrief
+
+At the end of the exercise, there will be a debrief from all agencies.
+Prior to this check with the station operators to be sure you are aware
+of any contact with the site or nearby jurisdictions. Make a positive,
+brief presentation when asked. As usual, avoid technical details and
+focus on capability.
+
+
+3.Â E-Team
+----------
+
+
+3.1.Â Introduction
+
+As a general rule, the station staff maintains the RACES Situation Report
+(SitRep) since the SEC frequently does not have a terminal. However, if
+for some reason the station staff is unable to maintain the SitRep, it
+falls on the SEC or his delegate to do so. It is important to many
+agencies to be alert to the state of readiness of the RACES station.
+Agencies have discovered that their communications circuits are sometimes
+fragile, and they may require our services. An up to date and accurate
+SitRep gives them some confidence about our status. In any case, be sure
+the Agency SitRep is complete, accurate, and up to date.
+
+
+3.2.Â Logging On
+
+  *  Log on to E-Team using the password provided by the DIT rep
+    (typically Rich Law or Jacqueline Barcroft). They will usually log
+    you on.
+
+
+    Use SEOC-specific password
+    --------------------------
+
+    Â  Do not use your personal password when logging on at the SEOC.
+
+
+3.3.Â Initial Duties
+
+  *  Review the incident report
+
+  *  Add an Agency SitRep
+
+
+3.4.Â Repetitive Duties
+
+  *  Update the agency sitrep approximately hourly (generally the station
+    operators manage this).
+
+  *  Add Duty Log entries if needed
+
+  *  Review the incident report and other agency SitReps
+
+
+A.Â SEOC Contacts
+-----------------
+
+
+A.1.Â Collins Road
+
+  *  HF/VHF Phone Position - 517-336-3984
+
+  *  CW Position - 517-324-2381
+
+
+A.2.Â Leadership Cell Phones
+
+  *  SEC WB8RCR - 989-430-4855
+
+  *  ASEC N8ERF - 989-948-5427
+
+  *  SM - WA8EFK - 313-920-2785
+
+
+A.3.Â MSP Contacts
+
+The following are key Michigan State Police contacts. If these
+individuals are on duty, they will typically be in the SEOC:
+
+Operations Section Chief - Jim Porcello
+
+Director EMHSD - Capt. Thomas Sands
+
+Assistant Director EMHSD - Tony Katarski
+
+Logistics Section Chief - Tom Newell
+
+Incident Commander - F/Lt. Ralph Hobrat
+
+E-Team contact - Jaclyn Barcroft
+
+I/T assistance - Rich Law
+
+MSP Training Director - Dan Sibo
+
+Operations Director - Lt. Bonnie Kanicki-Wilson
+
+REP training contact - Sgt. Mardella Hohrn
+
+
+B.Â District Map
+----------------
+
+District Map District Map
+
+FigureÂ B.1.Â District Map
+
+
+C.Â District Emergency Coordinators
+-----------------------------------
+
+District
+
+Call
+
+Name
+
+Phone
+
+1
+
+K8YZA
+
+Joe Pullen
+
+517-263-2181
+
+2
+
+K8UP
+
+John Fleming
+
+248-542-9573
+
+3
+
+N8OSL
+
+Joe Tuscher
+
+810-908-3089
+
+5
+
+KB8FQJ
+
+Carl Flickinger
+
+269-873-7891
+
+6
+
+KB8VEE
+
+Tom van der Mel
+
+231-206-0422
+
+7
+
+WA8RLI
+
+Red Duggan
+
+586-413-2831
+
+8
+
+KG8NK
+
+Lou Gembolis
+
+906-485-5442
+
+APX
+
+KC8YTK
+
+Chris Stinson
+
+989-430-2375
+
+DTX
+
+N8ZSA
+
+Ted Davis
+
+248-842-4077
+
+GRR
+
+N8VLN
+
+Michael Gage
+
+616-538-0502
+
+MQT
+
+KI8AF
+
+Greg Hanson
+
+906-225-1594
+
+TableÂ C.1.Â District Emergency Coordinators
+
+
+D.Â EC Contact Information
+--------------------------
+
+
+D.1.Â District One
+
+District One District One Map
+
+FigureÂ D.1.Â District One
+
+
+County
+
+EC
+
+Contact
+
+Clinton
+
+David Oulette, WB8MWG
+
+  *  Â 
+
+Eaton
+
+Jeff Frank, N8HEE
+
+  *  Day Phone: 5175438200
+
+  *  Night Phone: 5175432643
+
+  *  Cell Phone: 5176673015
+
+  *  eMail: n8hee@n8hee.com
+
+  *  ampr.org address: n8hee@hamgate.eaton.ampr.org
+
+  *  repeater: 443.625 (100)
+
+Gratiot
+
+Bill Rogers, KC8OUF
+
+  *  Night Phone: 9896815349
+
+  *  eMail: kc8ouf@mail.com
+
+Hillsdale
+
+Daniel Sprow, KC8RYF
+
+  *  Day Phone: 5174373677
+
+  *  Night Phone: 5174371410
+
+  *  eMail: dsprow@comcast.net
+
+Ingham/ Lansing
+
+Thomas Shaver, KC8NJK
+
+  *  Night Phone: 5176481550
+
+  *  eMail: tom@cema.biz
+
+Jackson
+
+Tim Bair, WD8PMD
+
+  *  Â 
+
+Lenawee
+
+Joseph Pullen, K8YZA
+
+  *  Day Phone: 5175476794
+
+  *  Night Phone: 5172632181
+
+  *  Cell Phone: 5172601185
+
+  *  eMail: jpullen007@comcast.net
+
+Livingston
+
+Bruce Pollock, N8WWX
+
+  *  Day Phone: 5175407681
+
+  *  Night Phone: 7348780138
+
+  *  eMail: n8wwx_bruce@hotmail.com
+
+Shiawassee
+
+Thomas Carpenter, KI8AS
+
+  *  Night Phone: 5175790599
+
+  *  eMail: ki8as@charter.net
+
+TableÂ D.1.Â District One - Joseph Pullen, K8YZA
+
+
+D.2.Â District Two
+
+District Two District Two Map
+
+FigureÂ D.2.Â District Two
+
+
+County
+
+EC
+
+Contact
+
+Macomb
+
+Paul Reinhardt, KC8BDK
+
+  *  Day Phone: 5867381861
+
+Monroe
+
+Jerry Stone, WB7RUM
+
+  *  eMail: jerrys8410@verizon.net
+
+Oakland
+
+Larry A. Hornsby, Sr., KB8POD
+
+  *  Day Phone: 2488860855
+
+  *  Cell Phone: 2484212617
+
+  *  eMail: kb8pod@aol.com
+
+Saint Clair
+
+(vacant)
+
+Â 
+
+Washtenaw
+
+Doug Cox, N8ZLR
+
+  *  Day Phone: 7349364387
+
+  *  Night Phone: 7346650625
+
+  *  eMail: doug@dougcox.com
+
+Wayne
+
+Shanon Herron, KA8SPW
+
+  *  Night Phone: 7344219221
+
+  *  Cell Phone: 7342776724
+
+  *  eMail: ka8spw@sbcglobal.net
+
+TableÂ D.2.Â District Two - John Fleming, K8UP
+
+
+D.3.Â District Three
+
+District Three District Three Map
+
+FigureÂ D.3.Â District Three
+
+
+County
+
+EC
+
+Contact
+
+Alcona
+
+Stanley Darmofal, W8SZ
+
+  *  Day Phone: 9063780270
+
+  *  Night Phone: 9063873898
+
+  *  eMail: w8sz@arrl.net
+
+Arenac
+
+Lester Eichman, KD8ERK
+
+  *  Cell Phone: 4899424098
+
+  *  eMail: eichman@yahoo.com
+
+Bay
+
+Harold Beauchamp, KC8QMH
+
+  *  Day Phone: 9899921890
+
+  *  eMail: kc8qmh@arrl.net
+
+Genesee
+
+James E. Bowers, KD8IRG
+
+  *  Â 
+
+Gladwin
+
+Bruce Wagner, N8LYL
+
+  *  Night Phone: 9895392950
+
+  *  eMail: tinarrow@toast.net
+
+Huron
+
+(vacant)
+
+Â 
+
+Iosco
+
+Kelly Karpp, KB8RWG
+
+  *  Day Phone: 5177392911
+
+  *  Night Phone: 9897352091
+
+  *  eMail: kb8rwg@netzero.net
+
+  *  ampr.org address: kb8rwg@ioseoc.ampr.org
+
+Lapeer
+
+Tom Oliver, KD8EBY
+
+  *  Night Phone: 8104072461
+
+Midland
+
+John C. Wolters, W8QN
+
+  *  Day Phone: 9896361920
+
+  *  Night Phone: 9898329122
+
+  *  eMail: wb5pbl@aol.com
+
+Ogemaw
+
+Lester Eichman, KD8ERK
+
+  *  Cell Phone: 4899424098
+
+  *  eMail: eichman@yahoo.com
+
+Oscoda
+
+John Shearer, KC8CMQ
+
+  *  Day Phone: 9897867227
+
+Saginaw
+
+Ron Huss, KC8YVF
+
+  *  Day Phone: 9897992679
+
+  *  eMail: kc8yvf@rhuss.cncfamily.com
+
+Sanilac
+
+Theodore Davis, KF8ZO
+
+  *  Day Phone: 8106729504
+
+  *  Night Phone: 8106729504
+
+Tuscola
+
+Roger Edwards, WB8WJV
+
+  *  Day Phone: 9896735722
+
+TableÂ D.3.Â District Three - Joe Tuscher, N8OSL
+
+
+D.4.Â District Five
+
+District Five District Five Map
+
+FigureÂ D.4.Â District Five
+
+
+County
+
+EC
+
+Contact
+
+Allegan
+
+Jim Cance, AB8SF
+
+  *  Day Phone: 2696851189
+
+  *  Night Phone: 2696851189
+
+  *  eMail: jimandkarencance@att.net
+
+Barry
+
+(vacant)
+
+Â 
+
+Berrien
+
+Thomas Dumminger, KC8MGD
+
+  *  Day Phone: 2699236999
+
+  *  Night Phone: 2695560570
+
+  *  Cell Phone: 2698769619
+
+  *  eMail: tommyd578@sbcglobal.net
+
+Branch
+
+Larry Camp, WB8R
+
+  *  Night Phone: 5172780406
+
+  *  Cell Phone: 5176174883
+
+  *  eMail: wb8r@arrl.net
+
+Calhoun
+
+Dave Smith, KC8COT
+
+  *  Day Phone: 6169685006
+
+  *  eMail: kc8cotham@aol.com
+
+Cass
+
+(vacant)
+
+Â 
+
+Kalamazoo
+
+Art Snapper, NK8X
+
+  *  Day Phone: 2694918874
+
+  *  Day Phone: 6163723300
+
+  *  Night Phone: 2693723906
+
+  *  Night Phone: 6163818871
+
+  *  eMail: art@nk8x.net
+
+Saint Joseph
+
+Bill Douglas, AE8K
+
+  *  eMail: ae8k@arrl.net
+
+Van Buren
+
+Paul Reissmann, WD8MWT
+
+  *  Night Phone: 2696216138
+
+  *  Cell Phone: 2158177594
+
+  *  eMail: wd8mwt@comcast.net
+
+  *  repeater: 444.800+ 94.8 PL
+
+TableÂ D.4.Â District Five - Carl Flickinger, KB8FQJ
+
+
+D.5.Â District Six
+
+District Six District Six Map
+
+FigureÂ D.5.Â District Six
+
+
+County
+
+EC
+
+Contact
+
+Clare
+
+Richard J. Johnson, KA8DCJ
+
+  *  Day Phone: 9895397463
+
+  *  Day Phone: 9892204623
+
+  *  Cell Phone: 9894807342
+
+  *  eMail: ka8dcj@gmail.com
+
+Ionia
+
+Roger Packard, KD8KLI
+
+  *  Night Phone: 6165276410
+
+  *  Cell Phone: 6165402794
+
+  *  eMail: rpackard@hughes.net
+
+Isabella
+
+Gustave Glass, K8GUS
+
+  *  Day Phone: 9893390851
+
+  *  Night Phone: 9895883220
+
+Kent
+
+Jeffrey Nawrot, N8JSN
+
+  *  Day Phone: 6162911869
+
+  *  Night Phone: 6162911869
+
+  *  eMail: jnawrot@kcvrm.net
+
+Lake
+
+(vacant)
+
+Â 
+
+Mason
+
+Gary Berk, KC8MWF
+
+  *  Day Phone: 2318454219
+
+  *  Night Phone: 2318432945
+
+  *  eMail: kc8mwf@charter.net
+
+Mecosta
+
+Steve Cowan, KD8DHZ
+
+  *  Day Phone: 9893829452
+
+  *  eMail: doorman444@gmail.com
+
+Montcalm
+
+Paul Odem, KC8ZMO
+
+  *  Day Phone: 9896204605
+
+  *  Night Phone: 9893040340
+
+  *  eMail: rockyroster@yahoo.com
+
+Muskegon
+
+James Duram, K8COP
+
+  *  Day Phone: 2318286306
+
+  *  eMail: jimk8cop@afo.net
+
+  *  eMail: k8cop@arrl.net
+
+Newaygo
+
+Tim Deater, KC8MSE
+
+  *  Day Phone: 2319248806
+
+  *  Night Phone: 2318541694
+
+  *  eMail: kc8mse@gmail.com
+
+Oceana
+
+David Robertson, N8UKH
+
+  *  Day Phone: 2317981736
+
+  *  Night Phone: 2318541065
+
+  *  Pager: 2313150218
+
+  *  Nextel: 2312258569 131*538466*15
+
+Osceola
+
+Bill Kelso, N8NJA
+
+  *  Â 
+
+Ottawa
+
+Jim Miller, W8JRM
+
+  *  Day Phone: 6164027891
+
+  *  eMail: jrmiller@gmail.com
+
+TableÂ D.5.Â District Six - Tom VanderMel, KB8VEE
+
+
+D.6.Â District Seven
+
+District Seven District Seven Map
+
+FigureÂ D.6.Â District Seven
+
+
+County
+
+EC
+
+Contact
+
+Alpena
+
+John Thomas, N8JWH
+
+  *  Day Phone: 9898840292
+
+  *  Cell Phone: 9894644798
+
+  *  eMail: n8jwh@arrl.net
+
+Antrim
+
+Mike Cleary, W8VPC
+
+  *  Day Phone: 2135448181
+
+  *  eMail: xp1@torchlake.com
+
+Benzie
+
+Tom Schoonover, K8BTE
+
+  *  Day Phone: 2318824249
+
+  *  eMail: schooner@charter.net
+
+Charlevoix
+
+(vacant)
+
+Â 
+
+Cheboygan
+
+Charles J. Brew, N8NXP
+
+  *  Night Phone: 2314365570
+
+  *  Cell Phone: 2314996478
+
+  *  eMail: brewfire@upnorth.net
+
+Crawford
+
+Thomas 'Red' Duggan, WA8RLI
+
+  *  Day Phone: 8107772443
+
+  *  Day Phone: 9892752443
+
+  *  Night Phone: 9892533247
+
+  *  Cell Phone: 5864132831
+
+  *  eMail: wa8rli@arrl.net
+
+Emmet
+
+Charles P. Scott, N8DNX
+
+  *  Day Phone: 2314870692
+
+  *  Night Phone: 2313479941
+
+  *  Cell Phone: 2313304517
+
+  *  eMail: cscott@gaslightmedia.com
+
+  *  Pager: 2313304517@message.alltel.com
+
+Grand Traverse
+
+(vacant)
+
+Â 
+
+Kalkaska
+
+(vacant)
+
+Â 
+
+Leelanau
+
+Gerald Gorrell, W8WFN
+
+  *  Day Phone: 6163343793
+
+  *  eMail: w8wfn@aol.com
+
+Manistee
+
+(vacant)
+
+Â 
+
+Missaukee
+
+(vacant)
+
+Â 
+
+Montmorency
+
+George Brand, WA8SCO
+
+  *  Night Phone: 9893448607
+
+  *  Night Phone: 9893449762
+
+  *  Cell Phone: 9893701395
+
+  *  eMail: georgeb@i2k.com
+
+Otsego
+
+Richard Nelson, WB8AKH
+
+  *  Day Phone: 9899398020
+
+Presque Isle
+
+Michael Horn, WB8TQZ
+
+  *  Day Phone: 9897344170
+
+  *  Night Phone: 9897344956
+
+  *  eMail: wb8tqz@arrl.net
+
+Roscommon
+
+(vacant)
+
+Â 
+
+Wexford
+
+Thomas Warnock, WB8WIV
+
+  *  Â 
+
+TableÂ D.6.Â District Seven - Thomas 'Red' Duggan, WA8RLI
+
+
+D.7.Â District Eight
+
+District Eight District Eight Map
+
+FigureÂ D.7.Â District Eight
+
+
+County
+
+EC
+
+Contact
+
+Alger
+
+Raoul Revard, W8RDR
+
+  *  Day Phone: 9063871655
+
+  *  Night Phone: 9063871655
+
+  *  eMail: rrevord@jamadots.com
+
+Baraga
+
+Randall F. Bell, K8HRO
+
+  *  eMail: rfb@up.net
+
+Chippewa
+
+(vacant)
+
+Â 
+
+Delta
+
+Mark Seymour, N8XAH
+
+  *  Day Phone: 9067865911
+
+  *  Night Phone: 9062802062
+
+Dickinson
+
+Dennis Beurjey, KC8SWX
+
+  *  Â 
+
+Gogebic
+
+Andrew Tate, KD8EBO
+
+  *  Â 
+
+Houghton
+
+John Swift, N8WAV
+
+  *  Day Phone: 9064820530
+
+  *  Night Phone: 9064827766
+
+  *  eMail: jswift@up.net
+
+Iron
+
+James Rye, W8IFI
+
+  *  Night Phone: 9068753582
+
+  *  eMail: jimrye@up.net
+
+Keweenaw
+
+Gary Hansen, K8YSZ
+
+  *  Day Phone: 9063371436
+
+Luce
+
+David Dake, KC8QZG
+
+  *  eMail: daved@forestinsurancecenter.com
+
+Mackinac
+
+Ron Peterka, WA8OOH
+
+  *  Night Phone: 9066437133
+
+  *  eMail: wa8ooh@lighthouse.net
+
+Marquette
+
+Richard Schwenke, N8GBA
+
+  *  Day Phone: 9062493837
+
+  *  Night Phone: 9062493837
+
+  *  eMail: n8gba@chartermi.net
+
+Menominee
+
+Paul Sorensen, NS8V
+
+  *  Night Phone: 9068642551
+
+  *  eMail: royalfeathers@earthlink.net
+
+Ontonagon
+
+Alfred Trainer, KC8OCK
+
+  *  Â 
+
+Schoolcraft
+
+Howard A Baker, KD8DBF
+
+  *  Night Phone: 9064942557
+
+TableÂ D.7.Â District Eight - Lou Gembolis, KG8NK
+
+
+E.Â Revision History
+--------------------
+
+Revision History
+
+Revision 6
+
+Mon Jun 07 2010
+
+John McDonough
+
+Update phone numbers
+
+Revision 5
+
+Fri May 14 2010
+
+John McDonough
+
+Update Newaygo
+
+Update Clare
+
+Revision 4
+
+Mon Mar 01 2010
+
+John McDonough
+
+Additional phone numbers
+
+Rescale District 8 map
+
+Correct typos
+
+Remove draft status
+
+Revision 3
+
+Mon Feb 22 2010
+
+John McDonough
+
+Tweak some images for PDF
+
+Change format of Appendix D to allow for less wasted space
+
+Improve/correct E-Team chapter
+
+Revision 2
+
+Fri Feb 19 2010
+
+John McDonough
+
+Still more expanding of duties
+
+Tables of EC contact information
+
+District map
+
+Move reference materials to appendix
+
+Revision 1
+
+Wed Feb 17 2010
+
+John McDonough
+
+Additional details on duties
+
+DEC Contact Information
+
+Revision 0
+
+Wed Jan 27 2010
+
+John McDonough
+
+Initial creation of book by publican

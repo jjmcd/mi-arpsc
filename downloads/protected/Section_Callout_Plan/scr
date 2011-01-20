@@ -1,0 +1,87 @@
+cd /var/www/arpsc/downloads/protected/Section_Callout_Plan
+pwd
+#mkdir epub
+#mkdir html
+#mkdir html-single
+#mkdir pdf
+#mkdir txt
+#put ARPSC--Section_Callout_Plan-en-US.epub
+#cd txt
+#lcd txt
+#mput *.txt
+#cd ..
+#lcd..
+#cd pdf
+#lcd pdf
+#mput *
+#cd ..
+#lcd ..
+cd html-single
+lcd html-single
+mput *
+mkdir images
+mkdir Common_Content
+mkdir Common_Content/css
+mkdir Common_Content/images
+cd images
+lcd images
+mput *
+cd ../Common_Content/css
+lcd ../Common_Content/css
+mput *
+cd ../images
+lcd ../images
+mput *
+cd ../../../html
+lcd ../../../html
+mput *
+mkdir images
+mkdir Common_Content
+mkdir Common_Content/css
+mkdir Common_Content/images
+cd images
+lcd images
+mput *
+cd ../Common_Content/css
+lcd ../Common_Content/css
+mput *
+cd ../images
+lcd ../images
+mput *
+cd ../../../epub
+lcd ../../../epub
+mput *
+mkdir META-INF
+cd META-INF
+lcd META-INF
+mput *
+cd ..
+lcd ..
+mkdir OEBPS
+cd OEBPS
+lcd OEBPS
+mput *
+mkdir images
+cd images
+lcd images
+mput *
+cd ..
+lcd ..
+mkdir Common_Content
+mkdir Common_Content/css
+mkdir Common_Content/images
+cd images
+lcd images
+mput *
+cd ../Common_Content/css
+lcd ../Common_Content/css
+mput *
+cd ../images
+lcd ../images
+mput *
+
+
+
+
+
+bye

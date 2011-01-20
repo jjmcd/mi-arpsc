@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Section Callout Plan</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id3046420" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Section Callout Plan</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id3058520" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>1. Notifying the SEC</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="index.html#id3058520"/>
+        <ncx:navPoint id="id3058498" playOrder="3">
+          <ncx:navLabel>
+            <ncx:text>1.1. Statewide Events</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="index.html#id3058498"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3058552" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>1.2. Local/Regional events</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="index.html#id3058552"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3058569" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>1.3. SEOC Station Activation</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="index.html#id3058569"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3058584" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>1.4. SEC Staff Notification</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="index.html#id3058584"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3058598" playOrder="7">
+        <ncx:navLabel>
+          <ncx:text>2. Notifying the Districts</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ar01s02.html"/>
+        <ncx:navPoint id="id3058026" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>2.1. National Weather Service Offices</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s02.html#id3058026"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3058040" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>2.2. Regional and Local Incidents</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s02.html#id3058040"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3058055" playOrder="10">
+          <ncx:navLabel>
+            <ncx:text>2.3. DEC Contact Information</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s02.html#id3058055"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3156082" playOrder="11">
+        <ncx:navLabel>
+          <ncx:text>3. Notifying the Nets</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ar01s03.html"/>
+        <ncx:navPoint id="id3156096" playOrder="12">
+          <ncx:navLabel>
+            <ncx:text>3.1. Net manager contact information</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ar01s03.html#id3156096"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3134118" playOrder="13">
+        <ncx:navLabel>
+          <ncx:text>A. Revision History</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-Section_Callout_Plan-Revision_History.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

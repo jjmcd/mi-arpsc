@@ -47,7 +47,8 @@
 	  "</option>\n";
       }
     echo "          </select>\n";
-    echo "          &nbsp;Freq: <input name=\"freq\" type=\"text\" /></p>\n";
+    echo "          &nbsp;Freq: <input name=\"freq\" type=\"text\" " .
+      "size=\"6\" maxlength=\"7\" /></p>\n";
     echo "          <input type=\"hidden\" name=\"district\" value=\"" . 
       $district . "\">\n";
     echo "          <p><input type=\"submit\" name=\"Submit\" " .

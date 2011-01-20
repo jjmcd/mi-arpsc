@@ -1,0 +1,5 @@
+AuthUserFile /var/www/html/arpsc/protected/.htpasswd
+AuthGroupFile /dev/null
+AuthName arpsc
+AuthType Basic
+require valid-user
