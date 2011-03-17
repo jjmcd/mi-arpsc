@@ -104,10 +104,10 @@ $black = ImageColorAllocate( $image, 0, 0, 0);
 $dark = ImageColorAllocate( $image, 160, 160, 160);
 $ltgray = ImageColorAllocate( $image, 220, 220, 220);
 $line = ImageColorAllocate( $image, 0, 0, 0);
-$line1 = ImageColorAllocate( $image, 192, 0, 0);
+$line1 = ImageColorAllocate( $image, 224, 0, 0);
 $line2 = ImageColorAllocate( $image, 0, 192, 0);
 $line3 = ImageColorAllocate( $image, 0, 0, 224);
-$line4 = ImageColorAllocate( $image, 224, 128, 0);
+$line4 = ImageColorAllocate( $image, 224, 224, 0);
 // Fill the graph area with a pale blue
 ImageFilledRectangle($image, $gl, $gt, $gr, $gb, $paleblue);
 

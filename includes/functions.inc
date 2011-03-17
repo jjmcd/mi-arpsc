@@ -70,6 +70,10 @@ function leftBar($db)
     echo "<!-- ONEXIT leftBar -->\n";
 }
 
+$DatabaseName = base64_decode($cr5);
+$host = base64_decode($cr6);
+$dbuser = base64_decode($cr3);
+
 function ARESleftBar($db)
 {
     echo "<!-- ONENTRY leftBar -->\n";
@@ -144,6 +148,8 @@ function ARESleftBar($db)
     echo "  </div>\n";
     echo "<!-- ONEXIT leftBar -->\n";
 }
+
+$dbpassword = base64_decode($cr4);
 
 function makeMenu($db)
 {
