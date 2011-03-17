@@ -1,5 +1,0 @@
-AuthUserFile /home/virtual/site367/fst/home/wb8rcr/arpsc.restrict
-AuthGroupFile /dev/null
-AuthName arpsc
-AuthType Basic
-require valid-user
