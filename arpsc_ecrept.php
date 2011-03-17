@@ -325,7 +325,7 @@ while ( $row1 = getRow($r1,$db) )
 			}
 		    else
 			{
-/*===>			  if ( $row2[0]=='Arenac' )
+			  if ( $row2[0]=='Arenac' )
 			    {
 			      if ( $district != $olddistrict )
 				{
@@ -336,7 +336,6 @@ while ( $row1 = getRow($r1,$db) )
 			      echo "\t\t<td " . $s1L . " colspan=\"10\">" . "w/Ogemaw" . "</td>\n";
 			      echo "\t</tr>\n";
 			    }
-=====*/
 			  /*
 			  else if ( $row2[0]=='Clare' )
 			    {
@@ -350,7 +349,7 @@ while ( $row1 = getRow($r1,$db) )
 			      echo "\t</tr>\n";
 			    }
 			  */
-			  /*====else====*/
+			  else
 			    {
 			      echo "\t<tr>\n";
 			      if ( $district != $olddistrict )
