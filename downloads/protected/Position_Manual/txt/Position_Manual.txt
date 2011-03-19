@@ -11,6 +11,8 @@ Position Manual
 RACES SEOC Representitive Duties
 --------------------------------
 
+Edition 12
+
 
 [IMAGE]
 
@@ -19,13 +21,15 @@ Michigan Section ARRL
 
 wb8rcr@arrl.net
 
+------------------------------------------------------------------------
+
 
 
 Legal Notice
 ============
 
-CopyrightÂ© 2010, The Michigan Section of the American Radio Relay League
-The text of and illustrations in this document are licensed by the
+CopyrightÂ© 2010-2012, The Michigan Section of the American Radio Relay
+League The text of and illustrations in this document are licensed by the
 Michigan Section of the American Radio Relay League under a Creative
 Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
 explanation of CC-BY-SA is available at
@@ -104,14 +108,23 @@ D. EC Contact Information
 
       D.7. District Eight
 
-E. Revision History
+E. Net Manager Contact Information
+
+F. MARS Contact Information
+
+G. Revision History
 
 
-1.Â General Responsibilities
-----------------------------
+ChapterÂ 1.Â General Responsibilities
+-------------------------------------
+
+1.1. Team Objectives
+
+1.2. Resource Needs
 
 
 1.1.Â Team Objectives
+---------------------
 
 ARES/RACES is present at the SEOC to provide backup communications
 between the area of an incident or emergency and the various state
@@ -135,6 +148,7 @@ DECs or in some cases, nearby ECs directly.
 
 
 1.2.Â Resource Needs
+--------------------
 
 The SEC or alternate is the top ranking ARES official for the incident.
 As a consequence, it falls to him to ensure that the event is adequately
@@ -151,11 +165,20 @@ Districts. Nearby Districts are obviously preferred due to travel times,
 but any District may have the needed resources and must be considered.
 
 
-2.Â Specific Duties
--------------------
+ChapterÂ 2.Â Specific Duties
+----------------------------
+
+2.1. Checking In
+
+2.2. Liaison with the station
+
+2.3. Agency Announcements
+
+2.4. Debrief
 
 
 2.1.Â Checking In
+-----------------
 
 On arrival, sign in at the front door. The door to the downstairs
 stairway will be locked. If the rep or alternate does not have a pass
@@ -166,6 +189,7 @@ Select a position that is available.
 
 
 2.2.Â Liaison with the station
+------------------------------
 
 The rep's primary function is to provide a communications path between
 the station status and the various agencies.
@@ -190,6 +214,7 @@ them up to date as to site changes as announced in the SEOC.
 
 
 2.3.Â Agency Announcements
+--------------------------
 
 Periodically, the IC or Ops Section Chief will ask for agency updates.
 Give a brief status of the station for each update. Keep in mind that the
@@ -204,6 +229,7 @@ of update.
 
 
 2.4.Â Debrief
+-------------
 
 At the end of the exercise, there will be a debrief from all agencies.
 Prior to this check with the station operators to be sure you are aware
@@ -212,11 +238,20 @@ brief presentation when asked. As usual, avoid technical details and
 focus on capability.
 
 
-3.Â E-Team
-----------
+ChapterÂ 3.Â E-Team
+-------------------
+
+3.1. Introduction
+
+3.2. Logging On
+
+3.3. Initial Duties
+
+3.4. Repetitive Duties
 
 
 3.1.Â Introduction
+------------------
 
 As a general rule, the station staff maintains the RACES Situation Report
 (SitRep) since the SEC frequently does not have a terminal. However, if
@@ -230,6 +265,7 @@ the Agency SitRep is complete, accurate, and up to date.
 
 
 3.2.Â Logging On
+----------------
 
   *  Log on to E-Team using the password provided by the DIT rep
     (typically Rich Law or Jacqueline Barcroft). They will usually log
@@ -239,10 +275,13 @@ the Agency SitRep is complete, accurate, and up to date.
     Use SEOC-specific password
     --------------------------
 
-    Â  Do not use your personal password when logging on at the SEOC.
+    Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Do not use your
+    personal password when logging on at Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+    Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  the SEOC.
 
 
 3.3.Â Initial Duties
+--------------------
 
   *  Review the incident report
 
@@ -250,6 +289,7 @@ the Agency SitRep is complete, accurate, and up to date.
 
 
 3.4.Â Repetitive Duties
+-----------------------
 
   *  Update the agency sitrep approximately hourly (generally the station
     operators manage this).
@@ -259,11 +299,13 @@ the Agency SitRep is complete, accurate, and up to date.
   *  Review the incident report and other agency SitReps
 
 
-A.Â SEOC Contacts
------------------
+
+SEOC Contacts
+=============
 
 
 A.1.Â Collins Road
+------------------
 
   *  HF/VHF Phone Position - 517-336-3984
 
@@ -271,15 +313,17 @@ A.1.Â Collins Road
 
 
 A.2.Â Leadership Cell Phones
+----------------------------
 
   *  SEC WB8RCR - 989-430-4855
 
   *  ASEC N8ERF - 989-948-5427
 
-  *  SM - WA8EFK - 313-920-2785
+  *  SM - WB8R - 517-617-4883
 
 
 A.3.Â MSP Contacts
+------------------
 
 The following are key Michigan State Police contacts. If these
 individuals are on duty, they will typically be in the SEOC:
@@ -290,7 +334,7 @@ Director EMHSD - Capt. Thomas Sands
 
 Assistant Director EMHSD - Tony Katarski
 
-Logistics Section Chief - Tom Newell
+Logistics Section Chief - Carol Wolfinger
 
 Incident Commander - F/Lt. Ralph Hobrat
 
@@ -298,23 +342,27 @@ E-Team contact - Jaclyn Barcroft
 
 I/T assistance - Rich Law
 
-MSP Training Director - Dan Sibo
+MSP Training Director - Carol Wolfinger
+
+MSP Facilities - Communications - Don Bouffard
 
 Operations Director - Lt. Bonnie Kanicki-Wilson
 
 REP training contact - Sgt. Mardella Hohrn
 
 
-B.Â District Map
-----------------
+
+District Map
+============
 
 District Map District Map
 
 FigureÂ B.1.Â District Map
 
 
-C.Â District Emergency Coordinators
------------------------------------
+
+District Emergency Coordinators
+===============================
 
 District
 
@@ -330,15 +378,17 @@ K8YZA
 
 Joe Pullen
 
-517-263-2181
+  *  Mobile: 517-260-1185
+
+  *  Home: 517-547-6794
 
 2
 
-K8UP
+WF5X
 
-John Fleming
+Randy Love
 
-248-542-9573
+  *  Mobile: 586-803-1967
 
 3
 
@@ -346,7 +396,9 @@ N8OSL
 
 Joe Tuscher
 
-810-908-3089
+  *  Mobile: 810-908-3089
+
+  *  Home: 810-742-3866
 
 5
 
@@ -354,7 +406,9 @@ KB8FQJ
 
 Carl Flickinger
 
-269-873-7891
+  *  Mobile: 269-873-7891
+
+  *  Home: 269-685-8277
 
 6
 
@@ -362,7 +416,7 @@ KB8VEE
 
 Tom van der Mel
 
-231-206-0422
+  *  Mobile: 231-206-0422
 
 7
 
@@ -370,7 +424,11 @@ WA8RLI
 
 Red Duggan
 
-586-413-2831
+  *  Home: 989-275-2443
+
+  *  Mobile: 586-413-2831
+
+  *  Pager: 9892533247@arch.net
 
 8
 
@@ -378,15 +436,15 @@ KG8NK
 
 Lou Gembolis
 
-906-485-5442
+  *  Home: 906-485-5442
 
 APX
 
-KC8YTK
+WD8DX
 
-Chris Stinson
+Jeff Morey
 
-989-430-2375
+  *  Mobile: 989-390-1133
 
 DTX
 
@@ -394,7 +452,9 @@ N8ZSA
 
 Ted Davis
 
-248-842-4077
+  *  Mobile: 248-628-2747
+
+  *  Mobile: 248-842-4077
 
 GRR
 
@@ -402,7 +462,7 @@ N8VLN
 
 Michael Gage
 
-616-538-0502
+  *  Home: 616-538-0502
 
 MQT
 
@@ -410,16 +470,18 @@ KI8AF
 
 Greg Hanson
 
-906-225-1594
+  *  Home: 906-225-1594
 
 TableÂ C.1.Â District Emergency Coordinators
 
 
-D.Â EC Contact Information
---------------------------
+
+EC Contact Information
+======================
 
 
 D.1.Â District One
+------------------
 
 District One District One Map
 
@@ -474,11 +536,11 @@ Daniel Sprow, KC8RYF
 
 Ingham/ Lansing
 
-Thomas Shaver, KC8NJK
+Jim Hannahs, KC8QWH
 
-  *  Night Phone: 5176481550
+  *  Day Phone: 517-589-8346
 
-  *  eMail: tom@cema.biz
+  *  eMail: ginhannahs@gmail.com
 
 Jackson
 
@@ -506,7 +568,7 @@ Bruce Pollock, N8WWX
 
   *  Night Phone: 7348780138
 
-  *  eMail: n8wwx_bruce@hotmail.com
+  *  eMail: n8wwx@yahoo.com
 
 Shiawassee
 
@@ -520,6 +582,7 @@ TableÂ D.1.Â District One - Joseph Pullen, K8YZA
 
 
 D.2.Â District Two
+------------------
 
 District Two District Two Map
 
@@ -540,19 +603,21 @@ Paul Reinhardt, KC8BDK
 
 Monroe
 
-Jerry Stone, WB7RUM
+Mike Hall, K8MLH
 
-  *  eMail: jerrys8410@verizon.net
+  *  Cell Phone: 734-625-5082
+
+  *  eMail: mhall54@chartermi.net
 
 Oakland
 
-Larry A. Hornsby, Sr., KB8POD
+Jim Richards, AB8JR
 
-  *  Day Phone: 2488860855
+  *  Night Phone: 2488515623
 
-  *  Cell Phone: 2484212617
+  *  Cell Phone: 2483183842
 
-  *  eMail: kb8pod@aol.com
+  *  eMail: ab8jr@arrl.net
 
 Saint Clair
 
@@ -580,10 +645,11 @@ Shanon Herron, KA8SPW
 
   *  eMail: ka8spw@sbcglobal.net
 
-TableÂ D.2.Â District Two - John Fleming, K8UP
+TableÂ D.2.Â District Two - Randy Love, WF5X
 
 
 D.3.Â District Three
+--------------------
 
 District Three District Three Map
 
@@ -600,39 +666,39 @@ Alcona
 
 Stanley Darmofal, W8SZ
 
-  *  Day Phone: 9063780270
-
-  *  Night Phone: 9063873898
+  *  Day Phone: 9897245550
 
   *  eMail: w8sz@arrl.net
 
 Arenac
 
-Lester Eichman, KD8ERK
+Charles Rood, AB8SY
 
-  *  Cell Phone: 4899424098
+  *  Day Phone: 9898468331
 
-  *  eMail: eichman@yahoo.com
+  *  eMail: ab8sy@att.net
 
 Bay
 
-Harold Beauchamp, KC8QMH
+Dean Bass, KC8BGK
 
-  *  Day Phone: 9899921890
+  *  Night Phone: 9896844044
 
-  *  eMail: kc8qmh@arrl.net
+  *  eMail: kc8bgk@arrl.net
 
 Genesee
 
-James E. Bowers, KD8IRG
+Tony Bryant, KD8LCN
 
-  *  Â 
+  *  Cell Phone: 8109554852
+
+  *  eMail: kdlcn@yahoo.com
 
 Gladwin
 
 Bruce Wagner, N8LYL
 
-  *  Night Phone: 9895392950
+  *  Night Phone: 9897413313
 
   *  eMail: tinarrow@toast.net
 
@@ -646,11 +712,11 @@ Iosco
 
 Kelly Karpp, KB8RWG
 
-  *  Day Phone: 5177392911
-
   *  Night Phone: 9897352091
 
-  *  eMail: kb8rwg@netzero.net
+  *  Cell Phone: 9892862415
+
+  *  eMail: kb8rwg@cynergycomm.net
 
   *  ampr.org address: kb8rwg@ioseoc.ampr.org
 
@@ -658,37 +724,43 @@ Lapeer
 
 Tom Oliver, KD8EBY
 
-  *  Night Phone: 8104072461
+  *  Night Phone: 8102473227
+
+  *  eMail: frycapt@att.net
 
 Midland
 
 John C. Wolters, W8QN
 
-  *  Day Phone: 9896361920
-
   *  Night Phone: 9898329122
 
-  *  eMail: wb5pbl@aol.com
+  *  eMail: w8qn@aol.com
 
 Ogemaw
 
-Lester Eichman, KD8ERK
+Chris Barbb, W8COP
 
-  *  Cell Phone: 4899424098
+  *  Day Phone: 9896853120
 
-  *  eMail: eichman@yahoo.com
+  *  eMail: w8cop@yahoo.com
 
 Oscoda
 
-John Shearer, KC8CMQ
+Al Bickford, KD8CLM
 
-  *  Day Phone: 9897867227
+  *  Night Phone: 9898263132
+
+  *  Cell Phone: 9893706077
+
+  *  eMail: bickford@surfbest.net
 
 Saginaw
 
 Ron Huss, KC8YVF
 
   *  Day Phone: 9897992679
+
+  *  Cell Phone: 9897512693
 
   *  eMail: kc8yvf@rhuss.cncfamily.com
 
@@ -700,16 +772,21 @@ Theodore Davis, KF8ZO
 
   *  Night Phone: 8106729504
 
+  *  eMail: kf8zo@speedconnect.com
+
 Tuscola
 
 Roger Edwards, WB8WJV
 
   *  Day Phone: 9896735722
 
+  *  eMail: wb8wjv@bigtube.net
+
 TableÂ D.3.Â District Three - Joe Tuscher, N8OSL
 
 
 D.4.Â District Five
+-------------------
 
 District Five District Five Map
 
@@ -730,13 +807,13 @@ Jim Cance, AB8SF
 
   *  Night Phone: 2696851189
 
-  *  eMail: jimandkarencance@att.net
+  *  eMail: jimandkarencance@gmail.com
 
 Barry
 
-(vacant)
+Ron Yeo, KC8SFQ
 
-Â 
+  *  eMail: kc8sfq@arrl.net
 
 Berrien
 
@@ -752,21 +829,21 @@ Thomas Dumminger, KC8MGD
 
 Branch
 
-Larry Camp, WB8R
+Jan Hayden, KD8CYW
 
-  *  Night Phone: 5172780406
+  *  Day Phone: 5178129009
 
-  *  Cell Phone: 5176174883
+  *  Night Phone: 5176394488
 
-  *  eMail: wb8r@arrl.net
+  *  eMail: kd8cyw@arrl.net
 
 Calhoun
 
-Dave Smith, KC8COT
+W. Kenneth Nierman, KC8QNQ
 
-  *  Day Phone: 6169685006
+  *  Day Phone: 2699640579
 
-  *  eMail: kc8cotham@aol.com
+  *  eMail: kc8qnq@arrl.net
 
 Cass
 
@@ -810,6 +887,7 @@ TableÂ D.4.Â District Five - Carl Flickinger, KB8FQJ
 
 
 D.5.Â District Six
+------------------
 
 District Six District Six Map
 
@@ -832,7 +910,7 @@ Richard J. Johnson, KA8DCJ
 
   *  Cell Phone: 9894807342
 
-  *  eMail: ka8dcj@gmail.com
+  *  eMail: ka8dcj@charter.net
 
 Ionia
 
@@ -880,21 +958,23 @@ Gary Berk, KC8MWF
 
 Mecosta
 
-Steve Cowan, KD8DHZ
+G Thomas Behler, KB8TYJ
 
-  *  Day Phone: 9893829452
+  *  Day Phone: 2315929854
 
-  *  eMail: doorman444@gmail.com
+  *  Night Phone: 2315929854
+
+  *  eMail: kb8tyj@arrl.net
 
 Montcalm
 
-Paul Odem, KC8ZMO
+Blaine Jenks, KD8DQA
 
-  *  Day Phone: 9896204605
+  *  Day Phone: 989-831-8939
 
-  *  Night Phone: 9893040340
+  *  Night Phone: 616-894-0954
 
-  *  eMail: rockyroster@yahoo.com
+  *  eMail: kd8dqa@gmail.com
 
 Muskegon
 
@@ -936,16 +1016,17 @@ Bill Kelso, N8NJA
 
 Ottawa
 
-Jim Miller, W8JRM
+Jason MacKay, KC8OVS
 
-  *  Day Phone: 6164027891
+  *  Cell Phone: 616-212-8659
 
-  *  eMail: jrmiller@gmail.com
+  *  eMail: ocecdec@gmail.com
 
 TableÂ D.5.Â District Six - Tom VanderMel, KB8VEE
 
 
 D.6.Â District Seven
+--------------------
 
 District Seven District Seven Map
 
@@ -1030,9 +1111,9 @@ Charles P. Scott, N8DNX
 
 Grand Traverse
 
-(vacant)
+Ernest Abel, K8RCT
 
-Â 
+  *  Â 
 
 Kalkaska
 
@@ -1104,6 +1185,7 @@ TableÂ D.6.Â District Seven - Thomas 'Red' Duggan, WA8RLI
 
 
 D.7.Â District Eight
+--------------------
 
 District Eight District Eight Map
 
@@ -1134,9 +1216,9 @@ Randall F. Bell, K8HRO
 
 Chippewa
 
-(vacant)
+Ronald L Munro, KC8ZGB
 
-Â 
+  *  eMail: munro@centurytel.net
 
 Delta
 
@@ -1190,11 +1272,11 @@ David Dake, KC8QZG
 
 Mackinac
 
-Ron Peterka, WA8OOH
+Ron Peterka, W8DR
 
   *  Night Phone: 9066437133
 
-  *  eMail: wa8ooh@lighthouse.net
+  *  eMail: w8dr@lighthouse.net
 
 Marquette
 
@@ -1229,10 +1311,229 @@ Howard A Baker, KD8DBF
 TableÂ D.7.Â District Eight - Lou Gembolis, KG8NK
 
 
-E.Â Revision History
---------------------
+
+Net Manager Contact Information
+===============================
+
+Net Acronym
+
+Net Name
+
+Net Manager
+
+Call
+
+Contact Information
+
+QMN
+
+The Michigan Net
+
+Anne Travis
+
+K8AE
+
+  *  Home: 313-563-0177
+
+MITN
+
+Michigan Traffic Net
+
+Jeff Miller
+
+WB8WKQ
+
+  *  Home: 248-628-3719
+
+  *  Mobile: 248-330-0335
+
+GLETN
+
+Great Lakes Emergency and Traffic Net
+
+Grant Watson
+
+K8VFZ
+
+  *  Home: 810-982-7488
+
+MACS
+
+Michigan Amateur Communications System
+
+John Wehmer
+
+WB9JSR
+
+  *  Home: 616-847-6409
+
+  *  Mobile: 616-502-4800
+
+MDTN
+
+Michigan Digital Traffic Net
+
+Ed Bassett
+
+N8FVM
+
+  *  Home: 989-821-7729
+
+UP
+
+Upper Peninsula Net
+
+Aileen Gagnon
+
+WA8DHB
+
+  *  Home: 906-428-9789
+
+MVTN
+
+Michigan VHF Traffic Net
+
+Flora Jean Young
+
+AC8AR
+
+  *  Home: 231-893-3341
+
+SEMTN
+
+Southeast Michigan Traffic Net
+
+Jeff Miller
+
+WB8WKQ
+
+  *  Home: 248-628-3719
+
+  *  Mobile: 248-330-0335
+
+TMMTN
+
+Thumb and Mid-Michigan Traffic Net
+
+Grant Watson
+
+K8VFZ
+
+  *  Home: 810-982-7488
+
+TableÂ E.1.Â Net Manager Contact Information
+
+
+
+MARS Contact Information
+========================
+
+Position
+
+Name
+
+Call
+
+MARS Call
+
+Contact Information
+
+State MARS Director
+
+Dave Bock
+
+W8OHS
+
+AAA5MI
+
+  *  Home: 586-943-5381
+
+  *  Email: bock@marketcommander.com
+
+Interoperability Officer
+
+Joe Bell
+
+WD8USA
+
+AAM5IMI
+
+  *  Home: 616-866-3801
+
+  *  Email: wd8usa@aol.com
+
+SEOC Contact
+
+Jim Harvey
+
+KA8DDQ
+
+AAT5CA
+
+  *  Home: 517-394-5254
+
+  *  Email: harvey.cavalry@att.net
+
+  *  Also E-Team targeted alerts
+
+TableÂ F.1.Â MARS Contact Information
+
+
 
 Revision History
+================
+
+Revision History
+
+Revision 12
+
+Fri Jan 27 2012
+
+John McDonough
+
+Update contact information
+
+Revision 11
+
+Mon Jan 9 2012
+
+John McDonough
+
+Update contact information
+
+Revision 10
+
+Wed Feb 23 2011
+
+John McDonough
+
+Additional contact information for DECs, NMs
+
+Revision 9
+
+Wed Feb 23 2011
+
+John McDonough
+
+Convert to book so paging correct
+
+Revision 8
+
+Tue Feb 22 2011
+
+John McDonough
+
+Add Net Manager contact information
+
+Add MARS contact information
+
+Revision 7
+
+Mon Jan 31 2011
+
+John McDonough
+
+Update contact information
 
 Revision 6
 
@@ -1309,3 +1610,8 @@ Wed Jan 27 2010
 John McDonough
 
 Initial creation of book by publican
+
+
+
+For Official Use Only
+=====================

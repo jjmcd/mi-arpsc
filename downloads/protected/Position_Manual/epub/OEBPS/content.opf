@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="articleid">
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid">
   <metadata>
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="articleid">_id2900615</dc:identifier>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="bookid">_id2997584</dc:identifier>
     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Position Manual</dc:title>
     <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">When the State Emergency Operations Center is activated, a RACES representative sits in the State EOC. This document outlines the duties of that representative. In addition, useful reference material is provided.</dc:description>
     <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as=""/>
@@ -11,48 +11,68 @@
     <item id="ncxtoc" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
     <item media-type="text/css" id="css" href="Common_Content/css/default.css"/>
     <item media-type="text/css" id="print-css" href="Common_Content/css/print.css"/>
-    <item id="id2900615" href="index.html" media-type="application/xhtml+xml"/>
-    <item id="id2989785" href="Common_Content/images/title_logo.png" media-type="image/png"/>
-    <item id="id3112708" href="ar01s02.html" media-type="application/xhtml+xml"/>
-    <item id="id3049802" href="ar01s03.html" media-type="application/xhtml+xml"/>
-    <item id="id3122395" href="apa.html" media-type="application/xhtml+xml"/>
-    <item id="id3122492" href="apas02.html" media-type="application/xhtml+xml"/>
-    <item id="id3049866" href="apas03.html" media-type="application/xhtml+xml"/>
-    <item id="id2965520" href="apb.html" media-type="application/xhtml+xml"/>
-    <item id="id3112333" href="images/DistrictMap.png" media-type="image/png"/>
-    <item id="id2992258" href="apc.html" media-type="application/xhtml+xml"/>
-    <item id="id3028240" href="apd.html" media-type="application/xhtml+xml"/>
-    <item id="id3034861" href="images/DistrictOne.gif" media-type="image/gif"/>
-    <item id="id2914478" href="apds02.html" media-type="application/xhtml+xml"/>
-    <item id="id2914502" href="images/DistrictTwo.gif" media-type="image/gif"/>
-    <item id="id2969220" href="apds03.html" media-type="application/xhtml+xml"/>
-    <item id="id2969243" href="images/DistrictThree.gif" media-type="image/gif"/>
-    <item id="id3054034" href="apds04.html" media-type="application/xhtml+xml"/>
-    <item id="id3054057" href="images/DistrictFive.gif" media-type="image/gif"/>
-    <item id="id3054502" href="apds05.html" media-type="application/xhtml+xml"/>
-    <item id="id3054526" href="images/DistrictSix.gif" media-type="image/gif"/>
-    <item id="id2963695" href="apds06.html" media-type="application/xhtml+xml"/>
-    <item id="id2963719" href="images/DistrictSeven.gif" media-type="image/gif"/>
-    <item id="id2967288" href="apds07.html" media-type="application/xhtml+xml"/>
-    <item id="id2967311" href="images/DistrictEight.gif" media-type="image/gif"/>
-    <item id="id3051970" href="ape.html" media-type="application/xhtml+xml"/>
+    <item id="id2997584" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="id2814451" href="Common_Content/images/title_logo.png" media-type="image/png"/>
+    <item id="id2938715" href="ch01.html" media-type="application/xhtml+xml"/>
+    <item id="id3056182" href="ch01s02.html" media-type="application/xhtml+xml"/>
+    <item id="id2865445" href="ch02.html" media-type="application/xhtml+xml"/>
+    <item id="id3077071" href="ch02s02.html" media-type="application/xhtml+xml"/>
+    <item id="id2885462" href="ch02s03.html" media-type="application/xhtml+xml"/>
+    <item id="id3378213" href="ch02s04.html" media-type="application/xhtml+xml"/>
+    <item id="id3034478" href="ch03.html" media-type="application/xhtml+xml"/>
+    <item id="id3352427" href="ch03s02.html" media-type="application/xhtml+xml"/>
+    <item id="id2962774" href="ch03s03.html" media-type="application/xhtml+xml"/>
+    <item id="id3006703" href="ch03s04.html" media-type="application/xhtml+xml"/>
+    <item id="id3379595" href="apa.html" media-type="application/xhtml+xml"/>
+    <item id="id3016556" href="apas02.html" media-type="application/xhtml+xml"/>
+    <item id="id3029633" href="apas03.html" media-type="application/xhtml+xml"/>
+    <item id="id2864409" href="apb.html" media-type="application/xhtml+xml"/>
+    <item id="id2890398" href="images/DistrictMap.png" media-type="image/png"/>
+    <item id="id3054764" href="apc.html" media-type="application/xhtml+xml"/>
+    <item id="id2891910" href="apd.html" media-type="application/xhtml+xml"/>
+    <item id="id2867326" href="images/DistrictOne.gif" media-type="image/gif"/>
+    <item id="id2877778" href="apds02.html" media-type="application/xhtml+xml"/>
+    <item id="id2877801" href="images/DistrictTwo.gif" media-type="image/gif"/>
+    <item id="id3083612" href="apds03.html" media-type="application/xhtml+xml"/>
+    <item id="id3083635" href="images/DistrictThree.gif" media-type="image/gif"/>
+    <item id="id3425979" href="apds04.html" media-type="application/xhtml+xml"/>
+    <item id="id2865209" href="images/DistrictFive.gif" media-type="image/gif"/>
+    <item id="id3360119" href="apds05.html" media-type="application/xhtml+xml"/>
+    <item id="id3360142" href="images/DistrictSix.gif" media-type="image/gif"/>
+    <item id="id3012927" href="apds06.html" media-type="application/xhtml+xml"/>
+    <item id="id2874190" href="images/DistrictSeven.gif" media-type="image/gif"/>
+    <item id="id2882252" href="apds07.html" media-type="application/xhtml+xml"/>
+    <item id="id2842320" href="images/DistrictEight.gif" media-type="image/gif"/>
+    <item id="id2919200" href="ape.html" media-type="application/xhtml+xml"/>
+    <item id="id3147079" href="apf.html" media-type="application/xhtml+xml"/>
+    <item id="id3386815" href="apg.html" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncxtoc">
-    <itemref idref="id2900615"/>
-    <itemref idref="id3112708"/>
-    <itemref idref="id3049802"/>
-    <itemref idref="id3122395"/>
-    <itemref idref="id3122492"/>
-    <itemref idref="id3049866"/>
-    <itemref idref="id2965520"/>
-    <itemref idref="id2992258"/>
-    <itemref idref="id3028240"/>
-    <itemref idref="id2914478"/>
-    <itemref idref="id2969220"/>
-    <itemref idref="id3054034"/>
-    <itemref idref="id3054502"/>
-    <itemref idref="id2963695"/>
-    <itemref idref="id2967288"/>
-    <itemref idref="id3051970"/>
+    <itemref idref="id2997584"/>
+    <itemref idref="id2938715"/>
+    <itemref idref="id3056182"/>
+    <itemref idref="id2865445"/>
+    <itemref idref="id3077071"/>
+    <itemref idref="id2885462"/>
+    <itemref idref="id3378213"/>
+    <itemref idref="id3034478"/>
+    <itemref idref="id3352427"/>
+    <itemref idref="id2962774"/>
+    <itemref idref="id3006703"/>
+    <itemref idref="id3379595"/>
+    <itemref idref="id3016556"/>
+    <itemref idref="id3029633"/>
+    <itemref idref="id2864409"/>
+    <itemref idref="id3054764"/>
+    <itemref idref="id2891910"/>
+    <itemref idref="id2877778"/>
+    <itemref idref="id3083612"/>
+    <itemref idref="id3425979"/>
+    <itemref idref="id3360119"/>
+    <itemref idref="id3012927"/>
+    <itemref idref="id2882252"/>
+    <itemref idref="id2919200"/>
+    <itemref idref="id3147079"/>
+    <itemref idref="id3386815"/>
   </spine>
 </package>
