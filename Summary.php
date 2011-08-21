@@ -98,7 +98,7 @@ for ($i=0; $i<12; $i++)
     echo "      <tr>\n";
     $monthindex = ($p1 + $i) % 12;
     $year = 2000+(int)(($p1 + $i) / 12);
-    echo "        <td " . $class . "><a target=\"fsd\" href=\"http://www.mi-arpsc.org/arpsc_ecrept.php?period=" . ($p1 + $i) . "\">" . $monthlongnames[$monthindex] . " " . $year . "</a></td>\n";
+    echo "        <td " . $class . "><a target=\"fsd\" href=\"http://ares-mi.org/arpsc_ecrept.php?period=" . ($p1 + $i) . "\">" . $monthlongnames[$monthindex] . " " . $year . "</a></td>\n";
     echo "        <td " . $class . ">" . (int)($pshours[$i]) . "</td>\n";
     echo "        <td " . $class . ">" . (int)($emghours[$i]) . "</td>\n";
     echo "        <td " . $class . ">" . (int)($totalhours[$i]) . "</td>\n";
@@ -151,7 +151,7 @@ for ($i=0; $i<12; $i++)
     echo "      <tr>\n";
     $monthindex = ($p1 + $i) % 12;
     $year = 2000+(int)(($p1 + $i) / 12);
-    echo "        <td " . $class . "><a target=\"netreport\" href=\"http://www.mi-nts.org/netreport.php?period=" . ($p1 + $i) . "\">" . $monthlongnames[$monthindex] . " " . $year . "</a></td>\n";
+    echo "        <td " . $class . "><a target=\"netreport\" href=\"http://www.nts-mi.org/netreport.php?period=" . ($p1 + $i) . "\">" . $monthlongnames[$monthindex] . " " . $year . "</a></td>\n";
     echo "        <td " . $class . ">" . $qni . "</td>\n";
     echo "        <td " . $class . ">" . $qtc . "</td>\n";
     echo "        <td " . $class . ">" . (int)($qtr+0.5) . "</td>\n";
@@ -199,7 +199,7 @@ for ($i=0; $i<12; $i++)
     echo "      <tr>\n";
     $monthindex = ($p1 + $i) % 12;
     $year = 2000+(int)(($p1 + $i) / 12);
-    echo "        <td " . $class . "><a target=\"pshr\" href=\"http://www.mi-nts.org/pshr.php?period=" . ($p1 + $i) . "\">" . $monthlongnames[$monthindex] . " " . $year . "</a></td>\n";
+    echo "        <td " . $class . "><a target=\"pshr\" href=\"http://www.nts-mi.org/pshr.php?period=" . ($p1 + $i) . "\">" . $monthlongnames[$monthindex] . " " . $year . "</a></td>\n";
     echo "        <td " . $class . ">" . (int)($plan/5) . "</td>\n";
     echo "        <td " . $class . ">" . (int)($unplan/5) . "</td>\n";
     echo "        <td " . $class . ">" . (int)($score) . "</td>\n";
