@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Michigan 2010 Summary</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id4236004" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Michigan 2010 Summary</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2985664" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>1. Overview</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="index.html#sect-Overview"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3027108" playOrder="3">
+        <ncx:navLabel>
+          <ncx:text>2. Amateur Radio Emergency Service</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-ARES.html"/>
+        <ncx:navPoint id="id3045738" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>2.1. Organization</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-ARES.html#id3045738"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2950639" playOrder="5">
+        <ncx:navLabel>
+          <ncx:text>3. National Traffic System</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-NTS.html"/>
+        <ncx:navPoint id="id3076016" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>3.1. Organization</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-NTS.html#id3076016"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2842426" playOrder="7">
+        <ncx:navLabel>
+          <ncx:text>4. Individual Amateur Reporting</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-Individual.html"/>
+        <ncx:navPoint id="id2906470" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>4.1. Public Service Honor Roll</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-Individual.html#id2906470"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2806752" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>4.2. Station Activity Reports</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-Individual.html#id2806752"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2843301" playOrder="10">
+          <ncx:navLabel>
+            <ncx:text>4.3. Brass Pounder's League</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-Individual.html#id2843301"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2782077" playOrder="11">
+        <ncx:navLabel>
+          <ncx:text>5. New Media</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-NewMedia.html"/>
+        <ncx:navPoint id="id3011349" playOrder="12">
+          <ncx:navLabel>
+            <ncx:text>5.1. Electronic Mail</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-NewMedia.html#id3011349"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2857892" playOrder="13">
+          <ncx:navLabel>
+            <ncx:text>5.2. Web</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-NewMedia.html#id2857892"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2789235" playOrder="14">
+          <ncx:navLabel>
+            <ncx:text>5.3. Blogs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-NewMedia.html#id2789235"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2789254" playOrder="15">
+          <ncx:navLabel>
+            <ncx:text>5.4. Online Social Groups</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-NewMedia.html#id2789254"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2789283" playOrder="16">
+          <ncx:navLabel>
+            <ncx:text>5.5. Microblogging</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-NewMedia.html#id2789283"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2879336" playOrder="17">
+          <ncx:navLabel>
+            <ncx:text>5.6. Online Meetings</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-NewMedia.html#id2879336"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2879359" playOrder="18">
+          <ncx:navLabel>
+            <ncx:text>5.7. Wiki</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-NewMedia.html#id2879359"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3023532" playOrder="19">
+        <ncx:navLabel>
+          <ncx:text>6. Significant Incidents</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-Significant.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3007981" playOrder="20">
+        <ncx:navLabel>
+          <ncx:text>7. Exercises</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-Exercises.html"/>
+        <ncx:navPoint id="id3332501" playOrder="21">
+          <ncx:navLabel>
+            <ncx:text>7.1. State-sponsored exercises</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-Exercises.html#id3332501"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3022848" playOrder="22">
+          <ncx:navLabel>
+            <ncx:text>7.2. Section Exercises</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-Exercises.html#id3022848"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2832902" playOrder="23">
+          <ncx:navLabel>
+            <ncx:text>7.3. 2011 Exercise Plans</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-Exercises.html#id2832902"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2903027" playOrder="24">
+        <ncx:navLabel>
+          <ncx:text>8. Conferences</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-Conferences.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2941839" playOrder="25">
+        <ncx:navLabel>
+          <ncx:text>9. State Homeland Security Strategy</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-SHSS.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2820166" playOrder="26">
+        <ncx:navLabel>
+          <ncx:text>A. Revision History</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-Michigan_2010_Summary-Revision_History.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

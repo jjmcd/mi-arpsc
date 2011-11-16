@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="articleid">
+  <metadata>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="articleid">2010_id4236004</dc:identifier>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Michigan 2010 Summary</dc:title>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Working with state and local governments, as well as a wide variety of non-governmental agencies, Michigan amateurs participate in a wide range of public service and emergency preparedness activities. This report outlines the efforts of the 2010 calendar year.</dc:description>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as=""/>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+  </metadata>
+  <manifest>
+    <item id="ncxtoc" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+    <item media-type="text/css" id="css" href="Common_Content/css/default.css"/>
+    <item media-type="text/css" id="print-css" href="Common_Content/css/print.css"/>
+    <item id="id4236004" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="id3033104" href="Common_Content/images/title_logo.svg" media-type="image/svg+xml"/>
+    <item id="id3027108" href="sect-ARES.html" media-type="application/xhtml+xml"/>
+    <item id="id2868419" href="images/FSD212.png" media-type="image/png"/>
+    <item id="id2950639" href="sect-NTS.html" media-type="application/xhtml+xml"/>
+    <item id="id2862211" href="images/Netreport1.png" media-type="image/png"/>
+    <item id="id2842426" href="sect-Individual.html" media-type="application/xhtml+xml"/>
+    <item id="id2873732" href="images/PSHR.png" media-type="image/png"/>
+    <item id="id2834371" href="images/SAR-by-call.png" media-type="image/png"/>
+    <item id="id2782077" href="sect-NewMedia.html" media-type="application/xhtml+xml"/>
+    <item id="id3370043" href="images/ARPSC-website.png" media-type="image/png"/>
+    <item id="id2787056" href="images/Twitter.png" media-type="image/png"/>
+    <item id="id2879386" href="images/Wiki.png" media-type="image/png"/>
+    <item id="id3023532" href="sect-Significant.html" media-type="application/xhtml+xml"/>
+    <item id="id3007981" href="sect-Exercises.html" media-type="application/xhtml+xml"/>
+    <item id="id2903027" href="sect-Conferences.html" media-type="application/xhtml+xml"/>
+    <item id="id2941839" href="sect-SHSS.html" media-type="application/xhtml+xml"/>
+    <item id="id3291069" href="images/Library.png" media-type="image/png"/>
+    <item id="id2820166" href="appe-Michigan_2010_Summary-Revision_History.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncxtoc">
+    <itemref idref="id4236004"/>
+    <itemref idref="id3027108"/>
+    <itemref idref="id2950639"/>
+    <itemref idref="id2842426"/>
+    <itemref idref="id2782077"/>
+    <itemref idref="id3023532"/>
+    <itemref idref="id3007981"/>
+    <itemref idref="id2903027"/>
+    <itemref idref="id2941839"/>
+    <itemref idref="id2820166"/>
+  </spine>
+</package>

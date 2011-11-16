@@ -1,0 +1,98 @@
+a:link {
+	color:#0066cc;
+}
+
+a:visited {
+	color:#6699cc;
+}
+
+h1 {
+	color:#602000;
+}
+
+.producttitle {
+	background: #800 url(../images/h1-bg.png) top left repeat;
+}
+
+.section h1.title {
+	color:#602000;
+}
+
+
+h2,h3,h4,h5,h6 {
+	color:#602000;
+}
+
+.para {
+    margin-left: 10em;
+}
+
+.listitem .para {
+    margin-left: 0em;
+}
+
+h2.title {
+    color: black;
+    border-top: 4px solid black;
+    !border-bottom: solid;
+}
+
+h3.title {
+    border-top: 2px solid;
+}
+
+table {
+	border:1px solid #aaa;
+}
+
+table th {
+	background-color:#900;
+}
+
+table tr.even td {
+	background-color:#f5f5f5;
+}
+
+#title a {
+	height:54px;
+}
+
+.term{
+	color:midnightblue;
+}
+
+.revhistory table th {
+	color:midnightblue;
+}
+
+.edition {
+	color: midnightblue;
+}
+
+span.remark{
+	background-color: #ffff00;
+}
+
+div.warning {
+    background-color: firebrick;
+}
+
+div.note {
+    background-color: darkgoldenrod;
+}
+
+div.important {
+    background-color: olivedrab;
+}
+
+div.warning p, div.warning div.para,
+div.note p, div.note div.para,
+div.important p, div.important div.para {
+    background-color: #eeeeec;
+    color: black;
+}
+
+div.admonition { color: green; }
+
+
+; Overrides.css from arpsc brand
