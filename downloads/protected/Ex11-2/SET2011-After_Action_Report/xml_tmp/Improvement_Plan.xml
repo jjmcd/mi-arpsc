@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "AAR_Template.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-improvement-plan">
+  <title>Improvement Plan</title>
+  <para>
+    This IP has been developed specifically for &JURIS; as a result of &EXNAM;
+    conducted on &EXDATE;. These recommendations draw on both the
+    After Action Report and the After Action Conference. [The IP should include
+    the key recommendations and corrective actions identified in Chapter 3:
+    Analysis of Capabilities, the After Action Conference, and the EEGs.  The IP
+    has been formatted to align with the Corrective Action Program System.]
+  </para>
+  <table frame="all" orient="land">
+    <title>Improvement Plan Matrix</title>
+    <tgroup cols="9">
+      <thead>
+	<row>
+	  <entry>Capability</entry>
+	  <entry>Observation Title</entry>
+	  <entry>Recommendation</entry>
+	  <entry>Corrective Action Description</entry>
+	  <entry>Capability Element</entry>
+	  <entry>Primary Responsible Agency</entry>
+	  <entry>Agency POC</entry>
+	  <entry>Start Date</entry>
+	  <entry>Completion Date</entry>
+	</row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry morerows="3">[Capability 1: Capability Name]</entry>
+	  <entry morerows="1">1. Observation 1</entry>
+	  <entry morerows="1">1.1 Insert Recommendation 1</entry>
+	  <entry>1.1.1 Insert Corrective Action 1 </entry>
+	  <entry>Planning</entry>
+	  <entry>State X EMA</entry>
+	  <entry>EMA Director</entry>
+	  <entry>Dec 1, 2006</entry>
+	  <entry>Sep 1, 2007</entry>
+	</row>
+	<row>
+	  <entry>1.1.2 Insert Corrective Action 2 </entry>
+	  <entry>Planning</entry>
+	  <entry>State X EMA</entry>
+	  <entry>EMA Systems Director</entry>
+	  <entry>Dec 1, 2006</entry>
+	  <entry>Sep 1, 2007</entry>
+	</row>
+	<row>
+	  <entry morerows="1">2. Observation 2</entry>
+	  <entry morerows="1">2.1 Insert Recommendation 1</entry>
+	  <entry>2.1.1 Insert Corrective Action 1 </entry>
+	  <entry>Training</entry>
+	  <entry>State X EMA</entry>
+	  <entry>EMA Director</entry>
+	  <entry>Dec 1, 2006</entry>
+	  <entry>Sep 1, 2007</entry>
+	</row>
+	<row>
+	  <entry>2.1.2 Insert Corrective Action 2 </entry>
+	  <entry>Systems and Equipment</entry>
+	  <entry>State X EMA</entry>
+	  <entry>EMA Director</entry>
+	  <entry>Dec 1, 2006</entry>
+	  <entry>Sep 1, 2007</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </table>
+</appendix>

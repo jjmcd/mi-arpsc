@@ -1,0 +1,2129 @@
+Product SiteDocumentation Site
+
+2011 Simulated Emergency Test
+
+
+
+SET2011-After Action Report
+===========================
+
+
+functional drill
+----------------
+
+
+[IMAGE]
+
+
+For a list of contributors refer to Appendix G. ¬ 
+
+
+
+Legal Notice
+============
+
+Copyright¬© 2011, Michigan Section of the American Radio Relay League
+This document is released FOR OFFICIAL USE ONLY. In accordance with
+Department of Homeland Security recommendations, after-action reports
+should only be shared with those who have a need to use the information
+to improve the ability of the Michgan Section to respond to incidents.
+The text of and illustrations in this document are licensed by the
+Michigan Section of the American Radio Relay League under a Creative
+Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+On October 1, 2011 Michigan Section held a functional drill using the
+scenario of a winter storm. This document details the result of that
+functional drill.
+
+------------------------------------------------------------------------
+
+1. Executive Summary
+
+      1.1. Major Strengths
+
+      1.2. Primary areas for improvement
+
+2. Executive Overview
+
+      2.1. Exercise Details
+
+      2.2. Exercise Planning team
+
+      2.3. Participating organizations
+
+3. Exercise Design
+
+      3.1. Exercise Purpose and Design
+
+      3.2. Exercise Objectives, Capabilities, and Activities
+
+      3.3. Scenario Summary
+
+4. Analysis of Capabilities
+
+      4.1. Capability 1 - Procedures
+
+      4.2. Capability 2 - Standards
+
+5. Conclusion
+
+A. Improvement Plan
+
+B. Participant Feedback
+
+      B.1. General Participant Feedback
+
+      B.2. General Comments from Evaluators
+
+C. Exercise Evaluation Guide
+
+      C.1. Mission
+
+            C.1.1. Target Capability - Planning
+
+            C.1.2. Target Capability - Communications
+
+D. Exercise Events Summary Table
+
+E. Master Scenario Event List
+
+F. NTS to District Assignments
+
+G. List of Contributors
+
+H. Acronyms
+
+I. Revision History
+
+Index
+
+
+1.¬ Executive Summary
+---------------------
+
+Each year on the first Saturday in October, the ARRL holds a "Simulated
+Emergency Test". The Michigan Section has long used this as an annual
+exercise to help develop various skills needed for emergency response.
+The Michigan Section winter storm functional drill exercise 2011
+Simulated Emergency Test was developed to test Michigan Section's
+ComA2.4.3.1 (Procedures and plans) and ComC1.2.2 (Interoperable comms)
+capabilities. The exercise planning team was composed of SEC staff. The
+exercise planning team discussed the ARES/NTS interface, message
+handling, congestion at the SEOC during a statewide incident, and
+response to infrastructure failures. Based on the exercise planning
+team's deliberations, the following objectives were developed for 2011
+Simulated Emergency Test:
+
+  *  Objective 1: Improve the relationship between ARES and NTS by
+    assigning permanent NTS Net to ARES District relationships.
+
+  *  Objective 2: Introduce ARES to the standard NTS practice of having
+    liaisons carry traffic to and from a net.
+
+  *  Objective 3: Stress message passing by introducing constraints to
+    simulate widespread infrastructure outages, such as loss of power and
+    antennas.
+
+The purpose of this report is to analyze exercise results, identify
+strengths to be maintained and built upon, identify potential areas for
+further improvement, and support development of corrective actions.
+
+
+1.1.¬ Major Strengths
+
+The major strengths identified during this exercise are as follows:
+
+  *  District Emergency Coordinators and Net Managers worked efectively
+    prior to the exercise to have plans in place.
+
+  *  Jurisdictions responded effectively to unanticipated loss of
+    infrastructure.
+
+  *  Traffic handling skills improved across the board.
+
+
+1.2.¬ Primary areas for improvement
+
+Throughout the exercise, several opportunities for improvement in the
+Section's ability to respond to the incident were identified. The primary
+areas for improvement, including recommendations, are as follows:
+
+  *  Net procedures still presented some areas of confusion. Additional
+    practice is indicated.
+
+  *  Not all jurisdictions had plans for relieving operators in key
+    positions. The need for written plans, including plans for dealing
+    with multiple operational periods, must be stressed with the
+    counties.
+
+  *  While procedures and net discipline showed considerable improvement,
+    there were still a number of areas where inexperience delayed
+    traffic. Once again, additional training and practice is indicated.
+
+  *  Many participants, especially nets, were reluctant to leave their
+    comfort zones. In particular, nets seemed to have difficulty leaving
+    their favored frequencies, modes and practices, even when other
+    approaches would obviously have been more effective.
+
+  *  While Section staff made significant efforts to make ARPSC members
+    aware of the exercise, non-participants were for the most part
+    unaware, even if they might be affected. Broader dissemination of
+    plans is needed.
+
+
+2.¬ Executive Overview
+----------------------
+
+This exercise aimed to strengthen the relationship between the Amateur
+Radio Emergency Services (ARES) and the National Traffic System (NTS).
+The station at the State Emergency Operations Center (SEOC) delivered
+injects to liaisons to the various NTS nets who, in turn, delivered those
+injects to the Districts. Each District was assigned an NTS net, with the
+expectation that this assignment would be more or less permanent. ARES
+District Emergency Coordinators were encouraged to work together with NTS
+Net Managers to plan meeting times, frequencies, etc. The Great Lakes
+Emergency and traffic Net was assigned the responsibility of representing
+the four National Weather Service offices in Michigan. Evaluators
+monitored the activity looking for evidence of planning, ability to
+maintain communications across the state, and ability to respond to loss
+of infrastructure. As this exercise was conducted in conjunction with the
+annual ARRL Simulated Emergency Test, individual jurisdictions were
+encouraged to include local government agencies and NGOs in their local
+activities.
+
+
+2.1.¬ Exercise Details
+
+  * Exercise Name - 2011 ARRL Simulated Emergency Test
+
+  * Type of exercise - The Section-wide portion of the exercise was a
+    functional drill, testing limited capabilities within the section.
+    However, many jurisdictions, in keeping with the spirit of the ARRL
+    test, engaged numerous other agencies on a local level.
+
+  * Exercise Date and Duration - October 1, 2011 - 4 hours
+
+  * Location - Statewide
+
+  * Sponsor - Michigan Section of The American Radio Relay League
+
+  * Program - n/a
+
+  * Mission - Respond
+
+  * Scenario Type - Winter Storm
+
+2.1.1.¬ Capabilities
+
+  *  ComA2.4.3.1 - Develop Standard Operating Procedures and Standard
+    Operating Guides in support of Emergency Operations Plans.
+
+      *  Continuity of Operation (COOP) plans describe how personnel,
+        equipment, and other resources support sustained
+        response/survivability and recovery for all sectors
+
+      *  Emergency response plans address substantial loss of public
+        safety response capabilities during catastrophic events (to
+        include special needs populations and people with disabilities)
+
+  *  ComC1.2.2 - Develop common communication and data standards to
+    facilitate the exchange of information in support of response
+    management
+
+      *  Develop common communication and data standards to facilitate
+        the exchange of information in support of response management
+
+      *  Redundant and diverse interoperable communication systems are
+        available
+
+
+2.2.¬ Exercise Planning team
+
+The Section Emergency Coordinator (who also serves as the Section Traffic
+Manager) and the Section's Training and Exercise Officer planned the
+exercise. District Emergency Coordinators and Net Managers provided input
+on who was intending to participate, their capabilities, etc.
+
+
+2.3.¬ Participating organizations
+
+The Statewide portion of the exercise included the National Traffic
+System nets and the Amateur Radio Emergency Services. Because their
+capabilities did not map any of the needs for the exercise, the Thumb and
+Mid-Michigan Traffic Net was not asked to participate. Several individual
+counties also chose not to participate. The National Weather Service
+office at White Lake provided the initial injects, as well as simulations
+based on historical events to add realism to the scenario. At the local
+level, counties were encouraged to include served agencies. In various
+jurisdictions, participants included the American Red Cross, Salvation
+Army, local Health Departments, hospitals, and a large number of
+Townships. Most counties used the station at their county Emergency
+Operations Center as the main point of contact. Several jurisdictions
+also operated from hospitals, township halls and fire barns, as well as
+Red Cross chapters.
+
+2.3.1.¬ Number of participants
+
+  *  Players - approx 200
+
+  *  Controllers - 1
+
+  *  Evaluators - 5
+
+  *  Facilitators - none
+
+  *  Observers - not available
+
+  *  Victim role players - not applicable
+
+
+3.¬ Exercise Design
+-------------------
+
+
+3.1.¬ Exercise Purpose and Design
+
+Each year the Michigan Section uses the annual ARRL Simulated Emergency
+Test to conduct a statewide exercise to improve the ability of the
+Section to respond to emergencies and other incidents, and to interact
+with various State and local agencies, as well as NGOs. Over the past few
+years the Section has been working on improving the interface between the
+National traffic System and ARES. This year the Section hoped to
+establish some more or less permanent relationships between the ARES
+Districts and the NTS nets. Each District was assigned a net, and an
+additional net was assigned the responsibility of working with the
+National Weather Service. (refer to Appendix¬ F, NTS to District
+Assignments for details.) The Thumb and Mid Michigan Traffic Net was not
+assigned a District as there were no obvious candidates and the net has a
+relatively small footprint. The Northern Lower Eastern Upper Peninsula
+Net was also not assigned as that net has no current leadership. The
+exercise was designed to exercise these new relationships, and also test
+the ability of the nets and local programs to respond to challenging
+conditions such as loss of repeater power, loss of antennas, etc. As with
+most Statewide ARES/NTS exercises, it was a particular challenge to
+design a scenario where all participating counties and nets could send
+and receive relevant traffic. The Training and Exercise Officer polled
+all Districts to see which would participate, and only three responded in
+the affirmative. At least a few counties from every District did
+participate, so some counties received only generic traffic.
+
+
+3.2.¬ Exercise Objectives, Capabilities, and Activities
+
+Capabilities-based planning allows for exercise planning teams to develop
+exercise objectives and observe exercise outcomes through a framework of
+specific action items that were derived from the Target Capabilities List
+(TCL). The capabilities listed below form the foundation for the
+organization of all objectives and observations in this exercise.
+Additionally, each capability is linked to several corresponding
+activities and tasks to provide additional detail. Based upon the
+identified exercise objectives below, the exercise planning team has
+decided to demonstrate the following capabilities during this exercise:
+
+  *  Objective 1: Districts and Nets plan effectively together
+
+      *  ComA2.4.3.1 - Develop Standard Operating Procedures and Standard
+        Operating Guides in support of Emergency Operations Plans
+
+          *  Continuity of Operation (COOP) plans describe how personnel,
+            equipment, and other resources support sustained
+            response/survivability and recovery for all sectors
+
+          *  Emergency response plans address substantial loss of public
+            safety response capabilities during catastrophic events (to
+            include special needs populations and people with
+            disabilities)
+
+  *  Objective 2: Nets and local jurisdictions are able to operate
+    effectively in the face of significant challenges.
+
+      *  ComC1.2.2 - Develop common communication and data standards to
+        facilitate the exchange of information in support of response
+        management
+
+          *  Operable communications systems that are supported by
+            redundancy and diversity, that provide service across
+            jurisdictions, and that meet everyday internal agency
+            requirements, are in place
+
+          *  Redundant and diverse interoperable communication systems
+            are available
+
+
+3.3.¬ Scenario Summary
+
+A severe winter storm scenario was selected as this type of incident can
+realistically have widespread and severe consequences. In the early
+morning of October 1, the National Weather Service in White Lake issues a
+warning of an impending severe winter storm. By the time the SEOC is
+activated and warnings sent to the Districts, telephone service is
+already affected. As the morning wears on, severe icing and heavy winds
+cause damage to power lines and higher profile antennas. Many repeaters
+are forced off the air and even some HF antennas suffer damage. Local
+jurisdictions are forced to rely on backup repeaters, emergency power
+stations, and simplex operation. A short summary of the events may be
+found in Appendix¬ D, Exercise Events Summary Table. Injects for the
+exercise are delivered to Districts and some individual counties via
+radiogram (refer to Appendix¬ E, Master Scenario Event List). The various
+NTS nets send liaisons to the SEOC to pick up and deliver traffic between
+the SEOC and their assigned Districts and the counties within that
+District.
+
+
+4.¬ Analysis of Capabilities
+----------------------------
+
+This section of the report reviews the performance of the exercised
+capabilities, activities, and tasks. In this section, observations are
+organized by capability and associated activities. The capabilities
+linked to the exercise objectives of 2011 Simulated Emergency Test are
+listed below, followed by corresponding activities. Each activity is
+followed by related observations, which include references, analysis, and
+recommendations.
+
+
+4.1.¬ Capability 1 - Procedures
+
+ComA2.4.3.1 - Develop Standard Operating Procedures and Standard
+Operating Guides in support of Emergency Operations Plans
+
+4.1.1.¬ Preparedness Measure 1.1 - Survivability and Recovery
+
+Continuity of Operation (COOP) plans describe how personnel, equipment,
+and other resources support sustained response/survivability and recovery
+for all sectors Evaluators were asked to look for:
+
+  *  Are stations using appropriate procedures and protocols
+
+  *  Are net controls and operators being rotated
+
+  *  Is there evidence of a plan to rotate operators
+
+  *  Is there evidence of a plan to provide operators with personal needs
+    (food, drink, rest, etc.)
+
+  *  Is there evidence that emergency power/portable operations are
+    planned
+
+  *  Are plans in place to provide support personnel (runners, etc.)
+
+4.1.1.1.¬ Observation 1.1.1 - Emergency Power
+
+Area for improvement: Programs should have plans to continue to operate
+when commercial power fails. Not all evaluators had a chance to review
+plans, but some evidence of emergency power use was found. There is,
+however, no evidence of explicit plans. Individual evaluator comments:
+
+  *  One station 100% battery w/solar panels charging
+
+Also see Section¬ 4.1.2.1, ‚ÄúObservation 1.2.1 - Emergency Power‚Äù.
+
+4.1.1.1.1.¬ Analysis
+
+It has become relatively customary for stations to have back up power,
+especially in locations that are often used to ARES activities. However,
+leaders are not always sensitive to knowing what stations have what
+emergency power capabillities.
+
+4.1.1.1.2.¬ Recommendations
+
+Remind leaders in both ARES and NTS that they should stay alert to each
+station's backup power capabilities.
+
+4.1.1.2.¬ Observation 1.1.2 - Experience
+
+Area for Improvement: Although only one evaluator observed this problem,
+the shortage of experience is widespread. Individual evaluator comments:
+
+  *  More experienced operators needed both Dist 3 and 5
+
+4.1.1.2.1.¬ Analysis
+
+In many areas there is a shortage of experienced operators. Older
+operators are often not interested or unable to participate, and newer
+operators do not have the training and background desired. Much of the
+shortage might be alleviated with training as well as documentation.
+Standardization of equipment to the degree possible would also help.
+However, the best antidote is to train by doing.
+
+4.1.1.2.2.¬ Recommendations
+
+Operators require more frequent, meaningful exercises and training. All
+DECs should work with their ECs to develop local programs to build
+operator skills.
+
+4.1.1.3.¬ Observation 1.1.3 - Personal Needs
+
+Strength: Programs considered personal needs of operators. Individual
+evaluator comments:
+
+  *  Food and refreshments on site - rest rooms available a short walk
+    away
+
+  *  Branch County operations continued into the afternoon, so some of
+    their operators joined up for lunch
+
+4.1.1.3.1.¬ Analysis
+
+Generally, programs did well. It would be good if programs included
+personal needs in their written operational plans.
+
+4.1.1.3.2.¬ Recommendations
+
+No specific action needed at this time.
+
+4.1.1.4.¬ Observation 1.1.4 - Procedures
+
+Strength: Although far from perfect, procedures have improved
+considerably. Individual evaluator comments:
+
+  *  Standard procedures on all nets heard
+
+  *  BT separating heading of message from text and signature caused
+    count confusion when not used
+
+  *  The Allegan County exercise, the Branch Co. Exercise, and the 5th
+    district hospital net were well disciplined and proper net procedured
+    used
+
+4.1.1.4.1.¬ Analysis
+
+Although significantly improved, familiarity with traffic procedures
+still falls a little short. Programs more and more often incoroporate
+some sort of traffic training into their programs; this should continue.
+NTS operators should be reminded that sometimes ARES operators don't have
+the practice they need, and NTS ops should be forgiving of these
+shortcomings, while striving to mentor operators towards improved
+procedures.
+
+4.1.1.4.2.¬ Recommendations
+
+Programs should continue to include traffic handling training and pass
+occasional messages on their nets. Net Managers should remind members
+that ARES operators don't always have the practice we might prefer, and
+NTS operators should take a mentoring approach towards ARES ops.
+
+4.1.1.5.¬ Observation 1.1.5 - Rotation
+
+Area for improvement:Programs rotated operators and net controls,
+however, there was no evidence found of formal plans. Individual
+evaluator comments:
+
+  *  Operator rotation established
+
+  *  Rotation: Yes KB8RCR and NK8X
+
+  *  No evidence of plan to rotate operators
+
+  *  The nets had assistant/alternate net controls
+
+4.1.1.5.1.¬ Analysis
+
+Although some programs rotate operators, there is no evidence anywhere of
+a formal plan.
+
+4.1.1.5.2.¬ Recommendations
+
+All programs should include plans for rotating operators in their written
+operational procedures.
+
+4.1.1.6.¬ Observation 1.1.6 - Support
+
+Area for improvement: Plans to have adequate supporting personnel
+available were spotty at best. Individual evaluator comments:
+
+  *  No one planned portable operations; no support personnel, although
+    some locations had multiple operators
+
+  *  Boy scout troop on site if runners needed
+
+4.1.1.6.1.¬ Analysis
+
+As in rotation plans, plans to have support personnel available were
+spotty, at best.
+
+4.1.1.6.2.¬ Recommendations
+
+Incorporate plans for support personnel into written operational plans.
+
+4.1.2.¬ Preparedness Measure 1.2 - Loss of capability
+
+Emergency response plans address substantial loss of public safety
+response capabilities during catastrophic events (to include special
+needs populations and people with disabilities) Evaluators were asked to
+look for:
+
+  *  Are stations using emergency power
+
+  *  Are stations operating from field/temporary locations
+
+  *  Are operations reliant on permanent infrastructure
+
+4.1.2.1.¬ Observation 1.2.1 - Emergency Power
+
+Strength: Almost all jurisdictions operated their key stations from a
+location having emergency power capabilities. Individual evaluator
+comments:
+
+  *  Strength: Stations using emergency power
+
+  *  Kent County Red Cross not on emergency power but had capability
+
+  *  A few hams on the local nets indicated they were on emergency power,
+    but the ECs and Net Controls were not making it a priority to declare
+    that a station is or is not on E.P.
+
+4.1.2.1.1.¬ Analysis and Recommendations
+
+Refer to 1.1.1 Emergency Power.
+
+4.1.2.2.¬ Observation 1.2.2 - Infrastructure
+
+Strength Programs consider robustness of available infrastructure when
+choosing command sites. Individual evaluator comments:
+
+  *  No stations known reliant on permanent infrastructure
+
+  *  Operations relied on permanent infrastructure, but good
+    infrastructure, at various locations like EOCs, medical facilities
+    and Red Cross. With these sites of permanent antennas and towers and
+    shelters, you also get emergency backup generators. Other ham
+    operations were mainly home stations. No portable and a few mobile
+    stations.
+
+4.1.2.2.1.¬ Analysis
+
+Generally good response given the typical need. At some point in the
+future written plans for selecting/avoiding operational sites may be
+helpful.
+
+4.1.2.2.2.¬ Recommendations
+
+No action required at the current time.
+
+4.1.2.3.¬ Observation 1.2.3 - Temporary Operation
+
+Strength: Although no suggestion was made that temporary operations was
+desirable, many programs operated from served agencies and a number
+selected field operations. Individual evaluator comments:
+
+  *  All stations heard operating from the field. CED 7 in unheated
+    outbuilding, Alpena in camping trailer
+
+  *  Stations operating from Red Cross
+
+  *  No field/temporary locations heard. Most stations at facilities with
+    emergency power capabilities like EOCs, medical facilities, and Red
+    Cross
+
+4.1.2.3.1.¬ Analysis
+
+Again, given the typical need, a good response.
+
+4.1.2.3.2.¬ Recommendations
+
+No action required at the current time
+
+
+4.2.¬ Capability 2 - Standards
+
+ComC1.2.2 - Develop common communication and data standards to facilitate
+the exchange of information in support of response management
+
+4.2.1.¬ Preparedness Measure 2.1 - Cross-jurisdiction
+
+Operable communications systems that are supported by redundancy and
+diversity, that provide service across jurisdictions, and that meet
+everyday internal agency requirements, are in place Evaluators were asked
+to look for:
+
+  *  Is there consistency across the procedures used by the various
+    jurisdictions
+
+  *  Is there evidence of interface with government or non-government
+    responders
+
+  *  Is there evidence of any plan to use different modes and/or
+    frequencies when conditions warrant
+
+4.2.1.1.¬ Observation 2.1.1 - Consistency
+
+Strength: Programs used consistent procedures. Individual evaluator
+comments:
+
+  *  Procedures seem much more coordinated than in the past
+
+  *  Consistency, yes. Amateur to amateur
+
+4.2.1.1.1.¬ Analysis
+
+Generally consistent procedures across the section.
+
+4.2.1.1.2.¬ Recommendations
+
+No action required at the current time.
+
+4.2.1.2.¬ Observation 2.1.2 - Flexibility
+
+Mixed: Most programs were able to incorporate multiple modes and
+frequencies, however some operators were confused when unexpected changes
+occurred, and even when there were plans to respond to changing
+conditions, plans were not always followed. However, flexible responses
+were chosen. Individual evaluator comments:
+
+  *  All stations heard were multi mode multi freq
+
+  *  Worked real well, however, shutting down repeaters switching seems
+    to confuse or frustrate operators
+
+  *  Plan in place to QSY in response to propagation. However, HF did not
+    switch when propagation deteriorated
+
+  *  Conditions deteriorated and a new net control operator took over on
+    the same frequency
+
+  *  Branch county and the 5th District hospital nets were
+    multi-frequency (repeater and simplex) and multimode (FM, D-Star,
+    Packet). Unknown about Allegan county and Calhoun county operations,
+    likely FM only on two meters. Some 440 used by Branch county.
+
+4.2.1.2.1.¬ Analysis
+
+In general, local programs responded well to disruptions in their
+operation, although some operators were confused when repeaters
+disappeared. Stations did not respond as well to changing propagation.
+
+4.2.1.2.2.¬ Recommendations
+
+Local programs need to incorporate unexpected loss of repeaters into
+their local exercises more frequently. Training on propagation is needed.
+In addition, both NTS nets and ARES programs require more familiarity
+with the behavior of the HF bands as conditions change.
+
+4.2.1.3.¬ Observation 2.1.3 - Served Agencies
+
+Strength: Since the exercise was run on a weekend, few served agencies
+participated directly, however most programs operated from sites owned by
+their served agencies. Individual evaluator comments:
+
+  *  N8JWH/AAM6MI interfaced w/Army MARS monitoring 3 Army freqs and
+    three amateur freqs from Alpena
+
+  *  Yes, evidence of interface with other agencies
+
+  *  No known gov't interfaces, just simulated. Hams were very much
+    on-site with gov't and non-gov't agencies
+
+4.2.1.3.1.¬ Analysis
+
+In general, interface with other agencies is good, although in statewide
+exercises, it is challenging to exercise together due to work schedules.
+
+4.2.1.3.2.¬ Recommendations
+
+No action to be taken at this time.
+
+4.2.2.¬ Preparedness Measure 2.2 - Diversity
+
+Redundant and diverse interoperable communication systems are available
+Evaluators were asked to look for:
+
+  *  Are multiple modes and frequencies in use
+
+  *  Is there evidence of temporary, portable or mobile operation
+
+  *  Are appropriate equipment manuals accessible where needed
+
+4.2.2.1.¬ Observation 2.2.1 - Mode/Frequency Flexibility
+
+Strength: Most programs exploited multiple frequencies and modes.
+Individual evaluator comments:
+
+  *  Multi-frequency observed by 3 stations
+
+  *  Multi mode 3 stations
+
+  *  Multiple modes and frequencies used, VHF and HF
+
+  *  Strength: Two counties used multimodes and frequencies
+
+4.2.2.1.1.¬ Analysis
+
+Stations were appropriately flexible in utilizing available frequencies.
+
+4.2.2.1.2.¬ Recommendations
+
+No action required at this time.
+
+4.2.2.2.¬ Observation 2.2.2 - Portable/Temporary Operations
+
+Mixed: Few programs operated from temporary locations although most
+apparently had the capability. Individual evaluator comments:
+
+  *  HT were in use on VHF
+
+  *  Some stations had mobile/portable capability but did not use it
+
+  *  No temporary or portable operation observed. Some mobile operators
+    heard
+
+4.2.2.2.1.¬ Analysis
+
+Many stations had the capability to operate portable but were not
+requested at this time.
+
+4.2.2.2.2.¬ Recommendations
+
+No action required.
+
+4.2.2.3.¬ Observation 2.2.3 - Onsite Documentation
+
+Strength: Most locations had appropriate equipment manuals onsite.
+Individual evaluator comments:
+
+  *  All manuals at Alpena and DEC 7 never seen that before
+
+  *  I know that equipment manuals are kept accessible at the Kalamazoo
+    Red Cross chapter house
+
+4.2.2.3.1.¬ Analysis
+
+Appropriate documentation was available.
+
+4.2.2.3.2.¬ Recommendations
+
+No action required.
+
+
+5.¬ Conclusion
+--------------
+
+The Section showed considerable improvements over earlier exercises,
+especially in the relationship between ARES and NTS. DECs and Net
+Managers worked well together to resolve problems and plan approaches.
+This does not mean there are no issues. Overall, ARES members could still
+stand to improve their traffic handling skills, and NTS members could
+learn to take more of a mentoring stance toward those who are not as
+practiced. Formal planning was still weak. This was particularly
+evidenced in the lack of rotation of net controls, but very likely other
+roles had similar problems. Similarly, when repeaters failed or band
+conditions changed, not everyone had a plan to let them know what to do.
+In general, response to surprises could be improved through planning and
+practice. To work on these issues, the Improvement Plan focuses on formal
+plans and improving the knowledge of operators.
+
+
+A.¬ Improvement Plan
+--------------------
+
+This IP has been developed specifically for Michigan Section as a result
+of 2011 Simulated Emergency Test conducted on October 1, 2011. These
+recommendations draw on both the After Action Report and the After Action
+Conference.
+
+Capability
+
+Observation Title
+
+Recommend- ation
+
+Corrective Action Description
+
+Capability Element
+
+Primary Responsible Agency
+
+Agency POC
+
+Start Date
+
+Completion Date
+
+1.1 Survivability and Recovery
+
+1.1.1 Emergency Power
+
+Remind Leaders
+
+Periodic email
+
+Planning
+
+SEC
+
+SEC
+
+2012-01-15
+
+2012-07-15
+
+1.1.2 Experience
+
+Targeted training and exercise programs at the local level
+
+DECs guide ECs in the development of programs specific to the needs of
+the individual jutrisdiction
+
+DEC
+
+DEC
+
+2012-01-01
+
+2012-12-31
+
+1.1.4 Procedures
+
+Continue to work on traffic training
+
+Incorporate training into meetings once per year
+
+EC
+
+DEC
+
+ongoing
+
+Pass occasional traffic on ARES nets
+
+EC
+
+DEC
+
+ongoing
+
+Remind NTS ops that ARES ops don't get traffic practice
+
+Email to net members before statewide exercises
+
+Net Managers
+
+ASTM
+
+2012-04-01
+
+2012-09-15
+
+1.1.5 Rotation
+
+Plan to rotate operators
+
+Incorporate rotation plans into written operational procedures
+
+EC
+
+DEC
+
+2012-01-01
+
+2012-12-31
+
+Net Managers
+
+ASTM
+
+2012-01-01
+
+2012-06-30
+
+1.1.6 Support
+
+Plan for support personnel
+
+Incorporate support personnel needs into written operational procedures
+
+EC
+
+DEC
+
+2012-01-01
+
+2012-12-31
+
+Table¬ A.1.¬ Improvement Plan Matrix (1 of 2)
+
+
+Capability
+
+Observation Title
+
+Recommend- ation
+
+Corrective Action Description
+
+Capability Element
+
+Primary Responsible Agency
+
+Agency POC
+
+Start Date
+
+Completion Date
+
+2.1 Cross- jurisdiction
+
+2.1.2 Flexibility
+
+Respond to loss of repeaters
+
+Emergency coordinators to incorporate unexpected loss of repeaters into
+local exercises
+
+Standards
+
+EC
+
+DEC
+
+2012-01-01
+
+2012-06-30
+
+Improve propagation knowledge
+
+SEC to complete propagation video
+
+SEC
+
+SEC
+
+2012-03-01
+
+2012-06-30
+
+ECs to incorporate video into programs
+
+EC
+
+DEC
+
+2012-07-01
+
+2012-12-31
+
+Net Managers to train members on propagation
+
+Net Managers
+
+ASTM
+
+2012-07-01
+
+2012-12-31
+
+Table¬ A.2.¬ Improvement Plan Matrix (2 of 2)
+
+
+B.¬ Participant Feedback
+------------------------
+
+
+B.1.¬ General Participant Feedback
+
+A large number of comments were received from participants over various
+circuits. The following is a sampling of those comments. Note that in
+some cases, cut/paste preserved grammatical, spelling and typographic
+errors, in other cases they were introduced in transcription.
+
+  *  Utilizing the UP Traffic Net worked very well. There were a number
+    of check-ins, messages were passed by the EC's that were involved
+    this year through the UP Net
+
+  *  Aileen WA8DHB, Net control of the UP Net did an excellent job,
+    including having downstate stations sending some of our traffic to
+    the SEOC. I don't know if she received any information about the SET
+    besides our conversations on the phone.
+
+  *  Deployed one Emergency Response Veichle, Manned the Chapter radio
+    room using HF, Packet in Converse mode, CW, Red Cross Low Band FM and
+    2mtr simplex. Had laison on E Team and the MVHF Traffic net. Took and
+    sent NTS traffic, passed tactical traffic in converse mode Contacts
+    made with Allegan Red Cross.
+
+  *  Be careful of abbreviations in NTS messages
+
+  *  some might not know what they mean Using State wide repeater system
+    depended too much on infrastructure to link Counties together
+
+  *  Some OP'S not familiar with NTS slowed the net down with fills and
+    some inattentiveness
+
+  *  SET info not found on State ARRL web site or on Yahoo Groups- Many
+    didn't know the State was doing one
+
+  *  Lack of a designated 60 mtr freq to fall back on/alternate freq's
+    determined in advance by NM's So what if some hams don't have 60?
+
+  *  NM's need to think out side the box- That is spread the net out on
+    alternate freq's with NCS reporting back to the main
+
+  *  NCS need increased circuits to pass traffic
+
+  *  Some DEC's did nothing in their counties causing failure in these
+    counties
+
+  *  Suggest organizing the HF nets more like Skywarn nets are run - a
+    main net and several sub nets This will allow disaster traffic to be
+    moved more quickly
+
+  *  RED CROSS: Radio room needs to be reorganized- More space for
+    operating and sound deadening dividers and headphones Upgrade of
+    laptops and printers more NTS training common pwr connectors Check
+    deployment boxes more often- Even though packet went well more trng
+    needed.
+
+  *  What Went Well:On site equipment helped rapid deployment Packet in
+    converse mode Had more then enough comm circuits to pass traffic
+    Knowledgeable operators on Packet solved minor problems with TNC's
+    MVHF Traffic Net operators very knowledgeable and performed very well
+    HF Liaisons great- Basic concept of the exercise developed by the
+    State on the right track- Could use as many exercises as the State
+    can arrange!
+
+  *  no man-made interference
+
+  *  Representation from SEOC, Districts 1,5,6 and 7
+
+  *  Excellent scores compared to SET of October 2009
+
+  *  Net liaisons extremely competent in obtaining traffic from HF and
+    returning with outgoing traffic
+
+  *  Very good communications between VHF and SEOC
+
+  *  Goodly number of stations on emergency power
+
+  *  Extremely efficient assistance from E-Team in Kent county and also
+    participation from Kent County Red Cross and one other Red Cross
+    facility in a different District
+
+  *  Messages from SEOC began coming through in a timely manner and there
+    was no wasted air space like in previous years
+
+  *  Brief periods of time were allotted at the top of each hour for
+    stations not involved in the exercise so that they may transmit any
+    priority or welfare traffic
+
+  *  As a net control I need to learn to obtain my rogers and provide
+    fills for the exercise participants in a more efficient manner
+
+  *  My net liaisons need to learn to give traffic more slowly thus
+    leading to a possibility of less fills being required
+
+  *  It was apparent that several stations needed NTS training as excess
+    time was used in getting their traffic passed
+
+  *  Need more stations on emergency power
+
+  *  I had difficulty communicating with three stations most likely due
+    to their equipment as the links they were using were in good
+    operating order
+
+  *  One station left early after being asked to take traffic and i got
+    the impression that because of their lack of skill they felt unable
+    to continue but perhaps i could be in error. while on the air the
+    station was very efficient and seemed to know the proper protocol
+
+  *  The Liaison who was monitoring the SEOC phone Net picked up three
+    messages and brought them to the MIDTN, messages # 2, 4, 9 and where
+    picked up and acknowledged by all four Counties in the NET. A repeat
+    was not needed as they where monitoring the NET.
+
+  *  Mike in Presque Isle picked up a VHF message # 41 to the effect that
+    all power State wide was lost and if you where without backup you
+    were done until the exercise ended
+
+  *  MIDTN as well as Roscommon, Alpena and Presque Isle all had
+    Emergency Power Sources and switched over and rechecked into the NET
+    to acknowledge same
+
+  *  We operated from the Roscommon Fairgrounds as a field day type
+    station and erected antennas and used equipment we brought to the
+    scene. I worked elbow to elbow with the DEC (Red) and he spent a
+    great deal of time after the exercise teaching me what I needed to do
+    to function better as a Manager of the NET
+
+  *  I checked into QMN because the statewide SSB nets were very weak
+    into this location. Also, they were yakking away for minutes at a
+    time, explaining why things were like they were
+
+  *  Major concern on these nets were on frequencies other than their
+    usual frequencies. Also, I believe some folks on the 3553 KHz freq
+    for QMN were likewise concerned.
+
+  *  Repeater contacts went well with all stations hearing everyone.
+    Analog simplex contacts were generally acceptable, but we found that
+    some electrical noise at the Coldwater PD/FD was not allowing them to
+    hear weak signals. D-Star simplex contacts had the same result as
+    analog simplex as a result of the high noise levels at CPD. Steuben
+    has no D-Star capability at this time. The high noise levels have
+    been resolved at CPD by utilizing adding grounding to the shield of
+    our antenna run.
+
+  *  Both the Hillsdale and Branch EOCs had extreme electronic noise and
+    no packet connections were possible. We are using toroids and
+    grounding devices to try to quiet things down but we are not there
+    yet.
+
+  *  We had 17 participants with 16 on emergency power.
+
+  *  The contact with Kalamazoo on the 04 repeater was successful from
+    the EOC. The Coldwater hospital had difficulty. Virtually everything
+    on simplex and D-Star failed. We question band conditions because
+    this has not been particularly problematic in the past. Will test
+    again in November.
+
+  *  Checking into the MACS Net went well. We received 4 pieces of
+    traffic and we sent 1 response to the SEOC. Over all, my impression
+    was that the HF link to limited stations who communicated with the
+    SEOC worked very well. This moved the gridlock away from the SEOC. I
+    did not have the chance to listen to anything but the MACS Net, so
+    things may have gone to hell in a hand basket elsewhere. At least
+    there were trained traffic handlers at the SEOC and at the helm of
+    the HF Nets. This exercise illustrates that ARES and RACES groups
+    need a ton of work on how to properly and accurately formulate and
+    relay written messages to another operator. This is Deja vu all over
+    again!!!!
+
+  *  Our monthly Tornado Siren Test went off well, after the power cable
+    of the signaling equipment at the 911 Center was plugged back in. It
+    turns out that some things at 911 had been rearranged and they
+    neglected to plug the unit back in. Good thing they test things!!!!
+
+  *  Moving frequencies off usual freqs created considerable confusion.
+
+  *  I was a W8DC, and was assigned to monitor 3932 KHz, but signals were
+    so weak I could hardly hear anyone. So, I moved here to 3553 KHz for
+    QMN, even though QMN was supposed to be for District 1 only (at least
+    that was my impression.) Best laid plans of mice and men often go
+    astray in emergency.
+
+  *  Moving to 7 MHz was a fine idea, but I wasn't sure everyone heard
+    the QNC to move, so I voluteered to run a parallel session on 3.5
+    MHz. I found W8OAK, quite weak, but he was able to hear enough to
+    move to 7068 KHz and, apparently moved his traffic.
+
+  *  The SEOC had a good signal during the two hours I operated.
+    Conditions were fair to good. No problems here.
+
+  *  It's refreshing to know that we have sufficient depth of operators
+    with CW skills so that a CW operator at the SEOC is available for the
+    exercise.
+
+  *  The segregated net concept, that is, a watch frequency for the SEOC
+    and a separate net frequency for QMN was problematic. While this may
+    have worked well for the voice nets, which tend to have a larger
+    contingent of operators, it tended to divide the limited resources of
+    QMN. Rather than resulting in greater efficiency, it resulted in a
+    cumbersome flow of traffic and duplication of resources.
+
+  *  Operations during the 8:00-AM to 8:20-AM EDT time frame on 3563 was
+    hampered by strong digital interference. I did not have the
+    capabilities to decode the traffic. However, it was quite strong at
+    my location. It seems to me the risk of such frequency conflicts is
+    greater when nets are moved off their normal frequencies or when
+    special nets are established without thought given to frequency
+    coordination and potential conflicts. For example, when the QMN
+    frequencies were selected (both primary and alternate), considerable
+    time and monitoring was invested to make sure the conflict with other
+    nets throughout the day would be minimized. Of course, there are no
+    guarantees, but it seems to me such interference could have been
+    problematic in a real communications emergency.
+
+  *  The procedures and message traffic originated and relayed was quite
+    good. All operators involved did a fine job.
+
+  *  Message 001: The x-ray at the conclusion of the text and before the
+    second break (to signature) was unnecessary.
+
+  *  In time of emergency, and therefore in drills and exercises, the
+    message should have included a time of origination.
+
+  *  Message 007: No time of origin. This is a potential problem in an
+    Emergency Operations Center when multiple messages may be received
+    about a single event. In order for an agency or individual to
+    construct a coherent understanding of an event, it is necessary to
+    know the sequence of the event components, inquiries, and actions
+    that take place. Otherwise, errors in judgment occur. The time of
+    origin should reflect the time at which the message was drafted by
+    the signatory. As such, automatic time stamp at time of entry into a
+    network is inaccurate and inappropriate (e.g. packet time stamp,
+    e-mail time stamp, etc.).
+
+  *  Message 007: Who is requesting the information? If I were to contact
+    my local DPW or Road Commission and make this inquiry, someone is
+    bound to ask "on whose authority are you making this request and who
+    wants the information?" It is also likely to generate a reply; to
+    whom is that reply addressed? When a message is originated on behalf
+    of the SEOC, it should have an authorizing signature. Obviously, no
+    harm no foul as this was a drill message, but in real life, it should
+    include a name, title and agency in the signature line.
+
+  *  I attempted to access the W8HVG link system, but the St. Joseph
+    repeater was locked key-down all day. Not sure if this was an
+    interference problem or malicious.
+
+  *  Thank you to K8KIC for checking in on behalf of District One! A
+    life-saver. We need more members in District One.
+
+
+B.2.¬ General Comments from Evaluators
+
+Most evaluator comments are included in Section¬ 4, ‚ÄúAnalysis of
+Capabilities‚Äù. However, evaluators were also given the opportunity to
+provide general observations. Those observations are listed below.
+
+  *  All major players need three HF rigs and 3 VHF
+
+  *  One HF rig at DEC went down and was out of use two hours in a real
+    emergency I would have brought in my HF mobile
+
+  *  Alt NCS training heeded. DEC 7 pri op saw no need for alt NCS/Alt
+    freq until instructed by DEC to open one
+
+  *  I think master list of participant rigs would be useful. Until drill
+    I never knew RLI and I use same rigs
+
+  *  Interoperability priority needed
+
+  *  Communications involving SET - with other nets that usually meet
+    during this time period woule solve a lot of time and net problems -
+    reference the Old Geisers net - Communications with them ahead of
+    time about the SET so they could QSY the net ahead of time
+
+  *  Traffic being repeated at too fast a pace verbally - repeated msg
+    incorrect - District not getting the State traffic in a timely
+    fashion - reliability and accuracy
+
+  *  Operators need more practice copying messages - station on freq not
+    prepared to copy - xray in message not being put into word count
+    causing confusion
+
+  *  Some stations monitoring both VHF and HF copying their traffic ahead
+    of time to insure accuracy
+
+  *  Confusion about abbreviations in text of message and not what to do
+    about it. Ref Msg No. 46 - E Power
+
+  *  I couldn't stand by idly; I ended up making transmissions to help
+    patch and relay traffic. I ended up somewhat of a coordinator.
+
+  *  I was on 3952. I spoke to NKX and K8YYZ
+
+  *  60 meters needs to be tested. Thinking knee-jerk to run to 40 meters
+    is not the only alternative to 75 meters.
+
+  *  It became obvious that the 5th District has a big administrative
+    communications problem. It wasn't for lack of trying to get the SET
+    word out. The problem was that 2 of 4 counties, Allegan and Calhoun,
+    kept their operations a secret. Allegan Co. Operated in a vacuum but
+    had a busy county-only exercise. There ids a 5th district yahoo
+    egroup the works well if people use it."
+
+  *  As Kalamazoo County EC, NK8X read all of the traffic from the SEOC
+    on the local VHF-FM net frequency. NK8X also assisted the NCS on 3952
+    as a relay. 75 meters pooped out around 10:30AM."
+
+
+C.¬ Exercise Evaluation Guide
+-----------------------------
+
+Each evaluator was provided with an Exercise Evaluation Guide (EEG) to
+guide the observations during the exercise.
+
+
+C.1.¬ Mission
+
+Common Capabilities
+
+C.1.1.¬ Target Capability - Planning
+
+C.1.1.1.¬ Task
+
+ComA2.4.3.1 - Develop Standard Operating Procedures and Standard
+Operating Guides in support of Emergency Operations Plans
+
+C.1.1.1.1.¬ Preparedness Measure
+
+Continuity of Operation (COOP) plans describe how personnel, equipment,
+and other resources support sustained response/survivability and recovery
+for all sectors
+
+C.1.1.1.1.1.¬ Things to look for
+
+  *  Are stations using appropriate procedures and protocols
+
+  *  Are net controls and operators being rotated
+
+  *  Is there evidence of a plan to rotate operators
+
+  *  Is there evidence of a plan to provide operators with personal needs
+    (food, drink, rest, etc.)
+
+  *  Is there evidence that emergency power/portable operations are
+    planned
+
+  *  Are plans in place to provide support personnel (runners, etc.)
+
+C.1.1.1.1.2.¬ Observations
+
+  *  Observation 1: ......
+
+  *  Observation 2: ......
+
+  *  ......
+
+C.1.1.1.2.¬ Preparedness Measure
+
+Emergency response plans address substantial loss of public safety
+response capabilities during catastrophic events (to include special
+needs populations and people with disabilities)
+
+C.1.1.1.2.1.¬ Things to look for
+
+  *  Are stations using emergency power
+
+  *  Are stations operating from field/temporary locations
+
+  *  Are operations reliant on permanent infrastructure
+
+C.1.1.1.2.2.¬ Observations
+
+  *  Observation 1: ......
+
+  *  Observation 2: ......
+
+  *  ......
+
+C.1.2.¬ Target Capability - Communications
+
+C.1.2.1.¬ Task
+
+ComC1.2.2 - Develop common communication and data standards to facilitate
+the exchange of information in support of response management
+
+C.1.2.1.1.¬ Preparedness Measure
+
+Operable communications systems that are supported by redundancy and
+diversity, that provide service across jurisdictions, and that meet
+everyday internal agency requirements, are in place
+
+C.1.2.1.1.1.¬ Things to look for
+
+  *  Is there consistency across the procedures used by the various
+    jurisdictions
+
+  *  Is there evidence of interface with government or non-government
+    responders
+
+  *  Is there evidence of any plan to use different modes and/or
+    frequencies when conditions warrant
+
+C.1.2.1.1.2.¬ Observations
+
+  *  Observation 1: ......
+
+  *  Observation 2: ......
+
+  *  ......
+
+C.1.2.1.2.¬ Preparedness Measure
+
+Redundant and diverse interoperable communication systems are available
+
+C.1.2.1.2.1.¬ Things to look for
+
+  *  Are multiple modes and frequencies in use
+
+  *  Is there evidence of temporary, portable or mobile operation
+
+  *  Are appropriate equipment manuals accessible where needed
+
+C.1.2.1.2.2.¬ Observations
+
+  *  Observation 1: ......
+
+  *  Observation 2: ......
+
+  *  ......
+
+
+D.¬ Exercise Events Summary Table
+---------------------------------
+
+Time
+
+Scenario Event, Simulated Player Inject, Player Action
+
+Event/Action
+
+0745
+
+Scenario Event
+
+National Weather Service DTX advises GLETN of pending severe winter
+weather event including widespread icing.
+
+0800
+
+Player Action
+
+SEOC station activates, notifies net liaisons of weather. Land line
+telephone service already severely comprimised.
+
+1030
+
+Scenario Event
+
+Conditions have deteriorated significantly. Power outages become
+widespread, high profile antennas are damaged.
+
+1045
+
+Player Action
+
+Local jurisdictions switch to emergency power, simplex where local
+repeaters have damage and/or power loss.
+
+Table¬ D.1.¬ Exercise Events Summary
+
+
+E.¬ Master Scenario Event List
+------------------------------
+
+The injects for the exercise actually consisted of a series of radiograms
+transmitted from the State EOC to the nets at various times during the
+exercise. This appendix lists those messages.
+
+[IMAGE] Message 1.
+
+[IMAGE] Message 2.
+
+[IMAGE] Message 3.
+
+[IMAGE] Message 4.
+
+[IMAGE] Message 5.
+
+[IMAGE] Message 6.
+
+[IMAGE] Message 7.
+
+[IMAGE] Message 8.
+
+[IMAGE] Message 9.
+
+[IMAGE] Message 10.
+
+[IMAGE] Message 11.
+
+[IMAGE] Message 12.
+
+[IMAGE] Message 13.
+
+[IMAGE] Message 14.
+
+[IMAGE] Message 15.
+
+[IMAGE] Message 16.
+
+[IMAGE] Message 17.
+
+[IMAGE] Message 18.
+
+[IMAGE] Message 19.
+
+[IMAGE] Message 20.
+
+[IMAGE] Message 21.
+
+[IMAGE] Message 22.
+
+[IMAGE] Message 23.
+
+[IMAGE] Message 24.
+
+[IMAGE] Message 25.
+
+[IMAGE] Message 26.
+
+[IMAGE] Message 27.
+
+[IMAGE] Message 28.
+
+[IMAGE] Message 29.
+
+[IMAGE] Message 30.
+
+[IMAGE] Message 31.
+
+[IMAGE] Message 32.
+
+[IMAGE] Message 33.
+
+[IMAGE] Message 34.
+
+[IMAGE] Message 35.
+
+[IMAGE] Message 36.
+
+[IMAGE] Message 37.
+
+[IMAGE] Message 38.
+
+[IMAGE] Message 39.
+
+[IMAGE] Message 40.
+
+[IMAGE] Message 41.
+
+[IMAGE] Message 42.
+
+[IMAGE] Message 43.
+
+[IMAGE] Message 44.
+
+[IMAGE] Message 45.
+
+[IMAGE] Message 46.
+
+[IMAGE] Message 47.
+
+[IMAGE] Message 48.
+
+[IMAGE] Message 49.
+
+[IMAGE] Message 50.
+
+[IMAGE] Message 51.
+
+[IMAGE] Message 52.
+
+[IMAGE] Message 53.
+
+[IMAGE] Message 54.
+
+[IMAGE] Message 55.
+
+[IMAGE] Message 56.
+
+[IMAGE] Message 57.
+
+[IMAGE] Message 58.
+
+Table¬ E.1.¬ Inject Messages
+
+
+F.¬ NTS to District Assignments
+-------------------------------
+
+The following diagram illustrates the assignment of NTS nets to ARES
+Districts: Traffic Flow Traffic Flow
+
+Figure¬ F.1.¬ Traffic Flow
+
+
+Black lines indicate liaison with SEOC on 3.563 MHz, while violet lines
+indicate contact on 3.932 MHz.
+
+
+G.¬ List of Contributors
+------------------------
+
+The following individuals contributed to this document:
+
+  * NX8A, John F. Hutcheson - Training and Exercise Officer
+
+  * K8AE, Anne E. Travis - Net Manager
+
+  * AC8AR, Flora Jean Young - Net Manager
+
+  * WD8AXB, Charles R. Pfister - Evaluator
+
+  * KD8DQA, Blaine A. Jenks - Evaluator
+
+  * WA8DHB, Aileen J. Gagnon - Net Manager
+
+  * W8DR, Ronald D. Peterka - Evaluator
+
+  * N8FVM, Edward H. Bassett - Net Manager
+
+  * WB9JSR, John P. Wehmer - Net Manager
+
+  * AC8JW, John M. Mathieson - Assistant District Emergency Coordinator
+
+  * KG8NK, Louis A. Gembolis - District Emergency Coordinator
+
+  * N8OSL, Joseph E. Tuscher - District Emergency Coordinator
+
+  * WB8RCR, John J. McDonough - Section Emergency Coordinator
+
+  * WA8RLI, Thomas M. Duggan - District Emergency Coordinator
+
+  * WA8SCO, George E. Brand, III - Evaluator
+
+  * AB8SY, Charles L. Rood - Evaluator
+
+  * KB8VEE, Thomas J. van der Mel - District Emergency Coordinator
+
+  * K8VFZ, Grant A. Watson - Net Manager
+
+  * WF5X, Randy L. Love - District Emergency Coordinator
+
+  * WB8WKQ, Jeffrey S. Miller - Net Manager
+
+  * K8YZA, Joseph W. Pullen - District Emergency Coordinator
+
+  * N8ZSA, Theodore N. Davis - District Emergency Coordinator
+
+
+H.¬ Acronyms
+------------
+
+Acronym
+
+Meaning
+
+ARES
+
+Amateur Radio Emergency Services
+
+ARPSC
+
+Amateur Radio Public Service Corps; incorporates ARES, RACES, NTS and
+SKYWARN
+
+DTX
+
+White Lake NWS office
+
+EEG
+
+Exercise Evaluation Guide
+
+EOC
+
+Emergency Operations Center
+
+GLETN
+
+Great Lakes Emergency and Traffic net
+
+MSEL
+
+Master Scenario Event List
+
+NGO
+
+Non Government Organization
+
+NTS
+
+National Traffic System
+
+RACES
+
+Radio Amateur Civil Emergency Service
+
+SEOC
+
+State Emergency Operations Center
+
+Table¬ H.1.¬ Acronyms used in the document
+
+
+I.¬ Revision History
+--------------------
+
+Revision History
+
+Revision 1.0
+
+Thu Feb 2 2012
+
+John McDonough
+
+Various typos
+
+Remove draft tag
+
+- reviews by evaluators, Net Managers and DECs complete
+
+Revision 0.5
+
+Tue Jan 3 2012
+
+John McDonough
+
+Draft conclusions
+
+Revision 0.4
+
+Wed Dec 14 2011
+
+John McDonough
+
+Draft improvement plan
+
+Revision 0.3
+
+Tue Dec 13 2011
+
+John McDonough
+
+Draft analyses and recommendations
+
+Revision 0.2
+
+Sat Nov 26 2011
+
+John McDonough
+
+Add index entries
+
+Add list of contributors
+
+Revision 0.1
+
+Tue Nov 15 2011
+
+John McDonough
+
+Initial draft
+
+Revision 0.0
+
+Thu Oct 27 2011
+
+John McDonough
+
+Initial template instantiation
+
+
+Index
+-----
+
+
+A
+
+Analysis of Capabilities, Analysis of Capabilities
+
+ARES  
+
+      Relationship with NTS, Executive Summary, Executive Overview,
+      Exercise Purpose and Design, Exercise Objectives, Capabilities, and
+      Activities
+
+ARRL Simulated Emergency Test, Executive Summary, Executive Overview,
+Exercise Purpose and Design
+
+
+B
+
+Boy Scouts, Observation 1.1.6 - Support
+
+
+C
+
+Capabilities
+
+      Analysis of, Analysis of Capabilities
+
+Capabilities-based planning, Exercise Objectives, Capabilities, and
+Activities
+
+Capability
+
+      Loss of, Exercise Objectives, Capabilities, and Activities,
+      Scenario Summary, Preparedness Measure 1.2 - Loss of capability
+
+Catastrophic Events, Exercise Objectives, Capabilities, and Activities,
+Preparedness Measure 1.2 - Loss of capability
+
+ComA2.4.3.1, Executive Summary, Capabilities, Exercise Objectives,
+Capabilities, and Activities, Capability 1 - Procedures
+
+ComC1.2.2, Executive Summary, Capabilities, Exercise Objectives,
+Capabilities, and Activities, Capability 2 - Standards
+
+Common Standards, Capability 2 - Standards
+
+Communications Standards, Capability 2 - Standards
+
+Confusion
+
+      Caused by BT, Observation 1.1.4 - Procedures
+
+Congestion at SEOC, Executive Summary
+
+Consistency of procedures, Preparedness Measure 2.1 - Cross-jurisdiction
+
+Continuity of Operations Plans, Capabilities, Exercise Objectives,
+Capabilities, and Activities, Preparedness Measure 1.1 - Survivability
+and Recovery, Observation 1.1.5 - Rotation
+
+COOP, Capabilities, Exercise Objectives, Capabilities, and Activities,
+Preparedness Measure 1.1 - Survivability and Recovery
+
+Cross-jurisdiction communications, Preparedness Measure 2.1 -
+Cross-jurisdiction
+
+
+D
+
+Disabilities, Exercise Objectives, Capabilities, and Activities,
+Preparedness Measure 1.2 - Loss of capability
+
+Diversity, Preparedness Measure 2.2 - Diversity
+
+Documentation
+
+      Availability of, Preparedness Measure 2.2 - Diversity, Observation
+      2.2.3 - Onsite Documentation
+
+
+E
+
+Emergency Power, Exercise Objectives, Capabilities, and Activities,
+Preparedness Measure 1.1 - Survivability and Recovery, Preparedness
+Measure 1.2 - Loss of capability, Observation 1.2.1 - Emergency Power
+
+Equipment manuals, Preparedness Measure 2.2 - Diversity, Observation
+2.2.3 - Onsite Documentation
+
+Experience
+
+      Operators, Primary areas for improvement, Observation 1.1.2 -
+      Experience
+
+
+F
+
+Field Locations, Exercise Objectives, Capabilities, and Activities,
+Preparedness Measure 1.2 - Loss of capability, Observation 1.2.3 -
+Temporary Operation, Preparedness Measure 2.2 - Diversity, Observation
+2.2.2 - Portable/Temporary Operations
+
+Frequency of operation, Preparedness Measure 2.1 - Cross-jurisdiction,
+Preparedness Measure 2.2 - Diversity
+
+
+I
+
+Infrastructure
+
+      Permanent, Exercise Objectives, Capabilities, and Activities,
+      Preparedness Measure 1.2 - Loss of capability, Observation 1.2.2 -
+      Infrastructure
+
+Infrastructure Failures, Executive Summary, Major Strengths, Exercise
+Purpose and Design, Exercise Objectives, Capabilities, and Activities,
+Scenario Summary
+
+Interoperable communications, Preparedness Measure 2.1 -
+Cross-jurisdiction
+
+
+L
+
+Locations
+
+      Field/Temporary, Exercise Objectives, Capabilities, and Activities,
+      Preparedness Measure 1.2 - Loss of capability, Observation 1.2.3 -
+      Temporary Operation, Preparedness Measure 2.2 - Diversity,
+      Observation 2.2.2 - Portable/Temporary Operations
+
+Loss of Capability, Exercise Objectives, Capabilities, and Activities,
+Scenario Summary, Preparedness Measure 1.2 - Loss of capability
+
+
+M
+
+Manuals
+
+      Equipment, Preparedness Measure 2.2 - Diversity, Observation 2.2.3
+      - Onsite Documentation
+
+Message Handling, Executive Summary
+
+Modes of operation, Preparedness Measure 2.1 - Cross-jurisdiction,
+Preparedness Measure 2.2 - Diversity
+
+
+N
+
+Net   
+
+      Procedures, Primary areas for improvement
+
+Net Controls
+
+      Alternate, Observation 1.1.5 - Rotation
+
+      Rotation, Preparedness Measure 1.1 - Survivability and Recovery,
+      Observation 1.1.5 - Rotation
+
+Net Procedures, Observation 1.1.4 - Procedures
+
+NTS   
+
+      Relationship with ARES, Executive Summary, Executive Overview,
+      Exercise Purpose and Design, Exercise Objectives, Capabilities, and
+      Activities
+
+
+O
+
+Operating Procedures, Exercise Objectives, Capabilities, and Activities,
+Capability 1 - Procedures
+
+Operators
+
+      Experience, Primary areas for improvement, Observation 1.1.2 -
+      Experience
+
+      Personal Needs, Preparedness Measure 1.1 - Survivability and
+      Recovery, Observation 1.1.3 - Personal Needs
+
+      Rotation, Preparedness Measure 1.1 - Survivability and Recovery,
+      Observation 1.1.5 - Rotation
+
+
+P
+
+Permanent Infrastructure, Exercise Objectives, Capabilities, and
+Activities, Preparedness Measure 1.2 - Loss of capability, Observation
+1.2.2 - Infrastructure
+
+Plans, Major Strengths
+
+      Continuity of Operations, Capabilities, Exercise Objectives,
+      Capabilities, and Activities, Preparedness Measure 1.1 -
+      Survivability and Recovery
+
+      Rotation, Primary areas for improvement, Preparedness Measure 1.1 -
+      Survivability and Recovery
+
+Portable Operation, Observation 2.2.2 - Portable/Temporary Operations
+
+Power 
+
+      Emergency, Exercise Objectives, Capabilities, and Activities,
+      Preparedness Measure 1.1 - Survivability and Recovery, Preparedness
+      Measure 1.2 - Loss of capability, Observation 1.2.1 - Emergency
+      Power
+
+      Solar, Observation 1.1.1 - Emergency Power
+
+Procedures
+
+      Consistent, Preparedness Measure 2.1 - Cross-jurisdiction
+
+      Net, Primary areas for improvement, Observation 1.1.4 - Procedures
+
+      Operating, Capability 1 - Procedures
+
+      Traffic, Executive Summary, Major Strengths
+
+Propagation
+
+      responding to, Observation 2.1.2 - Flexibility
+
+Protocols, Preparedness Measure 1.1 - Survivability and Recovery
+
+
+R
+
+Recovery, Exercise Objectives, Capabilities, and Activities, Preparedness
+Measure 1.1 - Survivability and Recovery
+
+Redundancy, Preparedness Measure 2.2 - Diversity
+
+Refreshments, Observation 1.1.3 - Personal Needs
+
+Response
+
+      Sustained, Capabilities, Exercise Objectives, Capabilities, and
+      Activities, Preparedness Measure 1.1 - Survivability and Recovery
+
+Rotation
+
+      Net Controls, Preparedness Measure 1.1 - Survivability and Recovery,
+      Observation 1.1.5 - Rotation
+
+      Operators, Preparedness Measure 1.1 - Survivability and Recovery,
+      Observation 1.1.5 - Rotation
+
+      Plan, Primary areas for improvement, Preparedness Measure 1.1 -
+      Survivability and Recovery, Observation 1.1.5 - Rotation
+
+
+S
+
+SEOC  
+
+      Congestion at, Executive Summary
+
+Served Agencies, Exercise Purpose and Design, Preparedness Measure 2.1 -
+Cross-jurisdiction, Observation 2.1.3 - Served Agencies
+
+Shutting down repeaters, Observation 2.1.2 - Flexibility
+
+Simulated Emergency Test, Executive Summary, Executive Overview
+
+Solar Power, Observation 1.1.1 - Emergency Power
+
+Standard Operating Procedures, Exercise Objectives, Capabilities, and
+Activities, Capability 1 - Procedures
+
+Standards, Capability 2 - Standards
+
+Support Personnel, Preparedness Measure 1.1 - Survivability and Recovery,
+Observation 1.1.6 - Support
+
+Survivability, Exercise Objectives, Capabilities, and Activities,
+Preparedness Measure 1.1 - Survivability and Recovery
+
+Sustained Response, Capabilities, Exercise Objectives, Capabilities, and
+Activities, Preparedness Measure 1.1 - Survivability and Recovery
+
+
+T
+
+Target Capabilities List, Exercise Objectives, Capabilities, and
+Activities
+
+Temporary Locations, Exercise Objectives, Capabilities, and Activities,
+Preparedness Measure 1.2 - Loss of capability, Observation 1.2.3 -
+Temporary Operation
+
+Traffic
+
+      Confusion, Observation 1.1.4 - Procedures
+
+      Procedures, Executive Summary, Major Strengths
+
+
+W
+
+Winter Storm, Scenario Summary
+
+
+
+For Official Use Only
+=====================

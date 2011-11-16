@@ -1,0 +1,10 @@
+<!ENTITY PRODUCT "ARPSC">
+<!ENTITY BOOKID "SET2011-After_Action_Report.ent">
+<!ENTITY YEAR "2011">
+<!ENTITY HOLDER "Michigan Section of the American Radio Relay League">
+
+<!ENTITY JURIS "Michigan Section">
+<!ENTITY SCEN "winter storm">
+<!ENTITY EXTYPE "functional drill">
+<!ENTITY EXNAM "2011 Simulated Emergency Test">
+<!ENTITY EXDATE "October 1, 2011">

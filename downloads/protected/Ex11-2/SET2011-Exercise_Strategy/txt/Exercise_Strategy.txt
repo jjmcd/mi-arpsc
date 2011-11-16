@@ -1,0 +1,2462 @@
+Product SiteDocumentation Site
+
+SET-2011
+
+
+
+Exercise Strategy
+=================
+
+
+Strategy for the October SET
+----------------------------
+
+
+[IMAGE]
+
+
+John McDonough
+
+ARRL Michigan Sectionwb8rcr@arrl.net
+
+
+
+Legal Notice
+============
+
+CopyrightÂ© 2011, Michigan Section ARRL The text of and illustrations in
+this document are licensed by the Michigan Section of the American Radio
+Relay League under a Creative Commons Attribution--Share Alike 3.0
+Unported license ("CC-BY-SA"). An explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+Each October the ARRL holds a national event called the Simulated
+Emergency Test. Although ARRL's view of this event is more of a contest,
+it has been the practice of the Michigan Section to use the SET as an
+exercise opportunity. For the past few years the Section has been using
+exercises as an opportunity to improve the interface between the ARES and
+NTS organizations. During the May 20011 National Level Event, additional
+opportunities for improvement became apparent. This document is an
+attempt to elucidate some ideas which would permit the 2011 Simulated
+Emergency Test to be used to help move those improvements forward.
+
+------------------------------------------------------------------------
+
+1. Introduction
+
+2. Capabilities to be exercised
+
+3. Issues to address
+
+      3.1. SEOC as Net Control
+
+      3.2. Interface between ARES and NTS
+
+4. Possible Approaches
+
+      4.1. ARES-NTS Relationships
+
+      4.2. Liaison to the SEOC
+
+      4.3. Net ownership of response duties
+
+      4.4. "Outlier" nets
+
+5. Exercise Evaluation
+
+      5.1. No players at the evaluators conference
+
+      5.2. Exercise Evaluation Guide
+
+      5.3. After Action Evaluator's Conference
+
+6. Specific Assignments
+
+      6.1. District Emergency Coordinators
+
+      6.2. Net Managers
+
+A. Universal Task List - Common Capabilities
+
+      A.1. Planning
+
+      A.2. Resource Management
+
+      A.3. Communications
+
+      A.4. Training and Exercises
+
+      A.5. Risk Management
+
+B. Contact information for District Emergency Coordinators
+
+C. Contact information for Net Managers
+
+D. Preparedness Criteria
+
+E. Target Capabilities List
+
+      E.1. Common
+
+      E.2. Prevent
+
+      E.3. Protect
+
+      E.4. Respond
+
+      E.5. Recover
+
+F. Revision History
+
+
+1.Â Introduction
+----------------
+
+Each October, the ARRL holds a "Simulated Emergency Test". Although it
+provides an excuse for an exercise, the SET is actually a contest. Unlike
+most contests where points are awarded for the number of contacts and
+number of sections contacted, points for SET are awarded for the number
+of agencies involved. For several years, Michigan has used SET as an
+excuse for an exercise, and has focused on various skills. In some years
+we focused on packet, others on deployment, more recently we have been
+working on the NTS interface. After the May NM11 exercise, a post
+exercise meeting was held at the Midland Hamfest. A number of issues
+became evident during the May exercise which were discussed. Much of the
+discussion centered around congestion at the SEOC. With this backdrop,
+this paper introduces some thoughts for the 2011 SET and how we might use
+it to test some alternative methods for interfacing with the SEOC.
+
+
+2.Â Capabilities to be exercised
+--------------------------------
+
+Exercises should be designed to test specific capabilities. FEMA has
+provided a "Universal Task List", identifying the specific tasks reqiured
+for responding to all hazards. These tasks are grouped into five areas;
+an area for each of the emergency management missions, and a "Common
+Capabilities" area representing those capabilities needed across all
+missions:
+
+  *  Common Capabilities
+
+  *  Prevent
+
+  *  Protect
+
+  *  Respond
+
+  *  Recover
+
+Each of these areas is further subdivided. As communications providers,
+much of our responsibility falls under the Common Capabilities area, and
+especially the subcategory, "Communications". However, most of the tasks
+within the Common Capabilities area apply to us, as do many of the tasks
+within the other mission areas, especially Respond. A complete list of
+the tasks witin the Common Capabilities area is included in the
+appendices to this paper Based on the deficiencies exposed in the May
+exercise, it would make sense to focus the next exercise on two tasks:
+
+  *  ComA2.4.3.1 - Develop Standard Operating Procedures and Standard
+    Operating Guides in support of Emergency Operations Plans
+
+  *  ComC1.2.2 - Develop common communication and data standards to
+    facilitate the exchange of information in support of response
+    management
+
+Clearly, many of the taks within the Communications section are
+applicable to almost any action taken by ARES/RACES, but these two seem
+appropriate areas of focus for this upcoming exercise. For reference, the
+tasks within the "Common Capabilites" are listed in Appendix A. Appendix
+E lists all the Target Capabilities, along with the top level headings
+for the tasks within those capabilities. The entire Universal Task List
+encompasses thousands of tasks.
+
+
+3.Â Issues to address
+---------------------
+
+A number of issues have arisen in past exercises that should be
+addressed. Not all will or should be addressed in a single exercise,
+however, some of the key issues should be touched, and are enumerated
+below.
+
+
+3.1.Â SEOC as Net Control
+
+On some occasions, the SEOC has atrempted to act as a net control
+station. While at times this has worked, at other times, especially when
+there is a lot of traffic or when the SEOC becomes particularly busy,
+this has not worked well. Indeed, most counties have found that it is
+better to run SKYWARN net control from an isolated location, so NCS may
+focus on the net, and be isolated to a degree from operational
+distractions. During some SEOC activations, the level of distraction at
+the station, even though it is isolated from the SEOC proper, can be
+substantial. Given the large number of stations that are active when the
+SEOC station is active, it may not even make sense for the SEOC station
+to join a net, let alone serve as NCS.
+
+
+3.2.Â Interface between ARES and NTS
+
+In recent exercises the Section has attempted to route most taffic
+through NTS. This leads to a large number of advantages, and has worked
+well. However, improvements are still possible. A few of the shortcomings
+noted:
+
+  *  NTS operators do not always know what frequency to report to or when
+
+  *  ARES operators are unaware of nets or their capabilities
+
+  *  ARES operators are unfamiliar with NTS procedures
+
+  *  ARES operators are unfamiliar with directed nets
+
+  *  NTS operators are unfamiliar with ARES procedures and organization
+
+  *  NTS leadership does not take ownership of emergency operations
+
+
+4.Â Possible Approaches
+-----------------------
+
+If one steps back and looks at what we are attempting, it seems we
+largely have the capabilities in place, but have failed to exploit them.
+It would seem that falling back to "standard" operational procedures, and
+adding some permanance to the relationships may help significantly.
+
+
+4.1.Â ARES-NTS Relationships
+
+For this exercise, it is proposed that we implement what we hope to
+become a more or less permanant relationship between the Affiliated
+Section Nets and the ARES Districts. Each District will be assigned a
+net, and each net a District, with the expectation that this relationship
+will remain past the exercise, extending not only to future Section-wide
+exercises, but quite possibly also to District and local exercises where
+it becomes appropriate. It is expected that each Net Manager will develop
+a relationship with a District Emergency Coordinator. In this way each
+can develop an understanding of the skills, capabilities and needs of the
+other. We have moved in this direction in earlier exercises, but never
+with the intention that the relationship be more or less permanent. The
+nets do not neatly overlay the Districts, so the relationship isn't
+always obvious. Key criteria for matching the District with the net
+should include such considerations as the net's coverage, distribution of
+membership, and proximity of the Net Manager to the District Emergency
+Coordinator.
+
+
+4.2.Â Liaison to the SEOC
+
+It has long been the practice of traffic nets to collect traffic on a
+net, then send a liaison to another outlet to forward the traffic. Rather
+than encourage congestion on the SEOC operating frequencies, it only
+makes sense for the nets to each send a liaison to SEOC to bring traffic
+to/from the SEOC station. Since the SEOC can operate two frequencies
+simultaneously, and the nets need only one member to act as liaison to
+the SEOC, rather than 83 stations all trying to contact the SEOC on a
+single frequency, there would be only four stations on each of two
+frequencies. This would imply that some phone nets would contact the SEOC
+on CW, but all of the HF nets (at least) have some CW capable members.
+Traffic Flow Traffic Flow
+
+FigureÂ 1.Â Traffic Flow
+
+
+The above figure outlines the proposal for alignment between Districts
+and nets. Black lines indicate liaison with SEOC on 3.563 MHz, while
+violet lines indicate contact on 3.932 MHz.
+
+
+4.3.Â Net ownership of response duties
+
+In previous exercises, nets were often micromanaged by the STM,
+specifying meeting times, frequencies, etc. This worked better than
+giving vague instructions to the net manager with the expectation that
+they would "deal with it", but in the event of an actual incident, is
+quite unrealstic. If they are to be at all useful in an actual event, the
+nets must understand their responsibilities, and net managers must
+develop strategies for activating their net at unusual times and/or
+frequencies. By assigning Districts to nets more or less permanently, the
+nets have a better defined scope, and a "customer" with whom they may
+develop a relationship. For the coming SET (and hopefully future
+exercises and incidents), it is expected that each Net Manager will
+contact the corresponding District Emergency Coordinator and arrange net
+schedules, frequencies, net controls and liaisons. Note that all nets
+should expect to send a liaison to the SEOC early in the event, but other
+times need to be worked out between the net and the District. Since
+exercises typically last only a few hours, a net may choose to meet for
+the duration of the event, or may elect to schedule specific times of
+contact so that the counties have targeted times for which to prepare
+traffic. While most nets may choose to meet on their normal frequencies,
+note that the SEOC will be occupying the GLETN and QMN frequencies, which
+happen to be the Michigan phone and CW emergency frequencies, so these
+nets will need to select alternate frequences.
+
+
+4.4.Â "Outlier" nets
+
+There are a few affiliated nets which have unusual duties or are omitted.
+There are seven districts and four NWS offices. The NWS offices do not
+offer the complexity of a District; i.e. they have no further
+subdivisions. There are some nets that share a Net Manager. Not every
+District has a Net Manager residing in that District. This inevitably
+leads to a certain amount of unevenness in how the nets are treated. The
+strategy shown above attempts to minimize that unevenness. MITN and SEMTN
+share a Net Manager. That Net Manager happens to reside in a district not
+fully covered by SEMTN, but adjacent. That Net Manager has double work
+for this exercise. TMMTN is in District 3, but covers only a small
+fraction of that District. The Net Manager for TMMTN is also the Net
+Manager for GLETN. In addition, GLETN has some special challenges, so
+rather than assign that Net Manager double duty, TMMTN was left out of
+the plan. GLETN has the widest coverage of all the nets, so that net was
+assigned the 4 NWS offices which represent the most geographically
+disparate group. There is considerable unevenness in the NWS offices, so
+even though this assignment represents the smallest group of contacts, it
+presents some special challenges. NLEUP is without a Net Manager and
+appears to have been more or less dormant for some time. NLEUP has thus
+been left out also. QMN has an assignment that is outside the District
+where the Net Manager resides, similarly for MACS. However, both of these
+Net Managers reside within repeater range of their served Districts and
+both nets include membership from these Districts.
+
+
+5.Â Exercise Evaluation
+-----------------------
+
+In order to gain as much as possible from the exercise, a more formal
+evaluation will be used (although not quite as formal as expected in the
+HSEEP). Each DEC is expected to recruit an evaluator who will not
+participate in the exercise, but rather will stand by and observe. The
+evaluator is expected to join a phone conference for evaluators prior to
+the exercise.
+
+
+5.1.Â No players at the evaluators conference
+
+In order to maintain the integrity of the exercise, and especially the
+evaluation, it is important that anyone who attends the evaluator
+conference does not participate as a player in the exercise.
+
+
+5.2.Â Exercise Evaluation Guide
+
+The SEC will provide the evaluators with an Exercise Evaluation Guide
+(EEG) prior to SET. This guide is only available to evaluators and will
+be used by the evaluator during the exercise. In preparing the EEG, the
+SEC will select a small number of the "Preparedness Criteria" listed by
+FEMA for the tasks we are exercising. The complete list of the relevant
+preparedness criteria may be found in Appendix D.
+
+
+5.3.Â After Action Evaluator's Conference
+
+Following the SET and the return of the EEGs to the SEC, an After Action
+conference will be held with the evaluators and the controllers. Using
+information collected in this conference, a draft After Action Report
+will be developed. A second conference including Net Managers and DECs
+will be held to finalize the report.
+
+
+6.Â Specific Assignments
+------------------------
+
+Prior to the exercise the Net Managers and DECs need to take care of a
+few details.
+
+
+6.1.Â District Emergency Coordinators
+
+Prior to SET each DEC should:
+
+  *  Contact the appropriate Net Manager and arrange meeting times,
+    frequencies (refer to Appendix B)
+
+  *  Identify an evaluator for the District. The Evaluator should be
+    expected to monitor the District's on the air activities during the
+    SET, participate in the Evaluator's Conference on September 21,
+    return the EEG to the SEC promptly, and participate in the
+    Evaluator's After Action Conference. Advise the SEC of the Evaluator
+    by September 14, providing call and contact information.
+
+  *  Contact each member county, identify who intends to participate, and
+    arrange for appropriate contact between the county and the District
+    (in case the net frequency is expected to be congested or a county
+    cannot muster the necessary capabilities).
+
+  *  For each county, identify any served agencies that intend to
+    participate, and provide that information to the Training and
+    Exercise Officer no later than September 14 (hutchesonjohn@att.net).
+
+  *  Remind each Emergency Coordinator that they should plan to send a
+    report in to Headquarters following SET. Emergency Coordinators
+    should report on "Form A" found at
+    http://www.arrl.org/public-service-field-services-forms. Remind ECs
+    that this report is much easier to fill out on the day of SET than
+    later on after the details have become fuzzy.
+
+  *  For each resource to be used, be aware of emergency power
+    capabilities; type of power, running time available, ability to be
+    reloaded.
+
+  *  For any repeaters or other resources to be used, coordinate with the
+    owners of those resources to ensure their availability for the SET.
+
+
+6.2.Â Net Managers
+
+Prior to the SET, each Net Manager should:
+
+  *  Contact the appropriate DEC (refer to Appendix C) and arrange
+    meeting times, frequencies, and get an understanding of the groups
+    maturity with respect to traffic handling procedures and net
+    discipline.
+
+  *  Schedule net controls as needed for the event.
+
+  *  Recruit liaison stations having the capability to contact the SEOC
+    as well as to participate with the counties.
+
+  *  Advise net members of meeting times, frequencies, and your
+    expectations for the members.
+
+  *  Be aware of each net member's emergency power capabilities. Remember
+    that not all types of emergency power have the same useable lifetime.
+    Keep in mind that, for example, it may not be possible to refuel a
+    gasoline powered generator if there is a widespread outage, and gas
+    stations will not be able to pump fuel. Consider fallbacks such as CW
+    so that stations may extend their lifetime by operating at lower
+    power. Alternatively, consider rotating NCS stations so that any one
+    station's transmitting time is reduced. Note that in most cases, the
+    SEOC is in a position to receive CW on the phone as well as CW
+    frequency.
+
+  *  Net Managers should review ARRL "Form B" found at
+    http://www.arrl.org/public-service-field-services-forms and send in
+    the completed form after the event. Net Managers should note that
+    this is a pretty simple report if completed the day of the SET, but
+    could be challenging if put off until near the due date of Feb, 2012.
+
+
+A.Â Universal Task List - Common Capabilities
+---------------------------------------------
+
+
+A.1.Â Planning
+
+ComA 1
+
+Develop scalable strategic plans, based on normal response plans, to
+prevent, protect against, respond to, and recover from natural and
+man-made disasters as well as acts of terrorism
+
+ComA 1.1
+
+Establish the National Response Plan
+
+ComA 1.1.1
+
+Facilitate implementation of the National Response Plan
+
+ComA 1.1.2
+
+Update and maintain the National Response Plan
+
+ComA 1.1.2
+
+Update and maintain the National Incident Management System
+
+ComA 1.1.3
+
+Develop regional, and State/local Strategic Plans
+
+ComA 1.2
+
+Establish the National Incident Management System
+
+ComA 1.3
+
+Establish and maintain a national preparedness assessment and reporting
+system
+
+ComA 1.3.1
+
+Develop and coordinate jurisdictional preparedness programs
+
+ComA 1.3.2
+
+Develop a preparedness planning and review cycle that encompasses
+planning, training, exercising, evaluation and the incorporation of After
+Action Reviews (AAR) and Lessons Learned (LL)
+
+ComA 1.3.2.1
+
+Track implementation AARs and LLs for improvement and corrective actions
+that enhance exercises and inform subsequent corrective training efforts
+
+ComA 1.3.3
+
+Develop and promulgate national preparedness security guidance and/or
+best practices, policies and monitor conformance
+
+ComA 1.3.4
+
+Conduct gap analysis to identify training, exercise needs and to
+facilitate investment and personnel decisions
+
+ComA 2
+
+Develop/Revise Operational Plans
+
+ComA 2.1
+
+Conduct a hazard analysis to identify threats, vulnerabilities, and
+consequences to be addressed by emergency management plans
+
+ComA 2.1.1
+
+Establish readiness and response levels
+
+ComA 2.1.2
+
+Establish criteria for local disaster or emergency declarations
+
+ComA 2.1.3
+
+Develop and maintain Comprehensive Emergency Management Plans (CEMPs) or
+similar emergency management/preparedness plans
+
+ComA 2.2
+
+Define and implement the responsibilities for standardized emergency
+management system planning
+
+ComA 2.2.1
+
+Define responsibilities of agencies and departments
+
+ComA 2.2.2
+
+Coordinate and integrate all response and recovery agencies/organizations
+in the planning process
+
+ComA 2.2.3
+
+Coordinate and integrate nongovernmental organizations and the
+private-sector entities into emergency management planning and decision
+making processes
+
+ComA 2.3
+
+Develop and execute mutual aid assistance agreements and compacts
+
+ComA 2.3.1
+
+Facilitate the development of international, regional, and inter- and
+intra-State mutual aid agreements
+
+ComA 2.3.2
+
+Coordinate mutual aid agreements with public and private organizations
+
+ComA 2.3.3
+
+Develop regional coordination plans or activities that involve all
+Federal, State, local, territorial, tribal, NGO, and private stakeholders
+
+ComA 2.4
+
+Develop Emergency Operations/Response Plans that describe how personnel,
+equipment, and other governmental, nongovernmental, and private resources
+will support and sustain incident management requirements
+
+ComA 2.4.1
+
+Develop procedures to maintain related emergency operations plans
+
+ComA 2.4.2
+
+Coordinate scientific and technical expertise in developing emergency
+operations plans
+
+ComA 2.4.3
+
+Establish procedures for implementing emergency operations plans
+
+ComA 2.4.3.1
+
+Develop Standard Operating Procedures and Standard Operating Guides in
+support of Emergency Operations Plans
+
+ComA 2.4.3.2
+
+Develop protocols for joint investigation
+
+ComA 2.4.3.3
+
+Develop emergency response protocols with private-sector partners
+
+ComA 2.4.4
+
+Develop procedures that translates tasking to an organization into
+specific action-oriented checklists for incident management operations
+
+ComA 2.5
+
+Develop and maintain Emergency Operations Plan (EOP) annexes for hazard
+specific response to include natural and man-made disasters as well as
+acts of terrorism, and other hazards
+
+ComA 2.6
+
+Develop plans for military support to civil authority
+
+ComA 2.7
+
+Develop National, State/Local, and Non-Governmental Continuity Plans.
+All-level Continuity Plans will describe how personnel, equipment, and
+other governmental, non-governmental, and private resources will support
+the sustainment and/or reestablishment of essential functions. Plans
+shall identify the critical and time sensitive applications, processes,
+and functions, to be recovered and continued, following an emergency or
+disaster, as well as the personnel and procedures necessary to do so,
+such as business impact analysis, business continuity management, vital
+records preservation and alternate operating facilities
+
+ComA 2.7.1
+
+Establish and implement an order of command succession or continuity
+consistent with NIMS
+
+ComA 2.7.2
+
+Identify alternate work sites and essential tasks/functions
+
+ComA 2.8
+
+Develop cooperative plans and means to respond across international
+borders
+
+ComA 2.9
+
+Establish organization and leadership of regional and State emergency
+management structure
+
+ComA 2.9.1
+
+Develop organizational structure of regional and State EOC
+
+ComA 2.9.1.1
+
+Establish roles and responsibilities of regional and State EOC
+
+ComA 2.9.1.2
+
+Coordinate with unions and private-sector groups concerning
+employee/employer issues
+
+ComA 2.9.1.3
+
+Organize liaison structure for supporting organizations
+
+ComA 2.9.1.4
+
+Identify and define liaison staff responsibilities and responsibilities
+to support incident prevention and response activities
+
+ComA 2.9.1.5
+
+Designate liaison representatives to incident response management
+structure
+
+ComA 2.9.2
+
+Identify, develop, and convene local preparedness planning
+organization(s)
+
+ComA 2.9.3
+
+Facilitate implementation of the National Incident Management System
+
+ComA 2.9.4
+
+Address other specific communication issues in planning
+
+ComA 3
+
+Validate Plans
+
+ComA 3.1
+
+Develop exercises/drills of sufficient intensity to challenge management
+and operations and to test the knowledge, skills, and abilities of
+individuals and organizations
+
+ComA 3.2
+
+Develop integrated national, regional, and State/local level
+exercises/drills
+
+ComA 3.3
+
+Develop regional, and State/local level exercises of sufficient intensity
+to challenge management and operations and test knowledge, skill and
+abilities of individuals and organizations
+
+ComA 3.4
+
+Develop lessons learned reports and procedures based on real world events
+and exercises
+
+ComA 3.5
+
+Develop, review, evaluate and update emergency management and/or
+preparedness plans based on lessons learned and/or AARs to address
+problems/gaps and needed corrective actions
+
+ComA 3.6
+
+Ensure that trained, exercised and equipped personnel are available to
+execute all planning requirements as determined by applicable standards
+of proficiency
+
+TableÂ A.1.Â Common A - Planning
+
+
+A.2.Â Resource Management
+
+ComB 1
+
+Develop resource management plans, policies, procedures, and systems
+
+ComB 1.1
+
+Develop systems for resource recovery and rehabilitation, replenishment,
+disposition and retrograding
+
+ComB 1.1.1
+
+Develop reimbursement programs and processes to maintain readiness of
+resources
+
+ComB 1.2
+
+Develop plans, policies, procedures, and systems to coordinate
+non-governmental support and resources
+
+ComB 1.2.1
+
+Develop plans, policies, and protocols for coordination and deployment of
+private industry
+
+ComB 1.2.2
+
+Review and update resource typing under FEMA National Mutual Aid Resource
+Aid and Resource Management inventory to reflect animal health
+requirements
+
+ComB 1.3
+
+Develop plans, policies, procedures and systems for financial management
+support
+
+ComB 1.3.1
+
+Establish standardized financial management controls, guidance, and
+organization
+
+ComB 1.3.2
+
+Develop State and local commitment documents for reimbursement of
+response costs and activate support agreements for supplemental staffing
+
+ComB 1.3.2.1
+
+Issue secretary's request to transfer additional funds within the
+department, if needed
+
+ComB 1.3.2.2
+
+Identify liaisons and personnel responsible for financial management
+response operations
+
+ComB 1.3.2.3
+
+Maintain records of agencies engaged in financial management response
+operations
+
+ComB 1.4
+
+Identify and prioritize capabilities for emergency operations
+
+ComB 1.4.1
+
+Identify resources required
+
+ComB 1.4.2
+
+Develop lists of required personal protective equipment and the training
+required to operate it
+
+ComB 1.4.2.1
+
+Maintain current estimates of responder availability
+
+ComB 1.4.2.2
+
+Develop a multi jurisdictional decision matrix
+
+ComB 1.4.2.3
+
+Identify resource shortfalls and means of procurement
+
+ComB 1.4.3
+
+Assess industry and community response capabilities
+
+ComB 1.4.4
+
+Apply Federal guidelines and laws
+
+ComB 2
+
+Develop and implement personnel qualification and certification programs
+
+ComB 2.1
+
+Facilitate the development and leveraging of existing qualifications and
+certifications and dissemination of international, national, regional,
+State standards, guidelines and protocols for qualifications and
+certification
+
+ComB 2.2
+
+Review and approve requirements submitted by functionally oriented
+incident management organizations and associations of national, regional,
+and State governments
+
+ComB 2.3
+
+Facilitate the development of integrated national, regional and State
+data systems to provide incident managers with detailed qualification,
+experience, and training information needed to credential personnel
+
+ComB 2.4
+
+Develop personnel qualifications and certifications for NIMS specified
+roles
+
+ComB 3
+
+Develop and implement equipment acquisition and certification standards
+
+ComB 3.1
+
+Facilitate the dissemination of national standards, guidelines, and
+protocols for equipment certification region and Statewide
+
+ComB 3.2
+
+Develop and publish national standards, guidelines and protocols for
+equipment certification
+
+ComB 3.3
+
+Review and approve lists of emergency responder equipment that meet
+national certification standards
+
+ComB 3.4
+
+Identify and integrate agencies and organizations currently involved in
+certifying equipment to ensure that changes to protocols to meet new
+standards can be instituted efficiently
+
+ComB 4
+
+Develop and implement national authentication security certification
+system for use at all levels of jurisdictions and agencies
+
+ComB 4.1
+
+Develop credential policy for access to key facilities
+
+ComB 4.2
+
+Coordinate required qualifications of responders
+
+ComB 4.3
+
+Coordinate required qualifications of responders
+
+ComB 5
+
+Establish and maintain process for obtaining scientific and technological
+resources and other support for preparedness
+
+ComB 5.1
+
+Develop a strategy to obtain scientific and technological support
+
+ComB 5.1.1
+
+Conduct knowledge exchange with industry and education institution
+
+ComB 5.1.2
+
+Establish strategic research and development policies and procedures
+
+ComB 5.1.3
+
+Establish collaboration forum for incident management among national
+incident management system partners
+
+ComB 5.1.4
+
+Develop technology standards for government and private sector
+
+ComB 5.2
+
+Develop science and technology concepts and principles
+
+ComB 5.2.1
+
+Identify technology support to enhance all aspects of incident management
+and emergency response including data exchange of as-built building plan,
+evacuation plans and other technical data
+
+ComB 5.2.2
+
+Participate in development of national standards by preparedness
+organization, building and fire code organizations and national voluntary
+standards bodies
+
+ComB 5.2.3
+
+Provide means for aggregating and prioritizing new technology from the
+local to the national-level
+
+ComB 5.2.4
+
+Coordinate basic, applied, developmental, and demonstration research,
+testing, and evaluation activities across the incident life cycle
+
+ComB 5.2.4.1
+
+Coordinate basic, applied, developmental, and demonstration research to
+support technologies that harden structures including such things as
+preventing progressive collapse of buildings, reduce vulnerability of
+building electrical, mechanical and plumbing
+
+ComB 5.3
+
+Provide science and technology support to incident management
+
+ComB 5.3.1
+
+Gather operational scientific support from Federal, State and local
+agencies and incident management preparedness organizations
+
+ComB 5.3.2
+
+Requisition and provide operational scientific support via national
+incident management system
+
+ComB 5.3.3
+
+Research and develop technologies for detecting chemical, biological,
+radiological, and explosive material
+
+ComB 5.3.4
+
+Validate analytical methods to detect biological, chemical, radiological
+and nuclear material
+
+ComB 5.3.4.1
+
+Develop analytical methods
+
+ComB 5.3.4.2
+
+Validate methods
+
+ComB 5.3.4.3
+
+Deploy detection systems
+
+ComB 5.3.4.4
+
+Exercise/validate deployed systems
+
+ComB 5.3.4.5
+
+Develop and promulgate associated consequence management procedures
+
+ComB 5.3.4.6
+
+Develop, analyze and determine effectiveness of consequence management
+procedures
+
+ComB 5.3.4.7
+
+Conduct incident management research and development
+
+ComB 5.3.4.8
+
+Develop and provide high tech equipment to support building officials to
+locate and assess buildings following a disaster
+
+ComB 5.4
+
+Coordinate the establishment of technical standards for national incident
+management system users
+
+ComB 5.4.1
+
+Establish a performance measurements infrastructure
+
+ComB 5.4.2
+
+Develop consensus-based performance standards among standards development
+organizations
+
+ComB 5.4.3
+
+Establish working relationships among incident management organizations
+
+ComB 5.5
+
+Evaluate communications and response equipment against national incident
+management system technical standards
+
+ComB 5.5.1
+
+Establish private and public sector testing laboratories
+
+ComB 5.5.2
+
+Issue guidelines to ensure testing organizations are technically
+proficient and objective
+
+ComB 5.6
+
+Conduct R&D planning for national incident management system users
+
+ComB 5.6.1
+
+Determine operational needs of national incident management system users
+
+ComB 5.6.2
+
+Validate, integrate, and prioritize user needs
+
+ComB 5.6.3
+
+Submit user needs in development of incident management R&D agenda
+
+ComB 5.6.4
+
+Coordinate R&D with preparedness organizations at all levels
+
+ComB 5.6.5
+
+Integrate incident management into the national R&D agenda
+
+ComB 5.7
+
+Develop scientifically-based technical guidelines for use of emergency
+response equipment
+
+ComB 5.7.1
+
+Gather inputs from vulnerability analysis, equipment developers and
+standards experts
+
+ComB 5.7.2
+
+Account for threat and vulnerability, and equipment and system
+capabilities, under varying conditions in developing training guidelines
+
+ComB 5.8
+
+Enhance laboratory capabilities and capacities to enable protection from
+a wide spectrum of traditional and non-traditional agents
+
+ComB 5.8.1
+
+Establish local awareness regarding a requirement to use the laboratory
+response network (LRN) to confirm biological agents
+
+ComB 5.9
+
+Facilitate the improvement of analytical and technical capabilities in
+screening, surveillance, monitoring, detection and testing
+
+TableÂ A.2.Â Common B - Resource Management
+
+
+A.3.Â Communications
+
+ComC 1
+
+Develop communication plans, policies, procedures, and systems that
+support required communications with all Federal, regional, State, local
+and tribal governments and agencies as well as voluntary agencies
+
+ComC 1.1
+
+Establish policies and procedures for communications and warnings
+
+ComC 1.1.1
+
+Develop a continuous improvement plan that enriches interoperable
+communications to provide advanced customer service, reliability, and
+operational effectiveness
+
+ComC 1.2
+
+Develop interoperability and compatibility criteria
+
+ComC 1.2.1
+
+Develop procedures for the exchange of voice and data with Federal,
+regional, State, local and tribal agencies as well as voluntary agencies
+
+ComC 1.2.2
+
+Develop common communication and data standards to facilitate the
+exchange of information in support of response management
+
+ComC 1.2.2.1
+
+Establish common response communications language
+
+ComC 1.2.2.2
+
+Develop a standard set of data elements for sharing information (e.g.,
+status and pollution) across regional, State and local agencies
+
+ComC 1.2.2.3
+
+Facilitate the development of sampling and data collection information
+exchange standards
+
+ComC 1.2.2.4
+
+Facilitate the development of geospatial information exchange standards
+
+ComC 1.2.3
+
+Facilitate the development of wireless communication and computer
+procedures and protocols to permit interoperability between government
+and local public safety organizations
+
+ComC 1.3
+
+Establish and maintain information systems across response entities
+
+ComC 1.3.1
+
+Develop interoperable telecommunication and Information Technology
+systems across governmental departments and agencies
+
+ComC 1.3.2
+
+Develop and maintain surveillance and detection systems
+
+ComC 1.3.2.1
+
+Develop and maintain geographic information systems (GIS)
+
+ComC 1.3.2.2
+
+Develop and maintain the health alert network
+
+ComC 1.3.2.3
+
+Establish role of National Biosurveillance Integration System (NBIS) at
+the EOC
+
+ComC 1.3.4
+
+Coordinate with telecommunications service providers to ensure all
+telecommunications service requirements are satisfied
+
+ComC 1.4
+
+Design reliable, redundant, and robust communications systems for daily
+operations capable of quickly reconstituting normal operations in the
+event of disruption or destruction
+
+ComC 1.4.1
+
+Design reliable, redundant, and robust communications systems for daily
+operations capable of quickly reconstituting normal operations in the
+event of disruption or destruction
+
+ComC 1.4.1.1
+
+Establish role of the operation area satellite system (OASIS) at the EOC
+
+ComC 1.4.2
+
+Establish a secure and redundant communications system that ensures
+connectivity between health care facilities and health departments,
+emergency medical services, emergency management agencies, public safety
+agencies, blood collection agencies, building departments, neighboring
+jurisdictions and Federal health officials
+
+ComC 1.4.3
+
+Establish a national database of incident reports to support response
+management efforts and analysis
+
+ComC 1.5
+
+Develop information systems protection procedures
+
+ComC 1.5.1
+
+Develop and maintain automated credential verification systems to ensure
+proper credentialing for controlled access areas
+
+ComC 1.5.2
+
+Coordinate the maintenance and safeguarding of key records, building
+plans and documents
+
+ComC 1.5.3
+
+Establish a national authentication and security identification
+certification system for emergency responders, Federal, State, local and
+tribal personnel and other nongovernmental personnel requiring access to
+affected areas
+
+ComC 1.6
+
+Develop supplemental and back-up communications and information
+technology plans, procedures, and systems
+
+ComC 1.6.1
+
+Promote and facilitate the development of redundant communications
+networks
+
+ComC 1.6.2
+
+Identify emergency communications and data requirements for each
+stakeholder
+
+ComC 1.6.3
+
+Identify emergency communications staff roles and responsibilities
+
+ComC 1.6.4
+
+Identify available operational telecommunication assets needs for use on
+and off-incident site
+
+ComC 1.6.5
+
+Complete an assessment of standard communication capabilities for the
+Public Safety Answering Points (PSAPs) and Public Safety Communication
+Centers to ensure an appropriate Continuity of Operations Plan (COOP) is
+in place for public safety and service agencies' communications
+
+ComC 1.7
+
+Implement the national telecommunication support plan
+
+ComC 1.7.1
+
+Identify priority telecommunications programs and services
+
+ComC 1.7.2
+
+Coordinate procurement and placement of technology communication systems
+based on a gap analysis of requirements versus existing capabilities
+
+ComC 1.7.3
+
+Develop plans to provide telecommunication and information technology
+support to Federal, regional, State, local and tribal officials and the
+private sector
+
+ComC 2
+
+Develop and Implement Training and Exercise Programs for Response
+Communications
+
+ComC 2.1
+
+Develop and Implement Training Programs for Response Communications
+
+ComC 2.1.1
+
+Develop and implement awareness training programs for response
+communications
+
+ComC 2.1.2
+
+Develop exercises/drills of sufficient intensity to challenge management
+and operations and to test the knowledge, skills, and abilities of
+individuals and organizations for response communications
+
+ComC 2.2
+
+Develop and Implement Exercise Programs for Response Communications
+
+ComC 2.2.1
+
+Develop and conduct training to improve all-hazard incident management
+capability for response communications
+
+ComC 2.2.2
+
+Conduct an after action review to determine strengths and shortfalls and
+develop a corrective plan accordingly for response communications
+
+ComC 3
+
+Conduct alert and dispatch notification
+
+ComC 3.1
+
+Dispatch first responders
+
+ComC 3.2
+
+Dispatch secondary response agencies
+
+ComC 3.3
+
+Implement government and NGO agency notification protocols and procedures
+
+ComC 3.4
+
+Request external resources using EMAC and other mutual aid/assistance
+processes (inter- and intra-State)
+
+ComC 4
+
+Provide Incident Command/First Responder/First Receiver/Interoperable
+Communications
+
+ComC 4.1
+
+Establish and maintain response communications systems on-site
+
+ComC 4.1.1
+
+Verify immediately that critical communication links among first
+responders are functioning
+
+ComC 4.2
+
+Implement response communications interoperability plans and protocols
+
+ComC 4.2.1
+
+Communicate internal incident response information
+
+ComC 4.2.1.1
+
+Use established common response communications language (i.e., plain
+English)
+
+ComC 4.2.2
+
+Coordinate incident site communications within a National Incident
+Management System (NIMS) compliant framework
+
+ComC 4.2.3
+
+Report and document the incident by completing and submitting required
+forms, reports, documentation, and follow-up notations on immediate
+response communications
+
+ComC 4.3
+
+Implement information systems protection procedures
+
+ComC 5
+
+Provide EOC Communications Support
+
+ComC 5.1
+
+Develop NIMS compliant incident site communications plan
+
+ComC 5.2
+
+Establish and maintain communications organization/operation with
+EOC/MACC
+
+ComC 5.3
+
+Establish and maintain interoperable information systems within EOC
+
+ComC 5.3.1
+
+Establish communications resource requirements
+
+ComC 5.3.1.1
+
+Coordinate placement of latest technology that is available to agencies
+participating in response
+
+ComC 5.3.1.2
+
+Coordinate and provide telecommunication and information technology
+support to Federal, regional, State, local and tribal officials and the
+private sector
+
+ComC 5.3.1.3
+
+Coordinate and open State communications support/channels to local and
+tribal government and the private-sector to assist in awareness,
+prevention, response and recovery communication activities
+
+ComC 5.3.2
+
+Implement communication security procedures and systems
+
+ComC 5.3.3
+
+Assure redundant communications circuits/channels are available for use
+
+ComC 5.3.4
+
+Activate back-up information systems as needed
+
+ComC 5.4
+
+Coordinate communications policy and procedures across response entities
+
+ComC 5.4.1
+
+Disseminate information to emergency managers and responders
+
+ComC 5.4.2
+
+Coordinate with the response organization and other responders to share
+information
+
+ComC 5.4.3
+
+Coordinate information transfer between and among Incident Command Post
+
+ComC 5.4.4
+
+Coordinate information transfer from the incident scene to the MACS (e.g.
+Emergency Operations Center (EOC))
+
+ComC 5.4.5
+
+Provide direction, information, and/or support as appropriate to the
+incident command (IC), unified command (UC), and/or joint field office(s)
+
+ComC 5.4.6
+
+Provide response information across jurisdictional boundaries
+
+ComC 5.5
+
+Maintain a common operating picture (COP) for real time sharing of
+information with all the participating entities to ensure all responder
+agencies are working from the same information
+
+ComC 5.6
+
+Monitor communications and information systems
+
+ComC 5.6.1
+
+Develop incident log
+
+ComC 5.6.2
+
+Update responder information
+
+ComC 6
+
+Provide Federal Facilities, Task Force, and Recovery Assistance
+Interoperable Communications
+
+ComC 7
+
+Return communication system to normal operations
+
+ComC 7.1
+
+Initiate interoperable deactivation procedures
+
+ComC 7.2
+
+Assist in deactivation of telecommunication resources and assets .
+
+ComC 7.3
+
+Maintain audit and reports on all telecommunications support provided.
+
+TableÂ A.3.Â Common C - Communications
+
+
+A.4.Â Training and Exercises
+
+ComD 1
+
+Develop and conduct training to improve all-hazard incident management
+capability
+
+ComD 1.1
+
+Develop preparedness plans for identifying and meeting training needs
+
+ComD 1.1.1
+
+Conduct gap analysis to identify training needs
+
+ComD 1.2
+
+Develop and disseminate national standards, guidelines and protocols, for
+incident management training and exercises
+
+ComD 1.2.1
+
+Facilitate the definition of general training requirements and approved
+training courses for all NIMS users
+
+ComD 1.3
+
+Develop standardized training courses
+
+ComD 1.3.1
+
+Develop standardized training courses on incident command and management,
+structure, coordination, processes, and procedures
+
+ComD 1.3.2
+
+Develop standardized training courses focused on discipline-specific and
+agency-specific subject-matter expertise applicable to all jurisdictions
+and sectors for all incident management
+
+ComD 1.3.2
+
+Provide information through training on how to access Federal subject
+matter experts and necessary Federal assets
+
+ComD 1.3.2.1
+
+Review and approve discipline-specific requirements and courses
+
+ComD 1.3.3
+
+Develop and conduct training courses for the incident command safety
+officer emphasizing all-hazards approach to responder health and safety
+
+ComD 1.3.4
+
+Develop training for non-responder personnel
+
+ComD 1.4
+
+Implement standardized training courses
+
+ComD 1.4.1
+
+Coordinate training of responders, emergency staffs, health care
+providers and trainees
+
+ComD 1.4.2
+
+Coordinate training of emergency operations center staff
+
+ComD 1.4.2.1
+
+Maintain and expand training and exercise programs to prepare volunteers
+for terrorism incident support
+
+ComD 1.4.3
+
+Coordinate training with mutual aid and volunteer organizations and
+volunteers to assist with response service needs
+
+ComD 1.4.4
+
+Train elected officials on incident command structure and emergency
+management responsibilities
+
+ComD 1.4.5
+
+Develop and conduct refresher training course in a condensed form that
+emphasizes any changes or additions
+
+ComD 1.4.6
+
+Ensure that trained and equipped personnel are available to execute the
+planning requirements
+
+ComD 1.5
+
+Evaluate standardized training courses
+
+ComD 1.5.1
+
+Develop readiness assessments of responders and emergency staffs
+
+ComD 1.5.2
+
+Evaluate training through multiple methods including drills and exercises
+
+ComD 1.5.3
+
+Identify existing training courses that can be incorporated into a master
+list that addresses the new critical aspects of incident management
+including the interaction of skilled support workers and traditional
+first responders including building official
+
+ComD 2
+
+Develop exercises/drills of sufficient intensity to challenge management
+and operations and to test the knowledge, skills, and abilities of
+individuals and organizations
+
+ComD 2.1
+
+Participate in jurisdictional, regional, interState and cross border
+exercises
+
+ComD 2.2
+
+Develop a process to review and analyze lessons learned from real-world
+incidents and exercises/evaluations for best practices to implement
+corrections and update plans
+
+ComD 2.2.1
+
+Develop lessons learned reports and procedures
+
+ComD 2.2.2
+
+Review incident after-action reports and update preparedness plan
+
+ComD 2.2.3
+
+Develop and review after-action reports (AAR) to identify problems and
+lessons learned
+
+ComD 2.2.4
+
+Develop plan to correct problems and evaluate AAR improvement/corrective
+actions
+
+ComD 2.2.5
+
+Track implementation of lessons learned and AAR improvement/corrective
+actions
+
+ComD 2.2.6
+
+Collect and compile best practices from industry and government to
+enhance existing security practices
+
+ComD 2.2.7
+
+Develop improvement/corrective action and mitigation plans
+
+TableÂ A.4.Â Common D - Training and Exercises
+
+
+A.5.Â Risk Management
+
+ComE 1
+
+Develop Risk Framework
+
+ComE 1.1
+
+Ensure senior leadership communicates in writing the risk framework and
+intent to use risk analysis to all stakeholders
+
+ComE 2
+
+Assess Risks
+
+ComE 2.1
+
+Conduct criticality analysis (also known as screening) to identify
+potential targets
+
+ComE 2.2
+
+Conduct vulnerability assessments to assess vulnerability of potential
+targets to identified threats
+
+ComE 2.3
+
+Conduct consequence analysis of critical targets
+
+ComE 2.4
+
+Conduct threat assessment of potential targets
+
+ComE 2.4.1
+
+Conduct or obtain intelligence community threat/hazard analysis through
+State or local Interagency Working Groups (Joint Terrorism Task Force) to
+identify threats to potential targets
+
+ComE 2.4.2
+
+Obtain intelligence reporting and the receipt of the threat data through
+the Department of Homeland Securityâ€™s Homeland Infrastructure Threat
+and Risk Analysis Center (HITRAC)
+
+ComE 2.5
+
+Calculate risk to potential targets based on threat, vulnerability, and
+consequence
+
+ComE 2.6
+
+Establish relative order of priorities for risk mitigation among risk
+portfolio
+
+ComE 2.7
+
+Conduct response and recovery capabilities analysis to determine
+capability to respond to and recover from the occurrence of identified
+risks
+
+ComE 3
+
+Prioritize Risks
+
+ComE 3.1
+
+Identify potential protection, prevention, and mitigation strategies for
+high-risk targets
+
+ComE 3.2
+
+Prioritize identified strategies by risk reduction expected outcomes
+appreciating the various threat, vulnerabilities, and consequences that
+affect that community, system or asset
+
+ComE 4
+
+Develop Business Case
+
+ComE 4.1
+
+Select risk reduction solutions for implementation based on risk
+reduction strategies
+
+ComE 5
+
+Manage Risk
+
+ComE 5.1
+
+Monitor the progress of solution implementation
+
+ComE 5.1.1
+
+Undertake corrective actions
+
+ComE 6
+
+Conduct Risk Communication
+
+ComE 6.1
+
+Share the assessment of sector-specific infrastructure risk with
+interdependent entities within appropriate sectors
+
+TableÂ A.5.Â Common E - Risk Management
+
+
+B.Â Contact information for District Emergency Coordinators
+-----------------------------------------------------------
+
+The following table lists the contact information for the Net Manager
+each DEC will contact, by DEC call.
+
+DEC
+
+NET
+
+Net Manager
+
+Contact
+
+KI8AF
+
+GLETN
+
+Grant Watson, K8VFZ
+
+810-982-7488 k8vfz@arrl.net
+
+WD8DX
+
+GLETN
+
+Grant Watson, K8VFZ
+
+810-982-7488 k8vfz@arrl.net
+
+KC8ZTJ
+
+MACS
+
+John Wehmer, WB9JSR
+
+616-604-0510 wb9jsr@arrl.net
+
+KG8NK
+
+UP
+
+Aileen Gagnon, WA8DHB
+
+906-428-9789
+
+N8OSL
+
+MITN
+
+Jeff Miller, WB8WKQ
+
+248-330-9335 seismadude2@yahoo.com
+
+WA8RLI
+
+MDTN
+
+Ed Bassett, N8FVM
+
+989-821-7729 n8fvm@arrl.net
+
+KB8VEE
+
+MVTN
+
+Jean Young, AC8AR
+
+231-893-3341 ac8ar@arrl.net
+
+N8VLN
+
+GLETN
+
+Grant Watson, K8VFZ
+
+810-982-7488 k8vfz@arrl.net
+
+WF5X
+
+SEMTN
+
+Jeff Miller, WB8WKQ
+
+248-330-9335 seismadude2@yahoo.com
+
+K8YZA
+
+QMN
+
+Anne Travis, K8AE
+
+313-563-0177 annesivart@woway.com
+
+N8ZSA
+
+GLETN
+
+Grant Watson, K8VFZ
+
+810-982-7488 k8vfz@arrl.net
+
+TableÂ B.1.Â DEC contact assignments
+
+
+C.Â Contact information for Net Managers
+----------------------------------------
+
+The following table lists the contact information for the District
+Emergency Coordinator each Net Manager will contact, by Net Manager
+callsign.
+
+Net Manager
+
+District
+
+DEC
+
+Contact
+
+K8AE
+
+1
+
+Joseph Pullen, K8YZA
+
+517-547-6794 jpullen007@comcast.net
+
+AC8AR
+
+6
+
+Tom VanderMel, KB8VEE
+
+231-206-0422 kb8vee@arrl.net
+
+WA8DHB
+
+8
+
+Lou Gembolis, KG8NK
+
+906-485-5442 lgembolis@chartermi.net
+
+N8FVM
+
+7
+
+Thomas 'Red' Duggan, WA8RLI
+
+586-413-2831 wa8rli@arrl.net
+
+WB9JSR
+
+5
+
+John Mathieson, KC8ZTJ
+
+jspokes@chartermi.net
+
+K8VFZ
+
+APX
+
+Jeff Morey, WD8DX
+
+989-390-1133 WD8DX@yahoo.com
+
+K8VFZ
+
+DTX
+
+Ted Davis, N8ZSA
+
+248-842-4077 n8zsa@aol.com
+
+K8VFZ
+
+GRR
+
+Michael Gage, N8VLN
+
+616-538-0502 mrgage1@sbcglobal.net
+
+K8VFZ
+
+MQT
+
+Greg Hanson, KI8AF
+
+906-225-1594 glhanson1783@sbcglobal.net
+
+WB8WKQ
+
+2
+
+Randy Love, WF5X
+
+586-803-1967 wf5x@arrl.net
+
+WB8WKQ
+
+3
+
+Joe Tuscher, N8OSL
+
+810-908-3089 jt14888@aol.com
+
+TableÂ C.1.Â Net Manager contact assignments
+
+
+D.Â Preparedness Criteria
+-------------------------
+
+the following tables show the FEMA criteria for evaluating readiness
+against the capabilities to be tested. Note that the preparedness
+criteria address multiple capabilities, and many of the criteria are not
+applicable to ARES/RACES.
+
+Preparedness Measures
+
+Metric
+
+Continuity of Operation (COOP) plans describe how personnel, equipment,
+and other resources support sustained response/survivability and recovery
+for all sectors
+
+Yes/No
+
+Continuity of Government (COG) plans describe the continued functioning
+of constitutional government under all circumstances
+
+Yes/No
+
+Emergency response plans are consistent with the National Response Plan
+(NRP) and National Incident Management System (NIMS)
+
+Yes/No
+
+Mutual aid assistance agreements are in place with contiguous
+jurisdictions
+
+Yes/No
+
+Preparedness plans are consistent with NRP and NIMS
+
+Yes/No
+
+Aid assistance agreements or contracts with private organizations are in
+place
+
+Yes/No
+
+Pre-identified mechanisms to request assistance from counties, the State,
+or the Federal Government are in place
+
+Yes/No
+
+Emergency response plans address substantial loss of public safety
+response capabilities during catastrophic events (to include special
+needs populations and people with disabilities)
+
+Yes/No
+
+Frequency with which plans are reviewed and updated to ensure compliance
+with governmental regulations and policies (Review requirements are
+intended to apply only when no pre-existing review cycle has been
+established in Federal, State, or local requirements)
+
+12 months
+
+TableÂ D.1.Â Preparedness Criteria for Com.A2
+
+
+Preparedness Measures
+
+Metric
+
+Operable communications systems that are supported by redundancy and
+diversity, that provide service across jurisdictions, and that meet
+everyday internal agency requirements, are in place
+
+Yes/No
+
+Communication systems support on-demand, real-time interoperable voice
+and data communication
+
+Yes/No
+
+Plans and procedures are in place to ensure appropriate levels of
+planning and building public safety communication systems prior to an
+incident
+
+Yes/No
+
+Plans and procedures are in place to ensure appropriate levels of
+upgrading/enhancing public safety communication systems and equipment
+prior to an incident
+
+Yes/No
+
+Plans and procedures are in place to ensure appropriate levels of
+replacing public safety communication systems and equipment prior to an
+incident
+
+Yes/No
+
+Plans and procedures are in place to ensure appropriate levels of
+maintaining public safety communication systems and equipment prior to an
+incident
+
+Yes/No
+
+Plans and procedures are in place to ensure appropriate levels of
+managing public safety communication projects prior to an incident
+
+Yes/No
+
+Assessment of standard communication capabilities for Public Safety
+Answering Points (PSAP)/Public Safety Communication Centers and Emergency
+Operations Centers (EOC) to ensure appropriate Continuity of Operations
+Plan (COOP) for public safety and service agencies' communications has
+been completed
+
+Yes/No
+
+Communications Continuity of Operations Plan (COOP) that outlines back-up
+systems available at State and local levels, including protocols for use
+of systems, is in place
+
+Yes/No
+
+Communications standard operating procedures (SOPs) that conform to NIMS
+are in place and are used in routine multiple jurisdictional responses
+
+Yes/No
+
+Interoperability policies and procedures to allow information sharing
+between levels of government and Federal installations involved in
+incident, as necessary and as possible, are in place
+
+Yes/No
+
+Redundant and diverse interoperable communication systems are available
+
+Yes/No
+
+Plans to coordinate the procurement of communications assets to ensure
+interoperability are in place
+
+Yes/No
+
+Plans to acquire and influence sustained interoperability and systems
+maintenance funding have been developed
+
+Yes/No
+
+Plans include a procedure to return communications back to normal
+operations after each significant incident
+
+Yes/No
+
+A multi-agency and multi-jurisdictional governance structure to improve
+communications interoperability planning and coordination has been
+established
+
+Yes/No
+
+Formal interoperable communications agreements have been established
+through the governance structure
+
+Yes/No
+
+Interoperability communications plans have been developed through
+governance structure and include all relevant agencies for data and voice
+communications.
+
+Yes/No
+
+TableÂ D.2.Â Preparedness Criteria for Com.C2
+
+
+E.Â Target Capabilities List
+----------------------------
+
+There are 37 target capabilities. Associated with the target capabilities
+are thousands of tasks. The following sections list those fapabillities
+for each mission, along with the top-level headings for the associated
+tasks.
+
+
+E.1.Â Common
+
+PLANNING
+
+RESOURCE MANAGEMENT
+
+COMMUNICATIONS
+
+TRAINING AND EXERCISES
+
+RISK MANAGEMENT
+
+
+E.2.Â Prevent
+
+INFORMATION GATHERING AND RECOGNITION OF INDICATORS AND WARNINGS
+
+INTELLIGENCE ANALYSIS AND PRODUCTION
+
+COUNTER-TERROR INVESTIGATION AND LAW ENFORCEMENT
+
+CBRNE DETECTION
+
+  *  A1a Identification and Tracking of Suspected Terrorists
+
+  *  A1b Information Gathering and Recognition of Indicators and Warning
+
+  *  A1c Intelligence Analysis and Production
+
+  *  A1d Intelligence/Information Sharing
+
+  *  A1e CBRNE Detection
+
+  *  A2a Identification and Tracking of Terrorist Motivations
+
+  *  A3a Recognition and Tracking of Extremism
+
+  *  A3b Determination and Tracking of Terrorist Support
+
+  *  A4a Determination of Terrorist Ability to Execute Threats
+
+  *  B1a Pre-Entry Detection
+
+  *  B2a Port of Entry Inspection
+
+  *  B2b Infrastructure/Facility Access Screening
+
+  *  B2c Transportation Screening
+
+  *  B2d Credentialing
+
+  *  B3a Border Control
+
+  *  C1a Law Enforcement Investigation and Operations
+
+  *  C2a Interdiction/Seizure of Materials
+
+  *  C3a Defeat of Weapons
+
+  *  C3b Denial of Access to Materials that may be Weaponized
+
+  *  C5a Prosecution of Suspects
+
+
+E.3.Â Protect
+
+CRITICAL INFRASTRUCTURE PROTECTION
+
+FOOD AND AGRICULTURE SAFETY AND DEFENSE
+
+EPIDEMIOLOGICAL SURVEILLANCE AND INVESTIGATION
+
+LABORATORY TESTING
+
+  *  A1a Critical Infrastructure Protection
+
+  *  A2a Defense and Devaluation of Physical Assets & Systems
+
+  *  A3a Defense and Devaluation of Cyber Assets & Systems
+
+  *  B1a Epidemiological Surveillance and Investigation
+
+  *  B1b Food and Agricultural Safety and Defense
+
+  *  B1c Environmental Monitoring
+
+  *  B1d Natural Hazard Monitoring
+
+  *  B1e Public Health Laboratory Testing
+
+  *  B2a Stockpile Management
+
+  *  B3a Mitigation and Life Safety Protection
+
+  *  B4a Community Preparedness and Participation
+
+
+E.4.Â Respond
+
+ON-SITE INCIDENT MANAGEMENT
+
+EMERGENCY OPERATIONS CENTER MANAGEMENT
+
+CRITICAL RESOURCE LOGISTICS AND DISTRIBUTION
+
+VOLUNTEER MANAGEMENT AND DONATIONS
+
+RESPONDER SAFETY AND HEALTH
+
+EMERGENCY PUBIC SAFETY AND SECURITY RESPONSE
+
+ANIMAL DISEASE EMERGENCY SUPPORT
+
+ENVIRONMENTAL HEALTH
+
+EXPLOSIVE DEVICE RESPONSE OPERATIONS
+
+FIRE INCIDENT RESPNSE SUPPORT
+
+WMD AND HAZARDOUS MATERIAS RESPONSE AND DECOMTAMINATION
+
+CITIZEN EVACUATION AND SHELTER-IN-PLACE
+
+ISOLATION AND QUARANTINE
+
+SEARCH AND RESCUE (LAND BASED)
+
+EMERGENCY TRIAGE AND PER-HOSPITAL TREATMENT
+
+MEDICAL SURGE
+
+MEDICAL SUPPLIES MANAGEMENT AND DISTRIBUTION
+
+MASS PROPHYLAXIS
+
+MASS CARE (SHELTERING, FEEDING AND RELATED SERVICES)
+
+FATALITY MANAGEMENT
+
+  *  A1a Scene and Consequence Management
+
+  *  A2a Incident Scene Investigation
+
+  *  B1a On-Site Incident Management
+
+  *  B1b Responder Safety and Health
+
+  *  B1c Emergency Operations Center Management
+
+  *  B1d Critical Resource Logistics and Distribution
+
+  *  B1e Volunteer Management and Donations
+
+  *  B1f Emergency Public Information and Warning
+
+  *  B2a Firefighting Operations and Support
+
+  *  B2b WMD/ Hazardous Materials Response and Decontamination Operations
+
+  *  B2c Explosive Detection Response Operations
+
+  *  B2d Animal Health Emergency Support
+
+  *  B3a Citizen Evacuation or Shelter in Place
+
+  *  B3b Isolation and Quarantine
+
+  *  B3c Environmental Health
+
+  *  B3d Public Safety and Security Response
+
+  *  B4a Urban Search and Rescue
+
+  *  B4b Water Search and Rescue
+
+  *  C1a Triage and Pre-Hospital Treatment
+
+  *  C1b Medical Surge
+
+  *  C1c Medical Supplies Management and Distribution
+
+  *  C2a Mass Prophylaxis
+
+  *  C3a Mass Care (Sheltering, Feeding, and Related Services)
+
+  *  C4a Fatality Management
+
+
+E.5.Â Recover
+
+STRUCTURAL DAMAGE ASSESSMENT
+
+RESTORATION OF LIFELINES
+
+ECONOMIC AND COMMUNITY RECOVERY
+
+  *  A1a Long-Term Healthcare
+
+  *  A2a Long-term Assistance for Affected Persons
+
+  *  A2b Resettlement and Repatriation of Affected Persons
+
+  *  B1a Debris and Hazardous Waste Management
+
+  *  B2a Site Remediation
+
+  *  B3a Natural Resource Restoration
+
+  *  C1a Restoration of Lifelines
+
+  *  C2a Reconstitution of Government Services
+
+  *  C3a Economic and Community Recovery
+
+  *  C3b Structural Damage and Mitigation Assessment
+
+  *  C4a Restoration of Economy & Institutions
+
+  *  C4a Restoration of Economy & Institutions
+
+
+F.Â Revision History
+--------------------
+
+Revision History
+
+Revision 1-3
+
+Mon Sep 19 2011
+
+John McDonough
+
+Additional typos
+
+More introduction to appendices
+
+KC8ZTJ acting DEC for D5
+
+Revision 1-2
+
+Wed Sep 7 2011
+
+John McDonough
+
+Correct typos
+
+Revision 1-1
+
+Tue Sep 6 2011
+
+John McDonough
+
+Correct N8FVM call
+
+Add evaluation criteria
+
+Add target capabilities
+
+Revision 1-0
+
+Sun Sep 4 2011
+
+John McDonough
+
+Correct typos, additional touch up
+
+Revision 0-1
+
+Sun Sep 4 2011
+
+John McDonough
+
+First complete draft
+
+Revision 0-0
+
+Thu Aug 25 2011
+
+John McDonough
+
+Initial creation of book by publican

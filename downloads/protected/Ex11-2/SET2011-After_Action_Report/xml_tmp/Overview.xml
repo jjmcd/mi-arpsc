@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "AAR_Template.ent">
+%BOOK_ENTITIES;
+]>
+
+  <section id="sect-exer-overview">
+    <title>Executive Overview</title>
+    <indexterm>
+      <primary>ARES</primary>
+      <secondary>Relationship with NTS</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>NTS</primary>
+      <secondary>Relationship with ARES</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>ARRL Simulated Emergency Test</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Simulated Emergency Test</primary>
+    </indexterm>
+    <para>
+      This exercise aimed to strengthen the relationship between the
+      Amateur Radio Emergency Services (ARES) and the National Traffic
+      System (NTS).  The station at the State Emergency Operations
+      Center (SEOC) delivered injects to liaisons to the various NTS
+      nets who, in turn, delivered those injects to the Districts.
+    </para>
+    <para>
+      Each District was assigned an NTS net, with the expectation that
+      this assignment would be more or less permanent.  ARES District
+      Emergency Coordinators were encouraged to work together with NTS
+      Net Managers to plan meeting times, frequencies, etc.  The Great
+      Lakes Emergency and traffic Net was assigned the responsibility
+      of representing the four National Weather Service offices in
+      Michigan.
+    </para>
+    <para>
+      Evaluators monitored the activity looking for evidence of
+      planning, ability to maintain communications across the state,
+      and ability to respond to loss of infrastructure.
+    </para>
+    <para>
+      As this exercise was conducted in conjunction with the annual
+      ARRL Simulated Emergency Test, individual jurisdictions were
+      encouraged to include local government agencies and NGOs in
+      their local activities.
+    </para>
+
+    <section>
+      <title>Exercise Details</title>
+      <para>
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      <filename>Exercise Name</filename> - 2011 ARRL Simulated
+	      Emergency Test
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <filename>Type of exercise </filename> - The Section-wide
+	      portion of the exercise was a functional drill, testing
+	      limited capabilities within the section. However,
+	      many jurisdictions, in keeping with the spirit of the
+	      ARRL test, engaged numerous other agencies on a local
+	      level.
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <filename>Exercise Date and Duration</filename> -
+	      October 1, 2011 - 4 hours
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <filename>Location</filename> - Statewide
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <filename>Sponsor</filename> - Michigan Section of The
+	      American Radio Relay League
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <filename>Program</filename> - n/a
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+ 	      <filename>Mission</filename> - Respond
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <filename>Scenario Type</filename> - Winter Storm
+	    </para>
+	  </listitem>
+	</itemizedlist>
+      </para>
+
+<!--
+      <section>
+	<title>Exercise Name</title>
+	<para>
+	  2011 ARRL Simulated Emergency Test
+	</para>
+      </section>
+
+      <section>
+	<title>Type of exercise</title>
+	<para>
+	  The Section-wide portion of the exercise was a functional
+	  drill, testing limited capabilities within the section.
+	  However, several jurisdictions, in keeping with the spirit
+	  of the ARRL test, engaqged numerous other agencies on a
+	  local level.
+	</para>
+      </section>
+
+      <section>
+	<title>Exercise start date</title>
+	<para>
+	  October 1, 2011
+	</para>
+      </section>
+
+      <section>
+	<title>Exercise end date</title>
+	<para>
+	  October 1, 2011
+	</para>
+      </section>
+
+      <section>
+	<title>Duration</title>
+	<para>
+	  4 Hours
+	</para>
+      </section>
+
+      <section>
+	<title>Location</title>
+	<para>
+	  Statewide
+	</para>
+      </section>
+
+      <section>
+	<title>Sponsor</title>
+	<para>
+	  Michigan Section of The American Radio Relay League
+	</para>
+      </section>
+
+      <section>
+	<title>Program</title>
+	<para>
+	  n/a
+	</para>
+      </section>
+
+      <section>
+	<title>Mission</title>
+	<para>
+	  Respond
+	</para>
+      </section>
+-->
+      <section>
+	<title>Capabilities</title>
+	<indexterm>
+	  <primary>ComA2.4.3.1</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>ComC1.2.2</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Continuity of Operations Plans</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Plans</primary>
+	  <secondary>Continuity of Operations</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>COOP</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Sustained Response</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Response</primary>
+	  <secondary>Sustained</secondary>
+	</indexterm>
+	<para>
+	  <itemizedlist>
+	    <listitem>
+	      <para>
+		ComA2.4.3.1 - Develop Standard Operating Procedures
+		and Standard Operating Guides in support of Emergency
+		Operations Plans.
+		<itemizedlist>
+		  <listitem>
+		    <para>
+		      Continuity of Operation (COOP) plans describe
+		      how personnel, equipment, and other resources
+		      support sustained response/survivability and
+		      recovery for all sectors
+		    </para>
+		  </listitem>
+		  <listitem>
+		    <para>
+		      Emergency response plans address substantial
+		      loss of public safety response capabilities
+		      during catastrophic events (to include special
+		      needs populations and people with disabilities)
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </para>
+	    </listitem>
+	    <listitem>
+	      <para>
+		ComC1.2.2 - Develop common communication and data
+		standards to facilitate the exchange of information in
+		support of response management
+		<itemizedlist>
+		  <listitem>
+		    <para>
+		      Develop common communication and data standards
+		      to facilitate the exchange of information in
+		      support of response management
+		    </para>
+		  </listitem>
+		  <listitem>
+		    <para>
+		      Redundant and diverse interoperable
+		      communication systems are available
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </para>
+	    </listitem>
+	  </itemizedlist>
+	</para>
+      </section>
+
+<!--      <section>
+	<title>Scenario type</title>
+	<para>
+	  Winter storm
+	</para>
+      </section> -->
+
+    </section>
+
+    <section>
+      <title>Exercise Planning team</title>
+      <para>
+	The Section Emergency Coordinator (who also serves as the
+	Section Traffic Manager) and the Section's Training and
+	Exercise Officer planned the exercise.  District Emergency
+	Coordinators and Net Managers provided input on who was
+	intending to participate, their capabilities, etc.
+      </para>
+    </section>
+
+    <section>
+      <title>Participating organizations</title>
+      <para>
+	The Statewide portion of the exercise included the National
+	Traffic System nets and the Amateur Radio Emergency Services.
+	Because their capabilities did not map any of the needs for
+	the exercise, the Thumb and Mid-Michigan Traffic Net was not
+	asked to participate.  Several individual counties also chose
+	not to participate.
+      </para>
+      <para>
+	The National Weather Service office at White Lake provided the
+	initial injects, as well as simulations based on historical
+	events to add realism to the scenario.
+      </para>
+      <para>
+	At the local level, counties were encouraged to include served
+	agencies.  In various jurisdictions, participants included the
+	American Red Cross, Salvation Army, local Health Departments,
+	hospitals, and a large number of Townships.
+      </para>
+      <para>
+	Most counties used the station at their county Emergency
+	Operations Center as the main point of contact.  Several
+	jurisdictions also operated from hospitals, township halls and
+	fire barns, as well as Red Cross chapters.
+      </para>
+      <section>
+	<title>Number of participants</title>
+	<para>
+	  <itemizedlist spacing="compact">
+	    <listitem>
+	      <para>
+		Players - approx 200
+	      </para>
+	    </listitem>
+	    <listitem>
+	      <para>
+		Controllers - 1
+	      </para>
+	    </listitem>
+	    <listitem>
+	      <para>
+		Evaluators - 5
+	      </para>
+	    </listitem>
+	    <listitem>
+	      <para>
+		Facilitators - none
+	      </para>
+	    </listitem>
+	    <listitem>
+	      <para>
+		Observers - not available
+	      </para>
+	    </listitem>
+	    <listitem>
+	      <para>
+		Victim role players - not applicable
+	      </para>
+	    </listitem>
+	  </itemizedlist>
+	</para>
+      </section>
+    </section>
+</section>

@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "AAR_Template.ent">
+%BOOK_ENTITIES;
+]>
+
+<section id="sect-exer-design">
+  <title>Exercise Design</title>
+
+  <section>
+    <title>Exercise Purpose and Design</title> 
+    <indexterm>
+      <primary>ARRL Simulated Emergency Test</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Served Agencies</primary>
+    </indexterm>
+    <indexterm>
+      <primary>ARES</primary>
+      <secondary>Relationship with NTS</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>NTS</primary>
+      <secondary>Relationship with ARES</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>Infrastructure Failures</primary>
+    </indexterm>
+    <para>
+      Each year the Michigan Section uses the annual ARRL Simulated
+      Emergency Test to conduct a statewide exercise to improve the
+      ability of the Section to respond to emergencies and other
+      incidents, and to interact with various State and local
+      agencies, as well as NGOs.
+    </para>
+    <para>
+      Over the past few years the Section has been working on
+      improving the interface between the National traffic System and
+      ARES.  This year the Section hoped to establish some more or
+      less permanent relationships between the ARES Districts and the
+      NTS nets.  Each District was assigned a net, and an additional
+      net was assigned the responsibility of working with the National
+      Weather Service. (refer to <xref linkend="appe-nts-dist" /> for
+      details. The Thumb and Mid Michigan Traffic Net was not assigned
+      a District as there were no obvious candidates and the net has a
+      relatively small footprint.  The Northern Lower Eastern Upper
+      Peninsula Net was also not assigned as that net has no current
+      leadership.
+    </para>
+    <para>
+      The exercise was designed to exercise these new relationships,
+      and also test the ability of the nets and local programs to
+      respond to challenging conditions such as loss of repeater
+      power, loss of antennas, etc.
+    </para>
+    <para>
+      As with most Statewide ARES/NTS exercises, it was a particular
+      challenge to design a scenario where all participating
+      counties and nets could send and receive relevant traffic.
+      The Training and Exercise Officer polled all Districts to see
+      which would participate, and only three responded in the
+      affirmative.  At least a few counties from every District did
+      participate, so some counties received only generic traffic.
+    </para>
+  </section>
+
+  <section>
+    <title>Exercise Objectives, Capabilities, and Activities</title>
+    <indexterm>
+      <primary>Target Capabilities List</primary>
+    </indexterm>
+    <indexterm>
+      <primary>ARES</primary>
+      <secondary>Relationship with NTS</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>NTS</primary>
+      <secondary>Relationship with ARES</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>Infrastructure Failures</primary>
+    </indexterm>
+    <indexterm>
+      <primary>ComA2.4.3.1</primary>
+    </indexterm>
+    <indexterm>
+      <primary>ComC1.2.2</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Capabilities-based planning</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Operating Procedures</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Standard Operating Procedures</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Survivability</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Recovery</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Continuity of Operations Plans</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Plans</primary>
+      <secondary>Continuity of Operations</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>COOP</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Sustained Response</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Response</primary>
+      <secondary>Sustained</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>Loss of Capability</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Capability</primary>
+      <secondary>Loss of</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>Catastrophic Events</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Disabilities</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Emergency Power</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Power</primary>
+      <secondary>Emergency</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>Temporary Locations</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Field Locations</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Locations</primary>
+      <secondary>Field/Temporary</secondary>
+    </indexterm>
+    <indexterm>
+      <primary>Permanent Infrastructure</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Infrastructure</primary>
+      <secondary>Permanent</secondary>
+    </indexterm>
+    <para>
+      Capabilities-based planning allows for exercise planning teams to
+      develop exercise objectives and observe exercise outcomes through a
+      framework of specific action items that were derived from the Target
+      Capabilities List (TCL).  The capabilities listed below form the
+      foundation for the organization of all objectives and observations in
+      this exercise.  Additionally, each capability is linked to several
+      corresponding activities and tasks to provide additional detail.
+    </para>
+    <para>
+      Based upon the identified exercise objectives below, the
+      exercise planning team has decided to demonstrate the following
+      capabilities during this exercise:
+    </para>
+    <para>
+      <itemizedlist>
+	<listitem>
+	  <para>
+	    Objective 1: Districts and Nets plan effectively together
+	    <itemizedlist>
+	      <listitem>
+		<para>
+		  ComA2.4.3.1 - Develop Standard Operating Procedures
+		  and Standard Operating Guides in support of
+		  Emergency Operations Plans
+		  <itemizedlist>
+		    <listitem>
+		      <para>
+			Continuity of Operation (COOP) plans describe
+			how personnel, equipment, and other resources
+			support sustained response/survivability and
+			recovery for all sectors
+		      </para>
+		    </listitem>
+		    <listitem>
+		      <para>
+			Emergency response plans address substantial
+			loss of public safety response capabilities
+			during catastrophic events (to include special
+			needs populations and people with
+			disabilities)
+		      </para>
+		    </listitem>
+		  </itemizedlist>
+		</para>
+	      </listitem>
+	    </itemizedlist>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Objective 2: Nets and local jurisdictions are able to
+	    operate effectively in the face of significant
+	    challenges.
+	    <itemizedlist>
+	      <listitem>
+		<para>
+		  ComC1.2.2 - Develop common communication and
+		  data standards to facilitate the exchange of
+		  information in support of response management
+		  <itemizedlist>
+		    <listitem>
+		      <para>
+			Operable communications systems that are
+			supported by redundancy and diversity,
+			that provide service across jurisdictions,
+			and that meet everyday internal agency
+			requirements, are in place
+		      </para>
+		    </listitem>
+		    <listitem>
+		      <para>
+			Redundant and diverse interoperable
+			communication systems are available
+		      </para>
+		    </listitem>
+		  </itemizedlist>
+		</para>
+	      </listitem>
+	    </itemizedlist>
+	  </para>
+	</listitem>
+      </itemizedlist>
+      
+    </para>
+  </section>
+
+  <section>
+    <title>Scenario Summary</title>
+    <indexterm>
+      <primary>Winter Storm</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Infrastructure Failures</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Loss of Capability</primary>
+    </indexterm>
+    <indexterm>
+      <primary>Capability</primary>
+      <secondary>Loss of</secondary>
+    </indexterm>
+    <para>
+      A severe winter storm scenario was selected as this type of
+      incident can realistically have widespread and severe
+      consequences.
+    </para>
+    <para>
+      In the early morning of October 1, the National Weather Service
+      in White Lake issues a warning of an impending severe winter
+      storm.  By the time the SEOC is activated and warnings sent to
+      the Districts, telephone service is already affected.
+    </para>
+    <para>
+      As the morning wears on, severe icing and heavy winds cause
+      damage to power lines and higher profile antennas.  Many
+      repeaters are forced off the air and even some HF antennas
+      suffer damage.  Local jurisdictions are forced to rely on backup
+      repeaters, emergency power stations, and simplex operation.  A
+      short summary of the events may be found in <xref
+      linkend="appe-events-summary" />.
+    </para>
+    <para>
+      Injects for the exercise are delivered to Districts and some
+      individual counties via radiogram (refer to <xref
+      linkend="appe-msel" />).  The various NTS nets send liaisons to
+      the SEOC to pick up and deliver traffic between the SEOC and
+      their assigned Districts and the counties within that District.
+    </para>
+  </section>
+</section>
+
+

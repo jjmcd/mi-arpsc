@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "AAR_Template.ent">
+%BOOK_ENTITIES;
+]>
+<section id="sect-conclusion">
+    <title>Conclusion</title>
+    <para>
+      [This section is a conclusion for the entire document.  It provides an
+      overall summary to the report.  It should include the demonstrated
+      capabilities, lessons learned, major recommendations, and a summary of
+      what steps should be taken to ensure that the concluding results will help
+      to further refine plans, policies, procedures, and training for this type
+      of incident.
+    </para>
+    <para>
+      Subheadings are not necessary and the level of detail in this section does
+      not need to be as comprehensive as that in the Executive Summary.]
+    </para>
+</section>

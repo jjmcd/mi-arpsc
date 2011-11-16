@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "SET2011-After_Action_Report.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-acronyms" lang="en-US">
+	<title>Acronyms</title>
+	 <para>
+		[Any acronym used in the AAR should be listed alphabetically and spelled out.] 
+		<table frame="all">
+			<title>Acronyms used in the document</title>
+			 <tgroup cols="2">
+				<colspec colname="c1" colnum="1" colwidth="1*"></colspec>
+				 <colspec colname="c2" colnum="2" colwidth="4*"></colspec>
+				 <thead>
+					<row>
+						<entry>
+							Acronym
+						</entry>
+						 <entry>
+							Meaning
+						</entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry>
+							ARES
+						</entry>
+						 <entry>
+							Amateur Radio Emergency Services
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							ARPSC
+						</entry>
+						 <entry>
+							Amateur Radio Public Service Corps; incorporates ARES, RACES, NTS and SKYWARN
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							EEG
+						</entry>
+						 <entry>
+							Exercise Evaluation Guide
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							EOC
+						</entry>
+						 <entry>
+							Emergency Operations Center
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							MSEL
+						</entry>
+						 <entry>
+							Master Scenario Event List
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							NGO
+						</entry>
+						 <entry>
+							Non Government Organization
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							NTS
+						</entry>
+						 <entry>
+							National Traffic System
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							RACES
+						</entry>
+						 <entry>
+							Radio Amateur Civil Emergency Service
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							SEOC
+						</entry>
+						 <entry>
+							State Emergency Operations Center
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							&nbsp;
+						</entry>
+						 <entry>
+
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							&nbsp;
+						</entry>
+						 <entry>
+
+						</entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	</para>
+</appendix>
+

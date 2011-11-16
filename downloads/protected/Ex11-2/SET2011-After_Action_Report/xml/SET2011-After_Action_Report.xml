@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "SET2011-After_Action_Report.ent">
+%BOOK_ENTITIES;
+]>
+<article lang="en-US" status="draft">
+	<xi:include href="Article_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Exec_Summary.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Overview.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Exer_Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Analysis.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Conclusion.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Improvement_Plan.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<!--  Optional section - dropped
+	<xi:include href="Lessons_Learned.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+ --> <xi:include href="Participant_Feedback.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="EEG.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Events_Summary.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="MSEL.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="NTS-District_Assignments.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<!--  Optional section - dropped
+	<xi:include href="Performance_Rating.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+ --> <xi:include href="Contributors.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Acronyms.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <index />
+</article>
+

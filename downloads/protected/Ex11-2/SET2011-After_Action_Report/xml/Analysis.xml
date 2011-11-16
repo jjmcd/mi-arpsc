@@ -1,0 +1,2386 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "SET2011-After_Action_Report.ent">
+%BOOK_ENTITIES;
+]>
+<section id="sect-analysis" lang="en-US">
+	<title>Analysis of Capabilities</title>
+	 <indexterm>
+		<primary>Analysis of Capabilities</primary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>Capabilities</primary>
+		 <secondary>Analysis of</secondary>
+
+	</indexterm>
+	 <para>
+		This section of the report reviews the performance of the exercised capabilities, activities, and tasks. In this section, observations are organized by capability and associated activities. The capabilities linked to the exercise objectives of &EXNAM; are listed below, followed by corresponding activities. Each activity is followed by related observations, which include references, analysis, and recommendations.
+	</para>
+	 <section>
+		<title>Capability 1 - Procedures</title>
+		 <indexterm>
+			<primary>Procedures</primary>
+			 <secondary>Operating</secondary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>ComA2.4.3.1</primary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Operating Procedures</primary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Standard Operating Procedures</primary>
+
+		</indexterm>
+		 <para>
+			ComA2.4.3.1 - Develop Standard Operating Procedures and Standard Operating Guides in support of Emergency Operations Plans
+		</para>
+		 <section>
+			<title>Preparedness Measure 1.1 - Survivability and Recovery</title>
+			 <indexterm>
+				<primary>Survivability</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Recovery</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Continuity of Operations Plans</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Plans</primary>
+				 <secondary>Continuity of Operations</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>COOP</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Sustained Response</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Response</primary>
+				 <secondary>Sustained</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Protocols</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Operators</primary>
+				 <secondary>Rotation</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Rotation</primary>
+				 <secondary>Operators</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Rotation</primary>
+				 <secondary>Net Controls</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Net Controls</primary>
+				 <secondary>Rotation</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Plans</primary>
+				 <secondary>Rotation</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Rotation</primary>
+				 <secondary>Plan</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Operators</primary>
+				 <secondary>Personal Needs</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Power</primary>
+				 <secondary>Emergency</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Emergency Power</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Support Personnel</primary>
+
+			</indexterm>
+			 <para>
+				Continuity of Operation (COOP) plans describe how personnel, equipment, and other resources support sustained response/survivability and recovery for all sectors
+			</para>
+			 <para>
+				Evaluators were asked to look for: 
+				<itemizedlist spacing="compact">
+					<listitem>
+						<para>
+							Are stations using appropriate procedures and protocols
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Are net controls and operators being rotated
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Is there evidence of a plan to rotate operators
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Is there evidence of a plan to provide operators with personal needs (food, drink, rest, etc.)
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Is there evidence that emergency power/portable operations are planned
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Are plans in place to provide support personnel (runners, etc.)
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</para>
+			 <section>
+				<title>Observation 1.1.1 - Emergency Power</title>
+				 <indexterm>
+					<primary>Power</primary>
+					 <secondary>Solar</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Solar Power</primary>
+
+				</indexterm>
+				 <para>
+					<filename>Area for improvement:</filename> Programs should have plans to continue to operate when commercial power fails. Not all evaluators had a chance to review plans, but some evidence of emergency power use was found. There is, however, no evidence of explicit plans.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								One station 100% battery w/solar panels charging
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 1.1.2 - Experience</title>
+				 <indexterm>
+					<primary>Operators</primary>
+					 <secondary>Experience</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Experience</primary>
+					 <secondary>Operators</secondary>
+
+				</indexterm>
+				 <para>
+					<filename>Area for Improvement:</filename> Although only one evaluator observed this problem, the shortage of experience is widespread.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								More experienced operators needed both Dist 3 and 5
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 1.1.3 - Personal Needs</title>
+				 <indexterm>
+					<primary>Operators</primary>
+					 <secondary>Personal Needs</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Refreshments</primary>
+
+				</indexterm>
+				 <para>
+					<filename>Strength:</filename> Programs considered personal needs of operators.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Food and refreshments on site - rest rooms available a short walk away
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Branch County operations continued into the afternoon, so some of their operators joined up for lunch
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 1.1.4 - Procedures</title>
+				 <indexterm>
+					<primary>Procedures</primary>
+					 <secondary>Net</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Net Procedures</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Traffic</primary>
+					 <secondary>Confusion</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Confusion</primary>
+					 <secondary>Caused by BT</secondary>
+
+				</indexterm>
+				 <para>
+					<filename>Strength:</filename> Although far from perfect, procedures have improved considerably.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Standard procedures on all nets heard
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								BT separating heading of message from text and signature caused count confusion when not used
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								The Allegan County exercise, the Branch Co. Exercise, and the 5th district hospital net were well disciplined and proper net procedured used
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 1.1.5 - Rotation</title>
+				 <indexterm>
+					<primary>Operators</primary>
+					 <secondary>Rotation</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Net Controls</primary>
+					 <secondary>Rotation</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Net Controls</primary>
+					 <secondary>Alternate</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Rotation</primary>
+					 <secondary>Operators</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Rotation</primary>
+					 <secondary>Net Controls</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Rotation</primary>
+					 <secondary>Plan</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Continuity of Operations Plans</primary>
+
+				</indexterm>
+				 <para>
+					<filename>Area for improvement:</filename>Programs rotated operators and net controls, however, there was no evidence found of formal plans.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Operator rotation established
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Rotation: Yes KB8RCR and NK8X
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								No evidence of plan to rotate operators
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								The nets had assistant/alternate net controls
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 1.1.6 - Support</title>
+				 <indexterm>
+					<primary>Support Personnel</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Boy Scouts</primary>
+
+				</indexterm>
+				 <para>
+					<filename>Area for improvement:</filename> Plans to have adequate supporting personnel available were spotty at best.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								No one planned portable operations; no support personnel, although some locations had multiple operators
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Boy scout troop on site if runners needed
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <!-- 
+	  <section>
+	  <title>Observation 1.1.7</title>
+	  <para><filename>Strength:</filename> Rotation: Yes KB8RCR and NK8X</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.1.8</title>
+<para><filename>Area for improvement:</filename> No evidence of plan to rotate
+operators</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.1.9</title>
+<para><filename>Area for improvement:</filename> More experienced operators
+needed both Dist 3 and 5</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+<section>
+<title>Observation 1.1.10</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+<section>
+<title>Observation 1.1.10</title>
+<para><filename>Strength:</filename> The Allegan County exercise, the Branch Co. Exercie,
+and the 5th district hospital net were well disciplined and
+proper net procedures used</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.1.11</title>
+<para><filename>Strength:</filename> The nets had assistant/alternate net controls</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.1.12</title>
+<para>Branch County operations continued into the afternoon,
+so some of their operators joined up for lunch</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.1.13</title>
+<para>No one planned portable operations; no support
+personnel, although some locations had multiple
+operators</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+       -->
+		</section>
+		
+		 <!--  Preparedness Measure  --> <section>
+			<title>Preparedness Measure 1.2 - Loss of capability</title>
+			 <indexterm>
+				<primary>Loss of Capability</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Capability</primary>
+				 <secondary>Loss of</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Catastrophic Events</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Disabilities</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Emergency Power</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Power</primary>
+				 <secondary>Emergency</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Temporary Locations</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Field Locations</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Locations</primary>
+				 <secondary>Field/Temporary</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Permanent Infrastructure</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Infrastructure</primary>
+				 <secondary>Permanent</secondary>
+
+			</indexterm>
+			 <para>
+				Emergency response plans address substantial loss of public safety response capabilities during catastrophic events (to include special needs populations and people with disabilities)
+			</para>
+			 <para>
+				Evaluators were asked to look for: 
+				<itemizedlist spacing="compact">
+					<listitem>
+						<para>
+							Are stations using emergency power
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Are stations operating from field/temporary locations
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Are operations reliant on permanent infrastructure
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</para>
+			 <section>
+				<title>Observation 1.2.1 - Emergency Power</title>
+				 <indexterm>
+					<primary>Emergency Power</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Power</primary>
+					 <secondary>Emergency</secondary>
+
+				</indexterm>
+				 <para>
+					<filename>Strength:</filename> Almost all jurisdictions operated their key stations from a location having emergency power capabilities.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Strength: Stations using emergency power
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Kent County Red Cross not on emergency power but had capability
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								A few hams on the local nets indicated they were on emergency power, but the Ecs and Net Controls were not making it a priority to declare that a station is or is not on E.P.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 1.2.2 - Infrastructure</title>
+				 <indexterm>
+					<primary>Permanent Infrastructure</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Infrastructure</primary>
+					 <secondary>Permanent</secondary>
+
+				</indexterm>
+				 <para>
+					<filename>Strength</filename> Programs consider robustness of available infrastructure when choosing command sites.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								No stations known reliant on permanent infrastructure
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Operations relied on permanent infrastructure, but good infrastructure, at various locations like EOCs, medical facilities and Red Cross. With these sites of permanent antennas and towers and shelters, you also get emergency backup generators. Other ham operations were mainly home stations. No portable and a few mobile stations.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 1.2.3 - Temporary Operation</title>
+				 <indexterm>
+					<primary>Temporary Locations</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Field Locations</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Locations</primary>
+					 <secondary>Field/Temporary</secondary>
+
+				</indexterm>
+				 <para>
+					<filename>Strength:</filename> Although no suggestion was made that temporary operations was desirable, many programs operated from served agencies and a number selected field operations.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								All stations heard operating from the field. CED 7 in unheated outbuilding, Alpena in camping trailer
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Stations operating from Red Cross
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								No field/temporary locations heard. Most stations at facilities with emergency power capabilities like EOCs, medical facilities, and Red Cross
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <!-- 
+	  <section>
+	  <title>Observation 1.2.4</title>
+	  <para>Kent County Red Cross not on emergency power but had
+	  capability</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.5</title>
+<para><filename>Strength:</filename> Stations operating from Red Cross</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.6</title>
+<para><filename>Area for improvement:</filename> A few hams on the local nets
+indicated they were on emergency power, but the Ecs and Net
+Controls were not making it a priority to declare that a
+station is or is not on E.P.</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.7</title>
+<para>No field/temporary locations heard. Most stations at
+facilities with emergency power capabilities like EOCs,
+medical facilities, and Red Cross.</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.8</title>
+<para>Operations relied on permanent infrastructure, but
+good infrastructure, at various locations like EOCs, medical
+facilities and Red Cross. With these sites of permanent
+antennas and towers and shelters, you also get emergency
+backup generators. Other ham operations were mainly home
+stations.  No portable and a few mobile stations.</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+<section>
+<title>Observation 1.2.9</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.10</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.11</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.12</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.13</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 1.2.14</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+       -->
+		</section>
+		
+		 <!--  Preparedness Measure  -->
+	</section>
+	
+	 <!--  Capability  --> <section>
+		<title>Capability 2 - Standards</title>
+		 <indexterm>
+			<primary>Standards</primary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Common Standards</primary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Communications Standards</primary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>ComC1.2.2</primary>
+
+		</indexterm>
+		 <para>
+			ComC1.2.2 - Develop common communication and data standards to facilitate the exchange of information in support of response management
+		</para>
+		 <section>
+			<title>Preparedness Measure 2.1 - Cross-jurisdiction</title>
+			 <indexterm>
+				<primary>Cross-jurisdiction communications</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Interoperable communications</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Procedures</primary>
+				 <secondary>Consistent</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Consistency of procedures</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Served Agencies</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Modes of operation</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Frequency of operation</primary>
+
+			</indexterm>
+			 <para>
+				Operable communications systems that are supported by redundancy and diversity, that provide service across jurisdictions, and that meet everyday internal agency requirements, are in place
+			</para>
+			 <para>
+				Evaluators were asked to look for: 
+				<itemizedlist spacing="compact">
+					<listitem>
+						<para>
+							Is there consistency across the procedures used by the various jurisdictions
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Is there evidence of interface with government or non-government responders
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Is there evidence of any plan to use different modes and/or frequencies when conditions warrant
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</para>
+			 <section>
+				<title>Observation 2.1.1 - Consistency</title>
+				 <para>
+					<filename>Strength:</filename> Programs used consistent procedures.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Procedures seem much more coordinated than in the past
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Consistency, yes. Amateur to amateur
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 2.1.2 - Flexibility</title>
+				 <indexterm>
+					<primary>Shutting down repeaters</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Propagation</primary>
+					 <secondary>responding to</secondary>
+
+				</indexterm>
+				 <para>
+					<filename>Mixed:</filename> Most programs were able to incorporate multiple modes and frequencies, however some operators were confused when unexpected changes occurred, and even when there were plans to respond to changing conditions, plans were not always followed. However, flexible responses were chosen.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								All stations heard were multi mode multi freq
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Worked real well, however, shutting down repeaters switching seems to confuse or frustrate operators
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Plan in place to QSY in response to propagation. However, HF did not switch when propagation deteriorated
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Conditions deteriorated and a new net control operator took over on the same frequency
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Branch county and the 5th District hospital nets were multi-frequency (repeater and simplex) and multimode (FM, D-Star, Packet). Unknown about Allegan county and Calhoun county operations, likely FM only on two meters. Some 440 used by Branch county.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 2.1.3 - Served Agencies</title>
+				 <indexterm>
+					<primary>Served Agencies</primary>
+
+				</indexterm>
+				 <para>
+					<filename>Strength:</filename> Since the exercise was run on a weekend, few served agencies participated directly, however most programs operated from sites owned by their served agencies.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								N8JWH/AAM6MI interfaced w/Army MARS monitoring 3 Army freqs and three amateur freqs from Alpena
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Yes, evidence of interface with other agencies
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								No known gov't interfaces, just simulated. Hams were very much on-site with gov't and non-gov't agencies
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <!-- 
+	  <section>
+	  <title>Observation 2.1.4</title>
+	  <para><filename>Strength:</filename> All stations heard were multi mode multi freq</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.5</title>
+<para>Worked real well, however, shutting down repeaters
+switching seems to confuse or frustrate operators</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.6</title>
+<para><filename>Strength:</filename> Yes, evidence of interface with other agencies</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.7</title>
+<para>Plan in place to QSY in response to
+propagation. However, HF did not switch when propagation
+deteriorated</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.8</title>
+<para><filename>Strength:</filename> Conditions deteriorated and a new net
+control operator took over on the same frequency</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.9</title>
+<para><filename>Strength:</filename> Consistency, yes. Amateur to amateur</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.10</title>
+<para>No known gov't interfaces, just simulated. Hams were
+very much on-site with gov't and non-gov't agencies</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.11</title>
+<para><filename>Strength:</filename> Branch county and the
+5th District hospital nets were multi-frequency (repeater
+and simplex) and multimode (FM, D-Star, Packet). Unknown
+about Allegan county and Calhoun county operations, likely
+FM only on two meters.  Some 440 used by Branch
+county.</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.12</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.13</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.1.14</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+       -->
+		</section>
+		
+		 <!--  Preparedness Measure  --> <section>
+			<title>Preparedness Measure 2.2 - Diversity</title>
+			 <indexterm>
+				<primary>Diversity</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Redundancy</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Field Locations</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Locations</primary>
+				 <secondary>Field/Temporary</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Modes of operation</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Frequency of operation</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Equipment manuals</primary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Manuals</primary>
+				 <secondary>Equipment</secondary>
+
+			</indexterm>
+			 <indexterm>
+				<primary>Documentation</primary>
+				 <secondary>Availability of</secondary>
+
+			</indexterm>
+			 <para>
+				Redundant and diverse interoperable communication systems are available
+			</para>
+			 <para>
+				Evaluators were asked to look for: 
+				<itemizedlist spacing="compact">
+					<listitem>
+						<para>
+							Are multiple modes and frequencies in use
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Is there evidence of temporary, portable or mobile operation
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Are appropriate equipment manuals accessible where needed
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</para>
+			 <section>
+				<title>Observation 2.2.1 - Mode/Frequency Flexibility</title>
+				 <para>
+					<filename>Strength:</filename> Most programs exploited multiple frequencies and modes.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Multi-frequency observed by 3 stations
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Multi mode 3 stations
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Multiple modes and frequencies used, VHF and HF
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Strength: Two counties used multimodes and frequencies
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 2.2.2 - Portable/Temporary Operations</title>
+				 <indexterm>
+					<primary>Field Locations</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Locations</primary>
+					 <secondary>Field/Temporary</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Portable Operation</primary>
+
+				</indexterm>
+				 <para>
+					<filename>Mixed:</filename> Few programs operated from temporary locations although most apparently had the capability.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								HT were in use on VHF
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Some stations had mobile/portable capability but did not use it
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								No temporary or portable operation observed. Some mobile operators heard
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <section>
+				<title>Observation 2.2.3 - Onsite Documentation</title>
+				 <indexterm>
+					<primary>Equipment manuals</primary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Manuals</primary>
+					 <secondary>Equipment</secondary>
+
+				</indexterm>
+				 <indexterm>
+					<primary>Documentation</primary>
+					 <secondary>Availability of</secondary>
+
+				</indexterm>
+				 <para>
+					<filename>Strength:</filename> Most locations had appropriate equipment manuals onsite.
+				</para>
+				 <para>
+					Individual evaluator comments:
+				</para>
+				 <para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								All manuals at Alpena and DEC 7 never seen that before
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								I know that equipment manuals are kept accessible at the Kalamazoo Red Cross chapter house
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						&nbsp;
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+			 <!-- 
+	  <section>
+	  <title>Observation 2.2.4</title>
+	  <para><filename>Strength:</filename> Multiple modes and frequencies used, VHF and
+	  HF</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.5</title>
+<para><filename>Strength:</filename> HT were in use on VHF</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.6</title>
+<para>Some stations had mobile/portable capability but did
+not use it</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.7</title>
+<para><filename>Strength:</filename> Two counties used multimodes and
+frequencies</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.8</title>
+<para>No temporary or portable operation observed. Some
+mobile operators heard</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.9</title>
+<para><filename>Strength:</filename> I know that equipment manuals are kept
+accessible at the Kalamazoo Red Cross chapter house.</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.10</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.11</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.12</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+
+
+<section>
+<title>Observation 2.2.13</title>
+<para>&nbsp;</para>
+
+<section>
+<title>References</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Analysis</title>
+<para>&nbsp;</para>
+</section>
+
+<section>
+<title>Recommendations</title>
+<para>&nbsp;</para>
+</section>
+
+</section>
+       --> <section>
+				<title>Observation 2.2.14</title>
+				 <para>
+					[Begin this section with a heading indicating whether the observation is a "Strength" or an "Area for Improvement". A strength is an observed action, behavior, procedure, and/or practice that is worthy of recognition and special notice. Areas for improvement are those areas in which the evaluator observed that a necessary task was not performed or that a task was performed with notable problems. Following this heading, insert a short, complete sentence that describes the general observation.]
+				</para>
+				 <section>
+					<title>References</title>
+					 <para>
+						[List relevant plans, policies, procedures, laws, and/or regulations, or sections of these plans, policies, procedures, laws, and/or regulations. If no references apply to the observation, it is acceptable to simply list "N/A" or "Not Applicable".]
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Analysis</title>
+					 <para>
+						[The analysis section should be the most detailed section of Chapter 3. Include a description of the behavior or actions at the core of the observation, as well as a brief description of what happened and the consequence(s) (positive or negative) of the action or behavior. If an action was performed successfully, include any relevant innovative approaches utilized by the exercise participants. If an action was not performed adequately, the root-causes contributing to the shortcoming must be identified.]
+					</para>
+
+				</section>
+				
+				 <section>
+					<title>Recommendations</title>
+					 <para>
+						[Insert recommendations to address identified areas for improvement, based on the judgment and experience of the evaluation team. If the observation was identified as a strength, without corresponding recommendations, insert "None".] 
+						<orderedlist>
+							<listitem>
+								<para>
+									[Complete description of recommendation]
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									[Complete description of recommendation]
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									[Complete description of recommendation]
+								</para>
+
+							</listitem>
+
+						</orderedlist>
+
+					</para>
+					 <para>
+						[Continue to add additional observations, references, analyses, and recommendations for each capability as necessary. Maintain numbering convention to allow for easy reference.]
+					</para>
+
+				</section>
+				
+
+			</section>
+			
+
+		</section>
+		
+		 <!--  Preparedness Measure  -->
+	</section>
+	
+	 <!--  Capability  -->
+</section>
+
+

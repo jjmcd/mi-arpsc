@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "SET2011-After_Action_Report.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-lessons-learned" lang="en-US">
+	<title>Lessons Learned</title>
+	 <note>
+		<para>
+			This section is optional
+		</para>
+	</note>
+	 <para>
+		While the After Action Report/Improvement Plan includes recommendations which support development of specific post-exercise corrective actions, exercises may also reveal lessons learned which can be shared with the broader homeland security audience. The Department of Homeland Security (DHS) maintains the Lessons Learned Information Sharing (LLIS.gov) system as a means of sharing post-exercise lessons learned with the emergency response community. This appendix provides jurisdictions and organizations with an opportunity to nominate lessons learned from exercises for sharing on LLIS.gov.
+	</para>
+	 <para>
+		For reference, the following are the categories and definitions used in LLIS.gov: 
+		<itemizedlist>
+			<listitem>
+				<para>
+					Lesson Learned: Knowledge and experience, positive or negative, derived from actual incidents, such as the 9/11 attacks and Hurricane Katrina, as well as those derived from observations and historical study of operations, training, and exercises.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Best Practices: Exemplary, peer-validated techniques, procedures, good ideas, or solutions that work and are solidly grounded in actual operations, training, and exercise experience.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Good Stories: Exemplary, but non-peer-validated, initiatives (implemented by various jurisdictions) that have shown success in their specific environments and that may provide useful information to other communities and organizations
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Practice Note: A brief description of innovative practices, procedures, methods, programs, or tactics that an organization uses to adapt to changing conditions or to overcome an obstacle or challenge.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
+	</para>
+	 <section>
+		<title>Exercise Lessons Learned</title>
+		 <para>
+			[Insert an account of any observations nominated for inclusion in the DHS LLIS.gov system. If there are not any nominations, a simple statement to that effect should be included here.]
+		</para>
+
+	</section>
+	
+
+</appendix>
+

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "AAR_Template.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-events-summary">
+  <title>Exercise Events Summary Table</title>
+
+  <para>
+
+    <table frame="all">
+      <title>Exercise Events Summary</title>
+      <tgroup cols="3">
+
+        <colspec colnum="1" colname="c1" colwidth="1*" />
+        <colspec colnum="2" colname="c2" colwidth="3*" />
+        <colspec colnum="3" colname="c3" colwidth="5*" />
+        <thead>
+          <row>
+
+	    <entry>Time</entry>
+	    <entry>
+	      Scenario Event, Simulated Player Inject, Player Action
+	    </entry>
+            <entry>Event/Action</entry>
+          </row>
+	</thead>
+	<tbody>
+	  <row>
+
+	    <entry>0745</entry>
+	    <entry>Scenario Event</entry>
+	    <entry>
+	      National Weather Service DTX advises GLETN of pending
+	      sever winter weather event including widespread icing.
+	    </entry>
+	  </row>
+	  <row>
+
+	    <entry>0800</entry>
+	    <entry>Player Action</entry>
+	    <entry>
+	      SEOC station activates, notifies net liaisons of
+	      weather.  Land line telephone service already severely
+	      comprimised.
+	    </entry>
+	  </row>
+	  <row>
+
+	    <entry>1030</entry>
+	    <entry>Scenario Event</entry>
+	    <entry>
+	      Conditions have deteriorated significantly.  Power
+	      outages become widespread, high profile antennas are
+	      damaged.
+	    </entry>
+	  </row>
+	  <row>
+
+	    <entry>1045</entry>
+	    <entry>Player Action</entry>
+	    <entry>
+	      Local jurisdictions switch to emergency power, simplex
+	      where local repeaters have damage and/or power loss.
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </table>
+  </para>
+</appendix>
+	  
+

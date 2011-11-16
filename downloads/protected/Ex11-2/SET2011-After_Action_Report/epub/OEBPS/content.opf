@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="articleid">
+  <metadata>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="articleid">_id4069153</dc:identifier>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">SET2011-After Action Report</dc:title>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">On October 1, 2011 Michigan Section held a functional drill using the scenario of a winter storm. This document details the result of that functional drill.</dc:description>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as=""/>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+  </metadata>
+  <manifest>
+    <item id="ncxtoc" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+    <item media-type="text/css" id="css" href="Common_Content/css/default.css"/>
+    <item media-type="text/css" id="print-css" href="Common_Content/css/print.css"/>
+    <item id="id4069153" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="id2902048" href="Common_Content/images/title_logo.png" media-type="image/png"/>
+    <item id="id3069983" href="sect-exer-overview.html" media-type="application/xhtml+xml"/>
+    <item id="id2981224" href="sect-exer-design.html" media-type="application/xhtml+xml"/>
+    <item id="id2907420" href="sect-analysis.html" media-type="application/xhtml+xml"/>
+    <item id="id3064218" href="sect-conclusion.html" media-type="application/xhtml+xml"/>
+    <item id="id3081568" href="appe-improvement-plan.html" media-type="application/xhtml+xml"/>
+    <item id="id2911454" href="appe-participant-feedback.html" media-type="application/xhtml+xml"/>
+    <item id="id4091420" href="apbs02.html" media-type="application/xhtml+xml"/>
+    <item id="id2964760" href="appe-EEG.html" media-type="application/xhtml+xml"/>
+    <item id="id2998670" href="appe-events-summary.html" media-type="application/xhtml+xml"/>
+    <item id="id2882046" href="appe-msel.html" media-type="application/xhtml+xml"/>
+    <item id="id3185540" href="images/Msg01.png" media-type="image/png"/>
+    <item id="id3079004" href="images/Msg02.png" media-type="image/png"/>
+    <item id="id3130868" href="images/Msg03.png" media-type="image/png"/>
+    <item id="id2853448" href="images/Msg04.png" media-type="image/png"/>
+    <item id="id2967259" href="images/Msg05.png" media-type="image/png"/>
+    <item id="id2877526" href="images/Msg06.png" media-type="image/png"/>
+    <item id="id3004278" href="images/Msg07.png" media-type="image/png"/>
+    <item id="id3020230" href="images/Msg08.png" media-type="image/png"/>
+    <item id="id3020263" href="images/Msg09.png" media-type="image/png"/>
+    <item id="id3046648" href="images/Msg10.png" media-type="image/png"/>
+    <item id="id3046681" href="images/Msg11.png" media-type="image/png"/>
+    <item id="id3046710" href="images/Msg12.png" media-type="image/png"/>
+    <item id="id3046743" href="images/Msg13.png" media-type="image/png"/>
+    <item id="id2857605" href="images/Msg14.png" media-type="image/png"/>
+    <item id="id2857638" href="images/Msg15.png" media-type="image/png"/>
+    <item id="id2857666" href="images/Msg16.png" media-type="image/png"/>
+    <item id="id2857699" href="images/Msg17.png" media-type="image/png"/>
+    <item id="id2857728" href="images/Msg18.png" media-type="image/png"/>
+    <item id="id2992026" href="images/Msg19.png" media-type="image/png"/>
+    <item id="id2992054" href="images/Msg20.png" media-type="image/png"/>
+    <item id="id2992087" href="images/Msg21.png" media-type="image/png"/>
+    <item id="id2992116" href="images/Msg22.png" media-type="image/png"/>
+    <item id="id2992149" href="images/Msg23.png" media-type="image/png"/>
+    <item id="id3045593" href="images/Msg24.png" media-type="image/png"/>
+    <item id="id3045626" href="images/Msg25.png" media-type="image/png"/>
+    <item id="id3045654" href="images/Msg26.png" media-type="image/png"/>
+    <item id="id3045687" href="images/Msg27.png" media-type="image/png"/>
+    <item id="id3045716" href="images/Msg28.png" media-type="image/png"/>
+    <item id="id3045749" href="images/Msg29.png" media-type="image/png"/>
+    <item id="id2882163" href="images/Msg30.png" media-type="image/png"/>
+    <item id="id2882196" href="images/Msg31.png" media-type="image/png"/>
+    <item id="id2882225" href="images/Msg32.png" media-type="image/png"/>
+    <item id="id2882258" href="images/Msg33.png" media-type="image/png"/>
+    <item id="id2882287" href="images/Msg34.png" media-type="image/png"/>
+    <item id="id3097693" href="images/Msg35.png" media-type="image/png"/>
+    <item id="id3097722" href="images/Msg36.png" media-type="image/png"/>
+    <item id="id3097755" href="images/Msg37.png" media-type="image/png"/>
+    <item id="id3097784" href="images/Msg38.png" media-type="image/png"/>
+    <item id="id3097816" href="images/Msg39.png" media-type="image/png"/>
+    <item id="id3097845" href="images/Msg40.png" media-type="image/png"/>
+    <item id="id2999784" href="images/Msg41.png" media-type="image/png"/>
+    <item id="id2999813" href="images/Msg42.png" media-type="image/png"/>
+    <item id="id2999846" href="images/Msg43.png" media-type="image/png"/>
+    <item id="id2999874" href="images/Msg44.png" media-type="image/png"/>
+    <item id="id2999907" href="images/Msg45.png" media-type="image/png"/>
+    <item id="id3113418" href="images/Msg46.png" media-type="image/png"/>
+    <item id="id3113451" href="images/Msg47.png" media-type="image/png"/>
+    <item id="id3113480" href="images/Msg48.png" media-type="image/png"/>
+    <item id="id3113513" href="images/Msg49.png" media-type="image/png"/>
+    <item id="id3113542" href="images/Msg50.png" media-type="image/png"/>
+    <item id="id3113574" href="images/Msg51.png" media-type="image/png"/>
+    <item id="id3043462" href="images/Msg52.png" media-type="image/png"/>
+    <item id="id3043495" href="images/Msg53.png" media-type="image/png"/>
+    <item id="id3043524" href="images/Msg54.png" media-type="image/png"/>
+    <item id="id3043556" href="images/Msg55.png" media-type="image/png"/>
+    <item id="id3043585" href="images/Msg56.png" media-type="image/png"/>
+    <item id="id2917812" href="images/Msg57.png" media-type="image/png"/>
+    <item id="id2917841" href="images/Msg58.png" media-type="image/png"/>
+    <item id="id3116701" href="appe-nts-dist.html" media-type="application/xhtml+xml"/>
+    <item id="id3136506" href="images/SET11-NTS.png" media-type="image/png"/>
+    <item id="id3024781" href="appe-contrib.html" media-type="application/xhtml+xml"/>
+    <item id="id3062164" href="appe-acronyms.html" media-type="application/xhtml+xml"/>
+    <item id="id3128286" href="appe-AAR_Template-Revision_History.html" media-type="application/xhtml+xml"/>
+    <item id="id3098394" href="ix01.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncxtoc">
+    <itemref idref="id4069153"/>
+    <itemref idref="id3069983"/>
+    <itemref idref="id2981224"/>
+    <itemref idref="id2907420"/>
+    <itemref idref="id3064218"/>
+    <itemref idref="id3081568"/>
+    <itemref idref="id2911454"/>
+    <itemref idref="id4091420"/>
+    <itemref idref="id2964760"/>
+    <itemref idref="id2998670"/>
+    <itemref idref="id2882046"/>
+    <itemref idref="id3116701"/>
+    <itemref idref="id3024781"/>
+    <itemref idref="id3062164"/>
+    <itemref idref="id3128286"/>
+    <itemref idref="id3098394"/>
+  </spine>
+</package>

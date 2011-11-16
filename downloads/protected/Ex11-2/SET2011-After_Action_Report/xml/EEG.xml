@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "SET2011-After_Action_Report.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-EEG" lang="en-US">
+	<title>Exercise Evaluation Guide</title>
+	 <para>
+		Each evaluator was provided with an Exercise Evaluation Guide (EEG) to guide the observations during the exercise.
+	</para>
+	 <section>
+		<title>Mission</title>
+		 <para>
+			Common Capabilities
+		</para>
+		 <section>
+			<title>Target Capability - Planning</title>
+			 <section>
+				<title>Task</title>
+				 <para>
+					ComA2.4.3.1 - Develop Standard Operating Procedures and Standard Operating Guides in support of Emergency Operations Plans
+				</para>
+				 <section>
+					<title>Preparedness Measure</title>
+					 <para>
+						Continuity of Operation (COOP) plans describe how personnel, equipment, and other resources support sustained response/survivability and recovery for all sectors
+					</para>
+					 <section>
+						<title>Things to look for</title>
+						 <para>
+							<itemizedlist spacing="compact">
+								<listitem>
+									<para>
+										Are stations using appropriate procedures and protocols
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Are net controls and operators being rotated
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Is there evidence of a plan to rotate operators
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Is there evidence of a plan to provide operators with personal needs (food, drink, rest, etc.)
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Is there evidence that emergency power/portable operations are planned
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Are plans in place to provide support personnel (runners, etc.)
+									</para>
+								</listitem>
+
+							</itemizedlist>
+
+						</para>
+
+					</section>
+					
+					 <section>
+						<title>Observations</title>
+						 <para>
+							<itemizedlist spacing="compact">
+								<listitem>
+									<para>
+										Observation 1: ......
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Observation 2: ......
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										......
+									</para>
+
+								</listitem>
+
+							</itemizedlist>
+
+						</para>
+
+					</section>
+					
+
+				</section>
+				
+				 <!--  Preparedness Measure  --> <section>
+					<title>Preparedness Measure</title>
+					 <para>
+						Emergency response plans address substantial loss of public safety response capabilities during catastrophic events (to include special needs populations and people with disabilities)
+					</para>
+					 <section>
+						<title>Things to look for</title>
+						 <para>
+							<itemizedlist spacing="compact">
+								<listitem>
+									<para>
+										Are stations using emergency power
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Are stations operating from field/temporary locations
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Are operations reliant on permanent infrastructure
+									</para>
+								</listitem>
+
+							</itemizedlist>
+
+						</para>
+
+					</section>
+					
+					 <section>
+						<title>Observations</title>
+						 <para>
+							<itemizedlist spacing="compact">
+								<listitem>
+									<para>
+										Observation 1: ......
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Observation 2: ......
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										......
+									</para>
+
+								</listitem>
+
+							</itemizedlist>
+
+						</para>
+
+					</section>
+					
+
+				</section>
+				
+				 <!--  Preparedness Measure  -->
+			</section>
+			
+
+		</section>
+		
+		 <!--  Target Capability  --> <section>
+			<title>Target Capability - Communications</title>
+			 <section>
+				<title>Task</title>
+				 <para>
+					ComC1.2.2 - Develop common communication and data standards to facilitate the exchange of information in support of response management
+				</para>
+				 <section>
+					<title>Preparedness Measure</title>
+					 <para>
+						Operable communications systems that are supported by redundancy and diversity, that provide service across jurisdictions, and that meet everyday internal agency requirements, are in place
+					</para>
+					 <section>
+						<title>Things to look for</title>
+						 <para>
+							<itemizedlist spacing="compact">
+								<listitem>
+									<para>
+										Is there consistency across the procedures used by the various jurisdictions
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Is there evidence of interface with government or non-government responders
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Is there evidence of any plan to use different modes and/or frequencies when conditions warrant
+									</para>
+								</listitem>
+
+							</itemizedlist>
+
+						</para>
+
+					</section>
+					
+					 <section>
+						<title>Observations</title>
+						 <para>
+							<itemizedlist spacing="compact">
+								<listitem>
+									<para>
+										Observation 1: ......
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Observation 2: ......
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										......
+									</para>
+
+								</listitem>
+
+							</itemizedlist>
+
+						</para>
+
+					</section>
+					
+
+				</section>
+				
+				 <!--  Preparedness Measure  --> <section>
+					<title>Preparedness Measuer</title>
+					 <para>
+						Redundant and diverse interoperable communication systems are available
+					</para>
+					 <section>
+						<title>Things to look for</title>
+						 <para>
+							<itemizedlist spacing="compact">
+								<listitem>
+									<para>
+										Are multiple modes and frequencies in use
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Is there evidence of temporary, portable or mobile operation
+									</para>
+								</listitem>
+								 <listitem>
+									<para>
+										Are appropriate equipment manuals accessible where needed
+									</para>
+								</listitem>
+
+							</itemizedlist>
+
+						</para>
+
+					</section>
+					
+					 <section>
+						<title>Observations</title>
+						 <para>
+							<itemizedlist spacing="compact">
+								<listitem>
+									<para>
+										Observation 1: ......
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Observation 2: ......
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										......
+									</para>
+
+								</listitem>
+
+							</itemizedlist>
+
+						</para>
+
+					</section>
+					
+
+				</section>
+				
+				 <!--  Preparedness Measure  -->
+			</section>
+			
+			 <!--  Task  -->
+		</section>
+		
+		 <!--  Target Capability  -->
+	</section>
+	
+	 <!--  Mission  -->
+</appendix>
+

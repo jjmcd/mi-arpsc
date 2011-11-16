@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE authorgroup PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "AAR_Template.ent">
+%BOOK_ENTITIES;
+]>
+<authorgroup>
+  <author>
+    <contrib>
+      For a list of contributors refer to Appendix G.
+    </contrib>
+  </author>
+<!--
+  <author>
+    <firstname>John</firstname><surname>McDonough</surname>
+    <affiliation>
+      <orgname>ARPSC</orgname><orgdiv>Michigan Section</orgdiv>
+    </affiliation>
+    <email>wb8rcr@arrl.net</email>
+  </author>
+  <author>
+    <firstname>John</firstname><surname>Hutcheson</surname>
+    <affiliation>
+      <orgname>ARPSC</orgname><orgdiv>Michigan Section</orgdiv>
+    </affiliation>
+    <email>hutchesonjohn@att.net</email>
+  </author>
+  <author>
+    <firstname>Charles</firstname><surname>Rood</surname>
+    <affiliation>
+      <orgname>ARPSC</orgname><orgdiv>Arenac County</orgdiv>
+    </affiliation>
+    <email>ab8sy@att.net</email>
+  </author>
+  <author>
+    <firstname>George</firstname><surname>Brand</surname>
+    <affiliation>
+      <orgname>ARPSC</orgname><orgdiv>Crawford County</orgdiv>
+    </affiliation>
+    <email>georgeb@i2k.com</email>
+  </author>
+  <author>
+    <firstname>Charles</firstname><surname>Pfister</surname>
+    <affiliation>
+      <orgname>ARPSC</orgname><orgdiv>Kalamazoo County</orgdiv>
+    </affiliation>
+    <email>crp.wd8axb@comcast.net</email>
+  </author>
+  <author>
+    <firstname>Ron</firstname><surname>Peterka</surname>
+    <affiliation>
+      <orgname>ARPSC</orgname><orgdiv>Mackinac County</orgdiv>
+    </affiliation>
+    <email>w8dr@lighthouse.com</email>
+  </author>
+  <author>
+    <firstname>Blaine</firstname><surname>Jenks</surname>
+    <affiliation>
+      <orgname>ARPSC</orgname><orgdiv>Montcalm County</orgdiv>
+    </affiliation>
+    <email>kd8dqa@gmail.com</email>
+  </author>
+-->
+</authorgroup>
+

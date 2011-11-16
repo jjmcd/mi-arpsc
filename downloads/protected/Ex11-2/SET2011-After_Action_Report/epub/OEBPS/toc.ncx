@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>SET2011-After Action Report</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id4069153" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>SET2011-After Action Report</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id3163348" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>1. Executive Summary</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="index.html#sect-exec-summ"/>
+        <ncx:navPoint id="id2840289" playOrder="3">
+          <ncx:navLabel>
+            <ncx:text>1.1. Major Strengths</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="index.html#id2840289"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3116142" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>1.2. Primary areas for improvement</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="index.html#id3116142"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3069983" playOrder="5">
+        <ncx:navLabel>
+          <ncx:text>2. Executive Overview</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-exer-overview.html"/>
+        <ncx:navPoint id="id3109501" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>2.1. Exercise Details</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-exer-overview.html#id3109501"/>
+          <ncx:navPoint id="id4073245" playOrder="7">
+            <ncx:navLabel>
+              <ncx:text>2.1.1. Capabilities</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="sect-exer-overview.html#id4073245"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2907037" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>2.2. Exercise Planning team</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-exer-overview.html#id2907037"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2907053" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>2.3. Participating organizations</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-exer-overview.html#id2907053"/>
+          <ncx:navPoint id="id2877317" playOrder="10">
+            <ncx:navLabel>
+              <ncx:text>2.3.1. Number of participants</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="sect-exer-overview.html#id2877317"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2981224" playOrder="11">
+        <ncx:navLabel>
+          <ncx:text>3. Exercise Design</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-exer-design.html"/>
+        <ncx:navPoint id="id3008161" playOrder="12">
+          <ncx:navLabel>
+            <ncx:text>3.1. Exercise Purpose and Design</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-exer-design.html#id3008161"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2859309" playOrder="13">
+          <ncx:navLabel>
+            <ncx:text>3.2. Exercise Objectives, Capabilities, and Activities</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-exer-design.html#id2859309"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2906243" playOrder="14">
+          <ncx:navLabel>
+            <ncx:text>3.3. Scenario Summary</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-exer-design.html#id2906243"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2907420" playOrder="15">
+        <ncx:navLabel>
+          <ncx:text>4. Analysis of Capabilities</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-analysis.html"/>
+        <ncx:navPoint id="id3130776" playOrder="16">
+          <ncx:navLabel>
+            <ncx:text>4.1. Capability 1 - Procedures</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-analysis.html#id3130776"/>
+          <ncx:navPoint id="id2966147" playOrder="17">
+            <ncx:navLabel>
+              <ncx:text>4.1.1. Preparedness Measure 1.1 - Survivability and Recovery</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="sect-analysis.html#PM1.1"/>
+            <ncx:navPoint id="id4081353" playOrder="18">
+              <ncx:navLabel>
+                <ncx:text>4.1.1.1. Observation 1.1.1 - Emergency Power</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#Obs1.1.1"/>
+              <ncx:navPoint id="id4081427" playOrder="19">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.1.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id4081427"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2988954" playOrder="20">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.1.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2988954"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2988969" playOrder="21">
+              <ncx:navLabel>
+                <ncx:text>4.1.1.2. Observation 1.1.2 - Experience</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#Obs1.1.2"/>
+              <ncx:navPoint id="id2989036" playOrder="22">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.2.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2989036"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2989059" playOrder="23">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.2.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2989059"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2989074" playOrder="24">
+              <ncx:navLabel>
+                <ncx:text>4.1.1.3. Observation 1.1.3 - Personal Needs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#Obs1.1.3"/>
+              <ncx:navPoint id="id2899851" playOrder="25">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.3.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2899851"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2899865" playOrder="26">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.3.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2899865"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2899879" playOrder="27">
+              <ncx:navLabel>
+                <ncx:text>4.1.1.4. Observation 1.1.4 - Procedures</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#Obs1.1.4"/>
+              <ncx:navPoint id="id3095196" playOrder="28">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.4.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3095196"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3095216" playOrder="29">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.4.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3095216"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id3095238" playOrder="30">
+              <ncx:navLabel>
+                <ncx:text>4.1.1.5. Observation 1.1.5 - Rotation</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#Obs1.1.5"/>
+              <ncx:navPoint id="id2954487" playOrder="31">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.5.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2954487"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2954501" playOrder="32">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.5.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2954501"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2954516" playOrder="33">
+              <ncx:navLabel>
+                <ncx:text>4.1.1.6. Observation 1.1.6 - Support</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#Obs1.1.6"/>
+              <ncx:navPoint id="id2954584" playOrder="34">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.6.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2954584"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2954598" playOrder="35">
+                <ncx:navLabel>
+                  <ncx:text>4.1.1.6.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2954598"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id4094939" playOrder="36">
+            <ncx:navLabel>
+              <ncx:text>4.1.2. Preparedness Measure 1.2 - Loss of capability</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="sect-analysis.html#id4094939"/>
+            <ncx:navPoint id="id2980639" playOrder="37">
+              <ncx:navLabel>
+                <ncx:text>4.1.2.1. Observation 1.2.1 - Emergency Power</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#Obs1.2.1"/>
+              <ncx:navPoint id="id2980723" playOrder="38">
+                <ncx:navLabel>
+                  <ncx:text>4.1.2.1.1. Analysis and Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2980723"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2980746" playOrder="39">
+              <ncx:navLabel>
+                <ncx:text>4.1.2.2. Observation 1.2.2 - Infrastructure</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#id2980746"/>
+              <ncx:navPoint id="id2985297" playOrder="40">
+                <ncx:navLabel>
+                  <ncx:text>4.1.2.2.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2985297"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2985312" playOrder="41">
+                <ncx:navLabel>
+                  <ncx:text>4.1.2.2.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id2985312"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2985326" playOrder="42">
+              <ncx:navLabel>
+                <ncx:text>4.1.2.3. Observation 1.2.3 - Temporary Operation</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#id2985326"/>
+              <ncx:navPoint id="id3157479" playOrder="43">
+                <ncx:navLabel>
+                  <ncx:text>4.1.2.3.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3157479"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3157492" playOrder="44">
+                <ncx:navLabel>
+                  <ncx:text>4.1.2.3.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3157492"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id3157581" playOrder="45">
+          <ncx:navLabel>
+            <ncx:text>4.2. Capability 2 - Standards</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="sect-analysis.html#id3157581"/>
+          <ncx:navPoint id="id3150884" playOrder="46">
+            <ncx:navLabel>
+              <ncx:text>4.2.1. Preparedness Measure 2.1 - Cross-jurisdiction</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="sect-analysis.html#PM2.1"/>
+            <ncx:navPoint id="id3151002" playOrder="47">
+              <ncx:navLabel>
+                <ncx:text>4.2.1.1. Observation 2.1.1 - Consistency</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#id3151002"/>
+              <ncx:navPoint id="id3105826" playOrder="48">
+                <ncx:navLabel>
+                  <ncx:text>4.2.1.1.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3105826"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3105839" playOrder="49">
+                <ncx:navLabel>
+                  <ncx:text>4.2.1.1.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3105839"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id3105853" playOrder="50">
+              <ncx:navLabel>
+                <ncx:text>4.2.1.2. Observation 2.1.2 - Flexibility</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#Obs2.1.2"/>
+              <ncx:navPoint id="id3105963" playOrder="51">
+                <ncx:navLabel>
+                  <ncx:text>4.2.1.2.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3105963"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3105979" playOrder="52">
+                <ncx:navLabel>
+                  <ncx:text>4.2.1.2.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3105979"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id3061104" playOrder="53">
+              <ncx:navLabel>
+                <ncx:text>4.2.1.3. Observation 2.1.3 - Served Agencies</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#id3061104"/>
+              <ncx:navPoint id="id3061174" playOrder="54">
+                <ncx:navLabel>
+                  <ncx:text>4.2.1.3.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3061174"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3061188" playOrder="55">
+                <ncx:navLabel>
+                  <ncx:text>4.2.1.3.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3061188"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id3061208" playOrder="56">
+            <ncx:navLabel>
+              <ncx:text>4.2.2. Preparedness Measure 2.2 - Diversity</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="sect-analysis.html#id3061208"/>
+            <ncx:navPoint id="id3109773" playOrder="57">
+              <ncx:navLabel>
+                <ncx:text>4.2.2.1. Observation 2.2.1 - Mode/Frequency Flexibility</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#id3109773"/>
+              <ncx:navPoint id="id3178960" playOrder="58">
+                <ncx:navLabel>
+                  <ncx:text>4.2.2.1.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3178960"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3178973" playOrder="59">
+                <ncx:navLabel>
+                  <ncx:text>4.2.2.1.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3178973"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id3178987" playOrder="60">
+              <ncx:navLabel>
+                <ncx:text>4.2.2.2. Observation 2.2.2 - Portable/Temporary Operations</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#id3178987"/>
+              <ncx:navPoint id="id3179073" playOrder="61">
+                <ncx:navLabel>
+                  <ncx:text>4.2.2.2.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3179073"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3111168" playOrder="62">
+                <ncx:navLabel>
+                  <ncx:text>4.2.2.2.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3111168"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id3111181" playOrder="63">
+              <ncx:navLabel>
+                <ncx:text>4.2.2.3. Observation 2.2.3 - Onsite Documentation</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="sect-analysis.html#id3111181"/>
+              <ncx:navPoint id="id3111262" playOrder="64">
+                <ncx:navLabel>
+                  <ncx:text>4.2.2.3.1. Analysis</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3111262"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3111275" playOrder="65">
+                <ncx:navLabel>
+                  <ncx:text>4.2.2.3.2. Recommendations</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="sect-analysis.html#id3111275"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3064218" playOrder="66">
+        <ncx:navLabel>
+          <ncx:text>5. Conclusion</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="sect-conclusion.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3081568" playOrder="67">
+        <ncx:navLabel>
+          <ncx:text>A. Improvement Plan</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-improvement-plan.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2911454" playOrder="68">
+        <ncx:navLabel>
+          <ncx:text>B. Participant Feedback</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-participant-feedback.html"/>
+        <ncx:navPoint id="id3138633" playOrder="69">
+          <ncx:navLabel>
+            <ncx:text>B.1. General Participant Feedback</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="appe-participant-feedback.html#id3138633"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id4091420" playOrder="70">
+          <ncx:navLabel>
+            <ncx:text>B.2. General Comments from Evaluators</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs02.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2964760" playOrder="71">
+        <ncx:navLabel>
+          <ncx:text>C. Exercise Evaluation Guide</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-EEG.html"/>
+        <ncx:navPoint id="id3155947" playOrder="72">
+          <ncx:navLabel>
+            <ncx:text>C.1. Mission</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="appe-EEG.html#id3155947"/>
+          <ncx:navPoint id="id2881231" playOrder="73">
+            <ncx:navLabel>
+              <ncx:text>C.1.1. Target Capability - Planning</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="appe-EEG.html#id2881231"/>
+            <ncx:navPoint id="id2986525" playOrder="74">
+              <ncx:navLabel>
+                <ncx:text>C.1.1.1. Task</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="appe-EEG.html#id2986525"/>
+              <ncx:navPoint id="id2999933" playOrder="75">
+                <ncx:navLabel>
+                  <ncx:text>C.1.1.1.1. Preparedness Measure</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="appe-EEG.html#id2999933"/>
+                <ncx:navPoint id="id3032277" playOrder="76">
+                  <ncx:navLabel>
+                    <ncx:text>C.1.1.1.1.1. Things to look for</ncx:text>
+                  </ncx:navLabel>
+                  <ncx:content src="appe-EEG.html#id3032277"/>
+                </ncx:navPoint>
+                <ncx:navPoint id="id2968499" playOrder="77">
+                  <ncx:navLabel>
+                    <ncx:text>C.1.1.1.1.2. Observations</ncx:text>
+                  </ncx:navLabel>
+                  <ncx:content src="appe-EEG.html#id2968499"/>
+                </ncx:navPoint>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3116651" playOrder="78">
+                <ncx:navLabel>
+                  <ncx:text>C.1.1.1.2. Preparedness Measure</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="appe-EEG.html#id3116651"/>
+                <ncx:navPoint id="id2890815" playOrder="79">
+                  <ncx:navLabel>
+                    <ncx:text>C.1.1.1.2.1. Things to look for</ncx:text>
+                  </ncx:navLabel>
+                  <ncx:content src="appe-EEG.html#id2890815"/>
+                </ncx:navPoint>
+                <ncx:navPoint id="id3186942" playOrder="80">
+                  <ncx:navLabel>
+                    <ncx:text>C.1.1.1.2.2. Observations</ncx:text>
+                  </ncx:navLabel>
+                  <ncx:content src="appe-EEG.html#id3186942"/>
+                </ncx:navPoint>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id3114001" playOrder="81">
+            <ncx:navLabel>
+              <ncx:text>C.1.2. Target Capability - Communications</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="appe-EEG.html#id3114001"/>
+            <ncx:navPoint id="id3114007" playOrder="82">
+              <ncx:navLabel>
+                <ncx:text>C.1.2.1. Task</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="appe-EEG.html#id3114007"/>
+              <ncx:navPoint id="id3114020" playOrder="83">
+                <ncx:navLabel>
+                  <ncx:text>C.1.2.1.1. Preparedness Measure</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="appe-EEG.html#id3114020"/>
+                <ncx:navPoint id="id3114034" playOrder="84">
+                  <ncx:navLabel>
+                    <ncx:text>C.1.2.1.1.1. Things to look for</ncx:text>
+                  </ncx:navLabel>
+                  <ncx:content src="appe-EEG.html#id3114034"/>
+                </ncx:navPoint>
+                <ncx:navPoint id="id3092008" playOrder="85">
+                  <ncx:navLabel>
+                    <ncx:text>C.1.2.1.1.2. Observations</ncx:text>
+                  </ncx:navLabel>
+                  <ncx:content src="appe-EEG.html#id3092008"/>
+                </ncx:navPoint>
+              </ncx:navPoint>
+              <ncx:navPoint id="id3092052" playOrder="86">
+                <ncx:navLabel>
+                  <ncx:text>C.1.2.1.2. Preparedness Measure</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="appe-EEG.html#id3092052"/>
+                <ncx:navPoint id="id3092064" playOrder="87">
+                  <ncx:navLabel>
+                    <ncx:text>C.1.2.1.2.1. Things to look for</ncx:text>
+                  </ncx:navLabel>
+                  <ncx:content src="appe-EEG.html#id3092064"/>
+                </ncx:navPoint>
+                <ncx:navPoint id="id3092108" playOrder="88">
+                  <ncx:navLabel>
+                    <ncx:text>C.1.2.1.2.2. Observations</ncx:text>
+                  </ncx:navLabel>
+                  <ncx:content src="appe-EEG.html#id3092108"/>
+                </ncx:navPoint>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2998670" playOrder="89">
+        <ncx:navLabel>
+          <ncx:text>D. Exercise Events Summary Table</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-events-summary.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2882046" playOrder="90">
+        <ncx:navLabel>
+          <ncx:text>E. Master Scenario Event List</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-msel.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3116701" playOrder="91">
+        <ncx:navLabel>
+          <ncx:text>F. NTS to District Assignments</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-nts-dist.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3024781" playOrder="92">
+        <ncx:navLabel>
+          <ncx:text>G. List of Contributors</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-contrib.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3062164" playOrder="93">
+        <ncx:navLabel>
+          <ncx:text>H. Acronyms</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-acronyms.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3128286" playOrder="94">
+        <ncx:navLabel>
+          <ncx:text>I. Revision History</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-AAR_Template-Revision_History.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3098394" playOrder="95">
+        <ncx:navLabel>
+          <ncx:text>Index</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ix01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

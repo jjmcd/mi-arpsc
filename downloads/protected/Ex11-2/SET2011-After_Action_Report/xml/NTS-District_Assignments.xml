@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "SET2011-After_Action_Report.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-nts-dist" lang="en-US">
+	<title>NTS to District Assignments</title>
+	 <para>
+		The following diagram illustrates the assignment of NTS nets to ARES Districts: 
+		<figure float="0" pgwide="1">
+			<title>Traffic Flow</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/SET11-NTS.png" format="PNG" scale="99" scalefit="1" width="444" />
+				</imageobject>
+				 <textobject>
+					<para>
+						Traffic Flow
+					</para>
+
+				</textobject>
+
+			</mediaobject>
+
+		</figure>
+		 Black lines indicate liaison with SEOC on 3.563 MHz, while violet lines indicate contact on 3.932 MHz.
+	</para>
+</appendix>
+

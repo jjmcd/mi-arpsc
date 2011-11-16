@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE legalnotice PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "../SET2011-After_Action_Report.ent">
+%BOOK_ENTITIES;
+]>
+<legalnotice lang="en-US">
+  <para>
+    Copyright&copy; &YEAR;, &HOLDER;
+  </para>
+  <para>
+    This document is released FOR OFFICIAL USE ONLY.  In accordance
+    with Department of Homeland Security recommendations, after-action
+    reports should only be shared with those who have a need to use
+    the information to improve the ability of the Michgan Section to
+    respond to incidents.
+  </para>
+  <para>
+    The text of and illustrations in this document are licensed by the
+    Michigan Section of the American Radio Relay League under a
+    Creative Commons Attribution--Share Alike 3.0 Unported license
+    ("CC-BY-SA"). An explanation of CC-BY-SA is available at
+    http://creativecommons.org/licenses/by-sa/3.0/. The original
+    authors of this document designate the Michigan Section of the
+    American Radio Relay League as the "Attribution Party" for
+    purposes of CC-BY-SA. In accordance with CC-BY-SA, if you
+    distribute this document or an adaptation of it, you must provide
+    the URL for the original version.
+  </para>
+  <para>
+    The Michigan Section, as the licensor of this document, waives the
+    right to enforce, and agrees not to assert, Section 4d of CC-BY-SA
+    to the fullest extent permitted by applicable law.
+  </para>
+  <para>
+    The ARRL Diamond and logo, the ARES logo and the ARPSC
+    logo are registered trademarks of the American Radio
+    Relay League in the United States and other countries.
+  </para>
+  <para>
+    All other trademarks are the property of their respective owners.
+  </para>
+</legalnotice>
+

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "AAR_Template.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-perf-rating">
+  <title>Performance Rating</title>
+  <note><para>This section is optional</para></note>
+  <para>
+    [When a jurisdiction/organization elects to use performance ratings, or when
+    initiatives require a rating within the AAR/IP, the following approach can
+    be used.  A qualitative performance rating is assigned to each activity
+    demonstrated within its capability area.  The performance rating is based on
+    a systemic review by the lead evaluator of exercise performance based on
+    evaluator analysis of how well the participants demonstrated the capability
+    outcome.  The results should be summarized within this appendix and should
+    be based on the supporting narrative contained within the body of the
+    AAR/IP.]
+  </para>
+  <para>
+    The performance rating categories refer to how well each activity was
+    performed during the exercise and are detailed in the table below.
+  <table frame="all">
+    <title>Performance Ratings</title>
+    <tgroup cols="2">
+	<colspec colnum="1" colname="c1" colwidth="1*" />
+	<colspec colnum="2" colname="c2" colwidth="2*" />
+      <thead>
+	<row>
+	  <entry>Rating</entry>
+	  <entry>Description</entry>
+	  </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry>Performed without Challenges</entry>
+	    <entry>
+	      The performance measures and tasks associated with the activity
+	      were completed in a manner that achieved the objective(s) and did
+	      not negatively impact the performance of other activities.
+	      Performance of this activity did not contribute to additional
+	      health and/or safety risks for the public or for emergency
+	      workers, and it was conducted in accordance with applicable plans,
+	      policies, procedures, regulations, and laws.
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>Performed with Some Challenges, but Adequately</entry>
+	    <entry>
+	      The performance measures and tasks associated with the activity
+	      were completed in a manner that achieved the objective(s) and did
+	      not negatively impact the performance of other activities.
+	      Performance of this activity did not contribute to additional
+	      health and/or safety risks for the public or for emergency
+	      workers, and it was conducted in accordance with applicable plans,
+	      policies, procedures, regulations, and laws.  However,
+	      opportunities to enhance effectiveness and/or efficiency were
+	      identified.
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>Performed with Major Challenges</entry>
+	    <entry>
+	      The performance measures and tasks associated with the activity
+	      were completed in a manner that achieved the objective(s), but
+	      some or all of the following were observed: demonstrated
+	      performance had a negative impact on the performance of other
+	      activities; contributed to additional health and/or safety risks
+	      for the public or for emergency workers; and/or, was not conducted
+	      in accordance with applicable plans, policies, procedures,
+	      regulations, and laws.
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>Unable to be Performed</entry>
+	    <entry>
+	      The performance measures and tasks associated with the activity
+	      were not performed in a manner that achieved the objective(s).
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </table>
+  </para>
+</appendix>

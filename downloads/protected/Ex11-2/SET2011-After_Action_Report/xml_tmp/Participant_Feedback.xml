@@ -1,0 +1,761 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "AAR_Template.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-participant-feedback">
+  <title>Participant Feedback</title>
+  <section>
+    <title>General Participant Feedback</title>
+    <para>
+      A large number of comments were received from participants over
+      various circuits.  The following is a sampling of those comments.
+      Note that in some cases, sut/paste preserved grammatical, spelling
+      and typographic errors, in other cases they were introduced in
+      transcription.
+    </para>
+    <para>
+      <itemizedlist >
+	<listitem>
+	  <para>
+	    Utilizing the UP Traffic Net worked very well.  There were a
+	    number of check-ins, messages were passed by the EC's that
+	    were involved this year through the UP Net
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Aileen WA8DHB, Net control of the UP Net did an excellent job,
+	    including having downstate stations sending some of our
+	    traffic to the SEOC.  I don't know if she received any
+	    information about the SET besides our conversations on the
+	    phone.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Deployed one Emergency Response Veichle, Manned the Chapter
+	    radio room using HF,Packet in Converse mode,CW, Red Cross Low
+	    Band FM and 2mtr simplex. Had laison on E Team and the MVHF
+	    Traffic net. Took and sent NTS traffic,passed tactical traffic
+	    in converse mode Contacts made with Allegan Red Cross.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Be careful of abbreviations in NTS messages 
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    some might not know what they mean Using State wide repeater
+	    system depended too much on infrastructure to link Counties
+	    together
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Some OP'S not familiar with NTS slowed the net down with fills
+	    and some inattentiveness
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    SET info not found on State ARRL web site or on Yahoo Groups-
+	    Many didn't know the State was doing one
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Lack of a designated 60 mtr freq to fall back on/alternate
+	    freq's determined in advance by NM's So what if some hams
+	    don't have 60?
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    NM's need to think out side the box- That is spread the net
+	    out on alternate freq's with NCS reporting back to the main
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    NCS need increased circuits to pass traffic
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Some DEC's did nothing in their counties causing failure in
+	    these counties
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Suggest organizing the HF nets more like Skywarn nets are run
+	    - a main net and several sub nets This will allow disaster
+	    traffic to be moved more quickly
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    RED CROSS: Radio room needs to be reorganized- More space for
+	    operating and sound deadening dividers and headphones Upgrade
+	    of laptops and printers more NTS training common pwr
+	    connectors Check deployment boxes more often- Even though
+	    packet went well more trng needed.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    What Went Well:On site equipment helped rapid deployment
+	    Packet in converse mode Had more then enough comm circuits to
+	    pass traffic Knowledgeable operators on Packet solved minor
+	    problems with TNC's MVHF Traffic Net operators very
+	    knowledgeable and performed very well HF Liaisons great- Basic
+	    concept of the exercise developed by the State on the right
+	    track- Could use as many exercises as the State can arrange!
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    no man-made interference
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Representation from SEOC, Districts 1,5,6 and 7
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Excellent scores compared to SET of October 2009
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Net liaisons extremely competent in obtaining traffic from HF
+	    and returning with outgoing traffic
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Very good communications between VHF and SEOC
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Goodly number of stations on emergency power
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Extremely efficient assistance from E-Team in Kent county and
+	    also participation from Kent County Red Cross and one other
+	    Red Cross facility in a different District
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Messages from SEOC began coming through in a timely manner and
+	    there was no wasted air space like in previous years
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Brief periods of time were allotted at the top of each hour
+	    for stations not involved in the exercise so that they may
+	    transmit any priority or welfare traffic
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    As a net control I need to learn to obtain my rogers and
+	    provide fills for the exercise participants in a more
+	    efficient manner
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    My net liaisons need to learn to give traffic more slowly thus
+	    leading to a possibility of less fills being required
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    It was apparent that several stations needed NTS training as
+	    excess time was used in getting their traffic passed
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Need more stations on emergency power
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    I had difficulty communicating with three stations most likely
+	    due to their equipment as the links they were using were in
+	    good operating order
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    One station left early after being asked to take traffic and i
+	    got the impression that because of their lack of skill they
+	    felt unable to continue but perhaps i could be in error.
+	    while on the air the station was very efficient and seemed to
+	    know the proper protocol
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    The Liaison who was monitoring the SEOC phone Net picked up
+	    three messages and brought them to the MIDTN, messages # 2, 4,
+	    9 and where picked up and acknowledged by all four Counties in
+	    the NET. A repeat was not needed as they where monitoring the
+	    NET.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Mike in Presque Isle picked up a VHF message # 41 to the
+	    effect that all power State wide was lost and if you where
+	    without backup you were done until the exercise ended
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    MIDTN as well as Roscommon, Alpena and Presque Isle all had
+	    Emergency Power Sources and switched over and rechecked into
+	    the NET to acknowledge same
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    We operated from the Roscommon Fairgrounds as a field day type
+	    station and erected antennas and used equipment we brought to
+	    the scene. I worked elbow to elbow with the DEC (Red) and he
+	    spent a great deal of time after the exercise teaching me what
+	    I needed to do to function better as a Manager of the NET
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    I checked into QMN because the statewide SSB nets were very
+	    weak into this location.  Also, they were yakking away for
+	    minutes at a time, explaining why things were like they were
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Major concern on these nets were on frequencies other than
+	    their usual frequencies.  Also, I believe some folks on the
+	    3553 KHz freq for QMN were likewise concerned.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Repeater contacts went well with all stations hearing
+	    everyone. Analog simplex contacts were generally acceptable,
+	    but we found that some electrical noise at the Coldwater PD/FD
+	    was not allowing them to hear weak signals. D-Star simplex
+	    contacts had the same result as analog simplex as a result of
+	    the high noise levels at CPD. Steuben has no D-Star capability
+	    at this time. The high noise levels have been resolved at CPD
+	    by utilizing adding grounding to the shield of our antenna
+	    run.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Both the Hillsdale and Branch EOCs had extreme electronic
+	    noise and no packet connections were possible. We are using
+	    toroids and grounding devices to try to quiet things down but
+	    we are not there yet.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    We had 17 participants with 16 on emergency power.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    The contact with Kalamazoo on the 04 repeater was successful
+	    from the EOC. The Coldwater hospital had difficulty. Virtually
+	    everything on simplex and D-Star failed. We question band
+	    conditions because this has not been particularly problematic
+	    in the past. Will test again in November.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Checking into the MACS Net went well. We received 4 pieces of
+	    traffic and we sent 1 response to the SEOC. Over all, my
+	    impression was that the HF link to limited stations who
+	    communicated with the SEOC worked very well. This moved the
+	    gridlock away from the SEOC. I did not have the chance to
+	    listen to anything but the MACS Net, so things may have gone
+	    to hell in a hand basket elsewhere. At least there were
+	    trained traffic handlers at the SEOC and at the helm of the HF
+	    Nets. This exercise illustrates that ARES and RACES groups
+	    need a ton of work on how to properly and accurately formulate
+	    and relay written messages to another operator. This is Deja
+	    vu all over again!!!!
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Our monthly Tornado Siren Test went off well, after the power
+	    cable of the signaling equipment at the 911 Center was plugged
+	    back in. It turns out that some things at 911 had been
+	    rearranged and they neglected to plug the unit back in. Good
+	    thing they test things!!!!
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Moving frequencies off usual freqs created considerable
+	    confusion.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    I was a W8DC, and was assigned to monitor 3932 KHz, but
+	    signals were so weak I could hardly hear anyone.  So, I moved
+	    here to 3553 KHz for QMN, even though QMN was supposed to be
+	    for District 1 only (at least that was my impression.)  Best
+	    laid plans of mice and men often go astray in emergency.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Moving to 7 MHz was a fine idea, but I wasn't sure everyone
+	    heard the QNC to move, so I voluteered to run a parallel
+	    session on 3.5 MHz.  I found W8OAK, quite weak, but he was
+	    able to hear enough to move to 7068 KHz and, apparently moved
+	    his traffic.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    The SEOC had a good signal during the two hours I operated.
+	    Conditions were fair to good.  No problems here.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    It's refreshing to know that we have sufficient depth of
+	    operators with CW skills so that a CW operator at the SEOC is
+	    available for the exercise.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    The segregated net concept, that is, a watch frequency for the
+	    SEOC and a separate net frequency for QMN was problematic.
+	    While this may have worked well for the voice nets, which tend
+	    to have a larger contingent of operators, it tended to divide
+	    the limited resources of QMN.  Rather than resulting in
+	    greater efficiency, it resulted in a cumbersome flow of
+	    traffic and duplication of resources.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Operations during the 8:00-AM to 8:20-AM EDT time frame on
+	    3563 was hampered by strong digital interference.  I did not
+	    have the capabilities to decode the traffic.  However, it was
+	    quite strong at my location.  It seems to me the risk of such
+	    frequency conflicts is greater when nets are moved off their
+	    normal frequencies or when special nets are established
+	    without thought given to frequency coordination and potential
+	    conflicts.  For example, when the QMN frequencies were
+	    selected (both primary and alternate), considerable time and
+	    monitoring was invested to make sure the conflict with other
+	    nets throughout the day would be minimized.  Of course, there
+	    are no guarantees, but it seems to me such interference could
+	    have been problematic in a real communications emergency.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    The procedures and message traffic originated and relayed was
+	    quite good. All operators involved did a fine job.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Message 001: The x-ray at the conclusion of the text and
+	    before the second break (to signature) was unnecessary.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    In time of emergency, and therefore in drills and exercises,
+	    the message should have included a time of origination.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Message 007: No time of origin.  This is a potential problem
+	    in an Emergency Operations Center when multiple messages may
+	    be received about a single event.  In order for an agency or
+	    individual to construct a coherent understanding of an event,
+	    it is necessary to know the sequence of the event components,
+	    inquiries, and actions that take place.  Otherwise, errors in
+	    judgment occur.  The time of origin should reflect the time at
+	    which the message was drafted by the signatory.  As such,
+	    automatic time stamp at time of entry into a network is
+	    inaccurate and inappropriate (e.g. packet time stamp, e-mail
+	    time stamp, etc.).
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Message 007: Who is requesting the information?  If I were to
+	    contact my local DPW or Road Commission and make this inquiry,
+	    someone is bound to ask "on whose authority are you making
+	    this request and who wants the information?"  It is also
+	    likely to generate a reply; to whom is that reply addressed?
+	    When a message is originated on behalf of the SEOC, it should
+	    have an authorizing signature.  Obviously, no harm no foul as
+	    this was a drill message, but in real life, it should include
+	    a name, title and agency in the signature line.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    I attempted to access the W8HVG link system, but the
+	    St. Joseph repeater was locked key-down all day.  Not sure if
+	    this was an interference problem or malicious.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Thank you to K8KIC for checking in on behalf of District One!
+	    A life-saver.  We need more members in District One.
+	  </para>
+	</listitem>
+
+      </itemizedlist>
+
+    </para>
+  </section>
+  <section>
+    <title>General Comments from Evaluators</title>
+    <para>
+      Most evaluator comments are included in <xref
+      linkend="sect-analysis" />.  However, evaluators were also given the
+      opportunity to provide general observations.  Those observations
+      are listed below.
+    </para>
+    <para>
+      <itemizedlist>
+	<listitem>
+	  <para>
+	    All major players need three HF rigs and 3 VHF
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    One HF rig at DEC went down and was out of use two
+	    hours in a real emergency I would have brought in my
+	    HF mobile
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Alt NCS training heeded. DEC 7 pri op saw no need for
+	    alt NCS/Alt freq until instructed by DEC to open one
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    I think master list of participant rigs would be
+	    useful. Until drill I never knew RLI and I use same
+	    rigs
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Interoperability priority needed
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Communications involving SET - with other nets that
+	    usually meet during this time period woule solve a lot
+	    of time and net problems - reference the Old Geisers
+	    net - Communications with them ahead of time about the
+	    SET so they could QSY the net ahead of time
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Traffic being repeated at too fast a pace verbally -
+	    repeated msg incorrect - District not getting the
+	    State traffic in a timely fashion - reliability and
+	    accuracy
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Operators need more practice copying messages -
+	    station on freq not prepared to copy - xray in message
+	    not being put into word count causing confusion
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Some stations monitoring both VHF and HF copying their
+	    traffic ahead of time to insure accuracy
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Confusion about abbreviations in text of message and
+	    not what to do about it. Ref Msg No. 46 - E Power
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    I couldn't stand by idly; I ended up making
+	    transmissions to help patch and relay traffic. I ended
+	    up somewhat of a coordinator.
+	  </para>
+	</listitem>
+	<!--            <listitem>
+	     <para>
+	     KB8RCR on HF has an alligator station - all strong
+	     signal but no ears
+	     </para>
+	     </listitem> -->
+	<listitem>
+	  <para>
+	    I was on 3952. I spoke to NKX and K8YYZ
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    60 meters needs to be tested.  Thinking knee-jerk to
+	    run to 40 meters is not the only alternative to 75
+	    meters.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    It became obvious that the 5th District has a big
+	    administrative communications problem.  It wasn't for
+	    lack of trying to get the SET word out.  The problem
+	    was that 2 of 4 counties, Allegan and Calhoun, kept
+	    their operations a secret.  Allegan Co. Operated in a
+	    vacuum but had a busy county-only exercise. There ids
+	    a 5th district yahoo egroup the works well if people
+	    use it."
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    As Kalamazoo County EC, NK8X read all of the traffic
+	    from the SEOC on the local VHF-FM net frequency.  NK8X
+	    also assisted the NCS on 3952 as a relay.  75 meters
+	    pooped out around 10:30AM."
+	  </para>
+	</listitem>
+      </itemizedlist>
+    </para>
+  </section>
+
+<!--
+  <note><para>This section is optional</para></note>
+  <para>
+    [Provided in this section is a sample Participant Feedback Form, which
+    should be distributed to exercise participants at a post-exercise hot wash.
+    Appendix C of the AAR/IP should provide a summary of the feedback received
+    through this form.]
+  </para>
+  <formalpara>
+    <title>Participant Feedback Form</title>
+    <para>
+      Exercise name: &nbsp; &EXNAM; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+      Exercise Date: &nbsp; &EXDATE;
+    </para>
+  </formalpara>
+  <para>
+    Agency: ________________________________________
+  </para>
+  <para>
+    Role: ___Player ___Observer ___Facilitator ___Evaluator
+  </para>
+  <formalpara>
+    <title>Recommendations and Corrective Actions</title>
+    <para>&nbsp;</para>
+  </formalpara>
+  <para>
+    1. Based on the exercise today and the tasks identified, list the top 3
+    strengths and/or areas that need improvement:
+  </para>
+  <para>
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+  </para>
+  <para>
+    2. 1.Is there anything you saw in the exercise that the evaluator(s) might
+    not have been able to experience, observe, and record?
+  </para>
+  <para>
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+  </para>
+  <para>
+    3. Identify the corrective actions that should be taken to address the
+    issues identified above.  For each corrective action, indicate if it is a
+    high, medium, or low priority.
+  </para>
+  <para>
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+  </para>
+  <para>
+    4. 1.Describe the corrective actions that relate to your area of
+    responsibility.  Who should be assigned responsibility for each corrective
+    action?
+  </para>
+  <para>
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+  </para>
+  <para>
+    5. 1.List the applicable equipment, training, policies, plans, and
+    procedures that should be reviewed, revised, or developed.  Indicate the
+    priority level for each.
+  </para>
+  <para>
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+  </para>
+  <formalpara>
+    <title>Exercise Design and Conduct: Assessment</title>
+    <para>
+      Please rate, on a scale of 1 to 5, your overall assessment of the exercise
+      relative to the statements provided below, with 1 indicating strong
+      disagreement with the statement and 5 indicating strong agreement.
+    </para>
+  </formalpara>
+  <table frame="all">
+    <title>Participant Assessment</title>
+    <tgroup cols="6">
+      <colspec colnum="1" colname="c1" colwidth="5*" />
+      <colspec colnum="2" colname="c2" colwidth="1*" />
+      <colspec colnum="3" colname="c3" colwidth="1*" />
+      <colspec colnum="4" colname="c4" colwidth="1*" />
+      <colspec colnum="5" colname="c5" colwidth="1*" />
+      <colspec colnum="6" colname="c6" colwidth="1*" />
+      <thead>
+	<row>
+	  <entry valign="middle">Assessment Factor</entry>
+	  <entry colsep="0">Strongly Disagree</entry>
+	  <entry colsep="0"></entry>
+	  <entry colsep="0"></entry>
+	  <entry colsep="0"></entry>
+	  <entry>Strongly Agree</entry>
+	</row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>The exercise was well structured and organized.</entry>
+	  <entry align="center">1</entry>
+	  <entry align="center">2</entry>
+	  <entry align="center">3</entry>
+	  <entry align="center">4</entry>
+	  <entry align="center">5</entry>
+	</row>
+	<row>
+	  <entry>The exercise scenario was plausible and realistic.</entry>
+	  <entry align="center">1</entry>
+	  <entry align="center">2</entry>
+	  <entry align="center">3</entry>
+	  <entry align="center">4</entry>
+	  <entry align="center">5</entry>
+	</row>
+	<row>
+	  <entry>The facilitator/controller(s) was knowledgeable about the area of play and kept the exercise on target.</entry>
+	  <entry align="center">1</entry>
+	  <entry align="center">2</entry>
+	  <entry align="center">3</entry>
+	  <entry align="center">4</entry>
+	  <entry align="center">5</entry>
+	</row>
+	<row>
+	  <entry>The exercise documentation provided to assist in preparing for and participating in the exercise was useful.</entry>
+	  <entry align="center">1</entry>
+	  <entry align="center">2</entry>
+	  <entry align="center">3</entry>
+	  <entry align="center">4</entry>
+	  <entry align="center">5</entry>
+	</row>
+	<row>
+	  <entry>Participation in the exercise was appropriate for someone in my position.</entry>
+	  <entry align="center">1</entry>
+	  <entry align="center">2</entry>
+	  <entry align="center">3</entry>
+	  <entry align="center">4</entry>
+	  <entry align="center">5</entry>
+	</row>
+	<row>
+	  <entry>The participants included the right people in terms of level and mix of disciplines.</entry>
+	  <entry align="center">1</entry>
+	  <entry align="center">2</entry>
+	  <entry align="center">3</entry>
+	  <entry align="center">4</entry>
+	  <entry align="center">5</entry>
+	</row>
+	<row>
+	  <entry>This exercise allowed my agency/jurisdiction to practice and improve priority capabilities.</entry>
+	  <entry align="center">1</entry>
+	  <entry align="center">2</entry>
+	  <entry align="center">3</entry>
+	  <entry align="center">4</entry>
+	  <entry align="center">5</entry>
+	</row>
+	<row>
+	  <entry>After this exercise, I believe my agency/jurisdiction is better prepared to deal successfully with the scenario that was exercised.</entry>
+	  <entry align="center">1</entry>
+	  <entry align="center">2</entry>
+	  <entry align="center">3</entry>
+	  <entry align="center">4</entry>
+	  <entry align="center">5</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </table>
+
+  <formalpara>
+    <title>Participant Feedback</title>
+    <para>
+      Please provide any recommendations on how this exercise or future exercises could be improved or enhanced. 
+    </para>
+  </formalpara>
+  <para>
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+  </para>
+-->
+</appendix>

@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "SET2011-After_Action_Report.ent">
+%BOOK_ENTITIES;
+]>
+<section id="sect-exec-summ" lang="en-US">
+	<title>Executive Summary</title>
+	 <indexterm>
+		<primary>ARRL Simulated Emergency Test</primary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>Simulated Emergency Test</primary>
+
+	</indexterm>
+	 <para>
+		Each year on the first Saturday in October, the ARRL holds a "Simulated Emergency Test". The Michigan Section has long used this as an annual exercise to help develop various skills needed for emergency response.
+	</para>
+	<!-- 
+    <para>
+      When writing the Executive Summary, keep in mind that this section may be
+      the only part of the AAR/IP that some people will read.  Introduce this
+      section by stating the full name of the exercise and providing a brief
+      overview of the exercise.  This brief overview should discuss why the
+      exercise was conducted; the exercise objectives; and what Target
+      Capabilities List (TCL) capabilities, activities, and scenario(s) were
+      used to achieve those objectives.  All of these areas will be discussed in
+      more detail in the subsequent chapters of the AAR/IP.  In addition, the
+      Executive Summary may be used to summarize any high-level observations
+      that cut across multiple capabilities.]
+    </para>
+ --> <indexterm>
+		<primary>ComA2.4.3.1</primary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>ComC1.2.2</primary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>ARES</primary>
+		 <secondary>Relationship with NTS</secondary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>NTS</primary>
+		 <secondary>Relationship with ARES</secondary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>Message Handling</primary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>Congestion at SEOC</primary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>SEOC</primary>
+		 <secondary>Congestion at</secondary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>Infrastructure Failures</primary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>Traffic</primary>
+		 <secondary>Procedures</secondary>
+
+	</indexterm>
+	 <indexterm>
+		<primary>Procedures</primary>
+		 <secondary>Traffic</secondary>
+
+	</indexterm>
+	 <para>
+		The &JURIS; &SCEN; &EXTYPE; exercise &EXNAM; was developed to test &JURIS;'s ComA2.4.3.1 (Procedures and plans) and ComC1.2.2 (Interoperable comms) capabilities. The exercise planning team was composed of SEC staff. The exercise planning team discussed the ARES/NTS interface, message handling, congestion at the SEOC during a statewide incident, and response to infrastructure failures.
+	</para>
+	 <para>
+		Based on the exercise planning team's deliberations, the following objectives were developed for &EXNAM;: 
+		<itemizedlist>
+			<listitem>
+				<para>
+					Objective 1: Improve the relationship between ARES and NTS by assigning permanent NTS Net to ARES District relationships.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Objective 2: Introduce ARES to the standard NTS practice of having liaisons carry traffic to and from a net.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Objective 3: Stress message passing by introducing constraints to simulate widespread infrastructure outages, such as loss of power and antennas.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
+	</para>
+	 <para>
+		The purpose of this report is to analyze exercise results, identify strengths to be maintained and built upon, identify potential areas for further improvement, and support development of corrective actions.
+	</para>
+	<!-- 
+    <para>
+      [In general, the major strengths and primary areas for improvement should
+      be limited to three each to ensure the Executive Summary is high-level and
+      concise.]
+    </para>
+ --> <section>
+		<title>Major Strengths</title>
+		 <indexterm>
+			<primary>Plans</primary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Infrastructure Failures</primary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Traffic</primary>
+			 <secondary>Procedures</secondary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Procedures</primary>
+			 <secondary>Traffic</secondary>
+
+		</indexterm>
+		 <para>
+			The major strengths identified during this exercise are as follows: 
+			<itemizedlist>
+				<listitem>
+					<para>
+						District Emergency Coordinators and Net Managers worked efectively prior to the exercise to have plans in place.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Jurisdictions responded effectively to unanticipated loss of infrastructure.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Traffic handling skills improved across the board.
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+
+		</para>
+
+	</section>
+	
+	 <section>
+		<title>Primary areas for improvement</title>
+		 <indexterm>
+			<primary>Net</primary>
+			 <secondary>Procedures</secondary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Procedures</primary>
+			 <secondary>Net</secondary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Plans</primary>
+			 <secondary>Rotation</secondary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Rotation</primary>
+			 <secondary>Plan</secondary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Operators</primary>
+			 <secondary>Experience</secondary>
+
+		</indexterm>
+		 <indexterm>
+			<primary>Experience</primary>
+			 <secondary>Operators</secondary>
+
+		</indexterm>
+		 <para>
+			Throughout the exercise, several opportunities for improvement in the Section's ability to respond to the incident were identified. The primary areas for improvement, including recommendations, are as follows: 
+			<itemizedlist>
+				<listitem>
+					<para>
+						Net procedures still presented some areas of confusion. Additional practice is indicated.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Not all jurisdictions had plans for relieving operators in key positions. The need for written plans, including plans for dealing with multiple operational periods, must be stressed with the counties.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						While procedures and net discipline showed considerable improvement, there were still a number of areas where inexperience delayed traffic. Once again, additional training and practice is indicated.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Many participants, especially nets, were reluctant to leave their comfort zones. In particular, nets seemed to have difficulty leaving their favored frequencies, modes and practices, even when other approaches would obviously have been more effective.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						While Section staff made significant efforts to make ARPSC members aware of the exercise, non-participants were for the most part unaware, even if they might be affected. Broader dissemination of plans is needed.
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+
+		</para>
+
+	</section>
+	
+
+</section>
+
+
