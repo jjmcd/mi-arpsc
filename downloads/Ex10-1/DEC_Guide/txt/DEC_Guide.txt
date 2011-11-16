@@ -1,0 +1,1025 @@
+Product SiteDocumentation Site
+
+mini-SET 10.1
+
+
+
+DEC Guide
+=========
+
+
+A guide to the upcoming mini-SET for DECs and ECs
+-------------------------------------------------
+
+
+[IMAGE]
+
+
+Michigan Section
+
+Amateur Radio Relay League
+
+
+
+Legal Notice
+============
+
+CopyrightÂ© 2010, the Michigan Section of the American Radio Relay League
+The text of and illustrations in this document are licensed by the
+Michigan Section of the American Radio Relay League under a Creative
+Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+The Michigan Section plans to have a number of exercises each year. This
+guide is intended to provide planning guidance for DECs and ECs preparing
+for the first of those exercises in 2010.
+
+------------------------------------------------------------------------
+
+1. Overview
+
+      1.1. Introduction
+
+      1.2. Driving Forces
+
+      1.3. Targets for the exercise
+
+      1.4. Capabilities to be developed
+
+2. Exercise Objectives
+
+      2.1. Introduction
+
+      2.2. Structured Communications
+
+      2.3. District Communications Plan
+
+      2.4. NTS Familiarity
+
+3. District Communications Plan
+
+      3.1. Introduction
+
+      3.2. Call Trees
+
+      3.3. Pagers
+
+      3.4. Email Notification
+
+      3.5. Text Messaging
+
+      3.6. Repeater Systems
+
+      3.7. Simplex Systems
+
+4. NTS
+
+      4.1. Introduction
+
+      4.2. Why should ARES use NTS
+
+      4.3. The structure of NTS
+
+      4.4. Michigan NTS Nets
+
+5. Traffic Flow
+
+      5.1. Introduction
+
+      5.2. Traffic Flow
+
+      5.3. Net Schedule
+
+6. NTS Net Interfaces
+
+      6.1. Introduction
+
+      6.2. District Interfaces
+
+      6.3. Scheduled Nets
+
+      6.4. VHF Net Interfaces
+
+      6.5. Contact List
+
+7. Other SEOC Communications
+
+      7.1. Introduction
+
+      7.2. HF Phone
+
+      7.3. HF CW
+
+      7.4. HF Digital
+
+      7.5. VHF/UHF Phone
+
+      7.6. VHF Packet
+
+A. Revision History
+
+Index
+
+
+1.Â Overview
+------------
+
+
+1.1.Â Introduction
+
+Over the past several EC meetings, ECs have asked for more exercises.
+This year the section hopes to have at least three, including the annual
+SET. The first of these is planned for April.
+
+
+1.2.Â Driving Forces
+
+The 2009 SET exposed several serious shortcomings in our level of
+readiness. The target of this exercise will be to help develop
+capabilities to fill those shortcomings.
+
+  *  Lack of within-District communications plan
+
+  *  Lack of understanding of/interface to NTS
+
+  *  Overall lack of planning
+
+
+1.3.Â Targets for the exercise
+
+To address these needs, we hope to accomplish one basic target;
+communications from and to the State Emergency Operations Center using
+formalized, predefined circuits. Communications for the exercise will be
+accomplished using point-to-point phone circuits, both VHF and HF. CW and
+packet circuits will be available for those counties who wish to test
+direct communications to the SEOC, but the primary exercise objectives
+will be carried out over phone circuits.
+
+
+1.4.Â Capabilities to be developed
+
+Each District will need to develop some specific capabilities prior to
+the exercise:
+
+  *  A plan for communication among the individual counties in the
+    District. This should include not only agreed upon frequencies and
+    modes, but also protocols and possible meeting or listening
+    schedules.
+
+  *  An understanding of the National Traffic System as it exists in
+    Michigan, including liaison with, and familiarity with, local VHF
+    traffic nets.
+
+  *  A good understanding of net and traffic handling procedures and
+    discipline.
+
+
+2.Â Exercise Objectives
+-----------------------
+
+
+2.1.Â Introduction
+
+The point of any exercise should be to accomplish something. This section
+outlines some of the key objectives for the current exercise.
+
+
+2.2.Â Structured Communications
+
+The October 2009 SET had intended to demonstrate a structure flow of
+messages between the counties and the State EOC, along existing chain of
+command lines. (If you will recall, an earlier exercise along an
+incident-specific structure elicited some significant complaints.) The
+results were not encouraging. Only one of the section nets organized as
+expected, and few counties or Districts attempted to exploit the NTS
+structure. The exercise structure did leave the Districts a lot of
+opportunity to apply their own creativity, but apparently the intent was
+insufficiently clear. For this exercise, net schedules and message paths
+will be detailed ahead of time. Each section net has a schedule and
+specified liaisons. Each District has specified liaisons. There will
+still need to be some thought applied to the interface between the
+District and the appropriate VHF net, but both responsible parties are
+known well ahead of time.
+
+
+2.3.Â District Communications Plan
+
+During the 2009 SET it also became evident that not all Districts have
+thoroughly thought through within-District communications paths. This
+issue is discussed in more detail in a later section.
+
+
+2.4.Â NTS Familiarity
+
+Although most communications in any incident is local, and most of that
+is tactical, strategic communications, whether local or otherwise,
+requires a higher level of discipline. NTS procedures and structures
+provide that discipline within amateur radio. Each program requires at
+least a few people that are familiar with the existing NTS network and
+how it works. There is a summary later in this document. All individuals
+operating in ARES/RACES should have at least some familiarity with NTS
+procedures. There is significant NTS training happening around the
+Section so at least a few individuals capable of passing NTS formatted
+messages should already be available within each program.
+
+
+3.Â District Communications Plan
+--------------------------------
+
+
+3.1.Â Introduction
+
+One obvious failure that was exposed is the lack of adequate plans for
+communications among the counties in a District. Certainly there has been
+discussion, and also discussion about communications between Districts.
+But before we develop between District plans, we need to have the problem
+solved within a District.
+
+
+3.2.Â Call Trees
+
+Many counties, and even a few Districts, have call trees established,
+although these are rarely up to date. Certainly, we should use every
+technology at our disposal, and the telephone is a common, and reliable
+mode. However, this mode will not work if the numbers are out of date, if
+we only have home numbers and people are away from their phones, or, of
+course, if the phones are out. These systems need to be tested
+frequently, but backup mechanisms must also be in place.
+
+
+3.3.Â Pagers
+
+Many programs have pagers, either provided by their counties, or
+developed by the programs themselves. Pagers tend to be more reliable
+than cellular systems, but few, if any, Districts have paging systems for
+all the counties in the District.
+
+
+3.4.Â Email Notification
+
+Most, if not all, Districts have email lists for notifying the various
+ECs of an event. However, email is not real time, and most ECs do not
+have mobile email devices, so email is not appropriate for notfication of
+an incident. In addition, many types of incidents can impact local
+Internet connections (although widespread Internet outages are virtually
+unheard of).
+
+
+3.5.Â Text Messaging
+
+In cases where all ECs have cellular telephones, notifications based on
+text messaging can be effective. However, keep in mind that in the event
+of an actual incident, or even a high profile exercise, cellular systems
+will fail almost immediately, so this method is of limited use in the
+event of an actual incident.
+
+
+3.6.Â Repeater Systems
+
+Many programs have some sort of scheme for notification by repeater, and
+in most cases, the various counties in a District are at least aware of
+the frequencies of repeaters in adjacent counties, so when the repeater
+infrastructure is unaffected, repeaters are of course useful tools.
+However, repeaters often have their vulnerabilities. Often, they are
+higher profile than home stations, so are more likely to be affected by
+some kinds of weather events. Repeaters are often isolated, and may not
+be in hardened sites, so can be affected by vandalism and other human
+caused incidents. Repeaters often have some backup power, but frequently
+that backup power is limited.
+
+
+3.7.Â Simplex Systems
+
+Most programs do not have reliable simplex systems thought out, but
+certainly, they offer the potential for greater robustness than most
+other systems. To be effective, however, all parties need to know what is
+expected. Some things to consider:
+
+  *  There must be a prearranged and well communicated plan for
+    frequencies to be used
+
+  *  There must be a prearranged schedule
+
+  *  Each key station should be able to operate for an extended period of
+    time removed from commercial mains
+
+  *  Each key station should have a backup plan in the event of antenna
+    damage or equipment malfunction
+
+
+The plan must be communicated
+-----------------------------
+
+No plan can be effective unless all affected parties are well aware of
+the content of the plan and are capable of implementing it
+
+
+4.Â NTS
+-------
+
+
+4.1.Â Introduction
+
+Messages are carried across North America, and across the Section, by the
+National Traffic System. NTS operators practice constantly and as a
+result, are highly skilled at transmitting messges.
+
+
+Practice makes perfect
+----------------------
+
+In contrast to ARES operators who exercise only occasionally, many NTS
+operators practice their skill every day. Of course, it is "common
+knowledge" that "NTS is dying", but here in the Michigan Section, at
+least, NTS traffic has increased every year since at least 2005 (the
+earliest year for which the section has data).
+
+
+4.2.Â Why should ARES use NTS
+
+Since NTS operators have the skill, it only makes sense to use the best
+possible service. Obviously, NTS has little to offer for the local,
+tactical communications that make up perhaps 99% of the communications
+needed for any incident. But when traffic needs to leave the county, then
+it only makes good sense to rely on those who do it every day. This also
+keeps resources free for urgent local needs.
+
+
+4.3.Â The structure of NTS
+
+NTS is structured into a series of layered nets. Each level sends a
+representative to the higher level. Net schedules are arranged to
+facilitate the rapid distribution of traffic across the system. The five
+layers of NTS nets are:
+
+  *  Local nets
+
+  *  Section nets
+
+  *  Region nets
+
+  *  Area nets
+
+  *  The Transcontinental Corps
+
+Local nets send a representative to the Section nets. A Michigan
+representative to the Eighth Region net (8RN) is designated for each
+meeting of 8RN to carry traffic from the Section nets to the Eighth
+Region. 8RN in turn sends a representative to the Eastern Area net (EAN).
+Transcontinental Corps (TCC) members then carry traffic between the
+areas, where it is then distributed downwards through the same structure
+until it can be delivered.
+
+
+4.4.Â Michigan NTS Nets
+
+Michigan has four affiliated VHF nets and seven HF nets. These nets,
+their net managers, frequencies and schedules are available at
+http://www.mi-nts.org/netinfo.php. The VHF nets tend to be oriented
+toward training, although they handle substantial amounts of traffic.
+Some of the HF nets, notably QMN and MITN, are somewhat "hard core",
+focusing solely on traffic and generally having very short sessions. The
+others are more general nets where traffic is passed but that is not the
+sole purpose of the net. Although there are significant month to month
+variations, Michigan nets report handling between 600 and 1000 messages
+each month, with approximately two-thirds of that handled by QMN, MITN
+and MVTN.
+
+
+5.Â Traffic Flow
+----------------
+
+
+5.1.Â Introduction
+
+In order to engage all the affiliated nets, and to also encourage the
+DECs to develop relationships with their local VHF net, traffic will be
+routed through all the nets. At the beginning of the exercise, the SEOC
+will transmit queries to each District through HF nets. These messages
+will flow through NTS to each District. The nature of the query will
+require that the District query each of it's counties. The result will
+then be pushed back through NTS ultimately arrivng at the SEOC via an HF
+net.
+
+
+5.2.Â Traffic Flow
+
+Four HF nets will meet in sequence receiving traffic from the SEOC. Each
+of these nets will include representatives from a VHF net. These reps
+will then take the traffic to the VHF net for delivery to the District.
+After composing a response, the District will deliver it's answer to that
+same VHF net, who in turn will send a representative to one of two HF
+nets meeting with the SEOC later in the morning. Traffic Flow Diagram
+Traffic Flow
+
+FigureÂ 1.Â Traffic Flow Diagram
+
+
+5.3.Â Net Schedule
+
+Each HF net has a specific time slot with the SEOC. It is presumed that
+the VHF net will meet following the HF meeting at the beginning of the
+exercise, and before the HF net at the end of the exercise. Net Schedule
+Net Schedule
+
+FigureÂ 2.Â Net Schedule
+
+
+6.Â NTS Net Interfaces
+----------------------
+
+
+6.1.Â Introduction
+
+At each level, representatives will need to interface with other nets or
+Districts. Interfaces between HF and VHF nets are common, and in many
+cases, well established. However, DECs will need to identify the
+appropriate nets and make plans to receive traffic from the net and
+return a response later.
+
+
+Planning is required
+--------------------
+
+DECs should arrange well in advance for interfaces with the appropriate
+VHF net. DECs will also need to know how they will get a response from
+each county.
+
+
+6.2.Â District Interfaces
+
+Each District will interface with one VHF net. There will be an inbound
+and an outbound "session". However, this will not be a traditional net
+session. Since this is a simplex exercise, and the VHF nets typically
+meet on a repeater or linked system, the Net Manager and DEC will need to
+establish a simplex path or relay from the net to the District.
+
+District
+
+Contact Net
+
+Inbound Time
+
+Outbound Time
+
+1
+
+SEMTN
+
+0900
+
+1130
+
+2
+
+SEMTN
+
+0900
+
+1130
+
+3
+
+TMMTN
+
+0930
+
+1130
+
+5
+
+MVTN
+
+0830
+
+1100
+
+6
+
+MVTN
+
+0830
+
+1100
+
+7
+
+MVTN
+
+0830
+
+1100
+
+8
+
+NLEUP
+
+1000
+
+1130
+
+APX
+
+MVTN
+
+0830
+
+1100
+
+DTX
+
+SEMTN
+
+0900
+
+1130
+
+GRR
+
+MVTN
+
+0830
+
+1100
+
+MQT
+
+NLEUP
+
+1000
+
+1130
+
+TableÂ 1.Â District Interfaces
+
+
+Net Managers Note
+-----------------
+
+Since we will not be using repeaters, you will need to establish a relay
+between your net and the appropriate District(s). Each DEC will need to
+work with the appropriate net manager well ahead of time to determine
+stations and schedules that will allow the traffic picked up by the net
+to be delivered to the District, and allow responses from the District to
+be routed back through the net.
+
+
+6.3.Â Scheduled Nets
+
+Since the SEOC must meet with seven HF nets over the course of the
+morning, the HF nets require a prearranged schedule. VHF net meetings may
+vary, but they will need to be close to the times below, given their
+interfaces with the HF nets.
+
+Time
+
+Net
+
+0800
+
+MITN picks up traffic from SEOC sends reps to MVTN
+
+0830
+
+MACS picks up traffic from SEOC sends reps to SEMTN
+
+0830
+
+MVTN delivers traffic to D5, 6, 7
+
+0900
+
+Wolverine picks up traffic from SEOC sends reps to TMMTN
+
+0900
+
+SEMTN delivers traffic to D1, 2
+
+0930
+
+UP Net picks up traffic from SEOC sends reps to NLEUP
+
+0930
+
+TMMTN delivers traffic to D3
+
+1000
+
+NLEUP delivers traffic to D8
+
+1100
+
+MVTN picks up traffic from D5, 6, 7, sends reps to GLETN
+
+1130
+
+GLETN meets delivers traffic to SEOC
+
+1130
+
+SEMTN picks up traffic from D1, 2 sends reps to QMN
+
+1130
+
+TMMTN picks up traffic from D3 sends reps to QMN
+
+1130
+
+NLEUP picks up traffic from D8 sends reps to QMN
+
+1200
+
+QMN meets delivers traffic to SEOC
+
+TableÂ 2.Â District Interfaces
+
+
+6.4.Â VHF Net Interfaces
+
+VHF Net Managers willl need to arrange liaisons with two HF nets, one for
+traffic flowing into the net and one for traffic leaving the net.
+
+VHF Net
+
+Inbound Net
+
+Outbound Net
+
+MVTN
+
+MITN
+
+GLETN
+
+NLEUP
+
+UP
+
+QMN
+
+SEMTN
+
+MACS
+
+QMN
+
+TMMTN
+
+Wolverine
+
+QMN
+
+TableÂ 3.Â VHF Net Interfaces
+
+
+6.5.Â Contact List
+
+The following contacts must be made during March to arrange liaisons, VHF
+relays, etc:
+
+Davis, Ted N8ZSA
+
+  *  WB8WKQ
+
+Duggan, Red WA8RLI
+
+  *  AC8AR
+
+Fleming, John K8UP
+
+  *  WB8WKQ
+
+Flickinger, Carl KB8FQJ
+
+  *  AC8AR
+
+Gage, Michael N8VLN
+
+  *  AC8AR
+
+Gagnon, Aileen WA8DHB
+
+  *  KG8NK
+
+Gebolis, Lou KG8NK
+
+  *  WA8DHB
+
+  *  K8AE
+
+  *  KI8AF
+
+Hanson, Greg KI8AF
+
+  *  KG8NK
+
+Miller, Jeff WB8WKQ
+
+  *  AC8AR
+
+  *  WB9JSR
+
+  *  K8AE
+
+  *  N8ZSA
+
+  *  K8YZA
+
+  *  K8UP
+
+Pullen, Joseph K8YZA
+
+  *  WB8WKQ
+
+Stinson, Chris KC8YTK
+
+  *  AC8AR
+
+Travis, Anne K8AE
+
+  *  KG8NK
+
+  *  K8MFK
+
+  *  WB8WKQ
+
+Tuscher, Joe N8OSL
+
+  *  K8MFK
+
+van der Mel, Tom KB8VEE
+
+  *  AC8AR
+
+Warczynski, Ron K9RON
+
+  *  K8MFK
+
+Warsalla, Frank K8MFK
+
+  *  K9RON
+
+  *  N8OSL
+
+  *  K8AE
+
+Wehmer, John WB9JSR
+
+  *  WB8WKQ
+
+Wiswasser, Jack WA8IAL
+
+  *  AC8AR
+
+Young, Jean AC8AR
+
+  *  WB8WKQ
+
+  *  KB8FQJ
+
+  *  KB8VEE
+
+  *  WA8RLI
+
+  *  N8VLN
+
+  *  KC8YTK
+
+  *  WA8IAL
+
+TableÂ 4.Â Contact Pairs
+
+
+7.Â Other SEOC Communications
+-----------------------------
+
+
+7.1.Â Introduction
+
+During any statewide exercise, each program often wants to test circuits
+from their local EOC to the State EOC. Limited opportunities will be
+available during this exercise.
+
+
+7.2.Â HF Phone
+
+Because we wish to engage all the HF nets, the HF phone capability of the
+SEOC will be exhausted during this exercise. Direct contact over HF phone
+from the individual counties is unwelcome for this exercise.
+
+
+7.3.Â HF CW
+
+To accomodate direct communications with individual counties, the SEOC
+will monitor 3.563 MHz CW from 9:00 AM to 11:00 AM during the exercise.
+
+
+7.4.Â HF Digital
+
+The SEOC will not be using HF digital modes during the exercise.
+
+
+7.5.Â VHF/UHF Phone
+
+This is a simplex exercise. As such, VHF phone connections will not be
+appropriate from most programs. To accomodate nearby programs or VHF/UHF
+relays, the SEOC will monitor 147.54 MHz and 446.00 MHz from 10:00 AM to
+11:00 AM.
+
+
+7.6.Â VHF Packet
+
+The SEOC will be available to receive formal traffic on
+seoc@seoc.ampr.org . Replies may or may not be timely. The station will
+also monitor CONV channel 911.
+
+
+A.Â Revision History
+--------------------
+
+Revision History
+
+Revision 3
+
+Tue Feb 23 2010
+
+John McDonough
+
+Use tables instead of segmentedlist to make pdf work better
+
+Revision 2
+
+Mon Feb 22 2010
+
+John McDonough
+
+Add Objectives
+
+Add Other
+
+Rearrange sections
+
+Revision 1
+
+Wed Feb 10 2010
+
+John McDonough
+
+Additional content
+
+Test admonitions
+
+Revision 0
+
+Tue Feb 9 2010
+
+John McDonough
+
+Initial creation of book by publican
+
+
+Index
+-----
+
+
+A
+
+Area Nets, The structure of NTS
+
+
+C
+
+Call Tree, Call Trees
+
+Communications Plan, District Communications Plan, Introduction
+
+Communications Plans, Driving Forces, Capabilities to be developed
+
+Communications Structure, Structured Communications
+
+Contacts, Contact List
+
+
+D
+
+DEC   
+
+      Planning, Introduction, District Interfaces
+
+DECs, Contact List
+
+
+E
+
+Eastern Area Net, The structure of NTS
+
+Eighth Region Net, The structure of NTS
+
+Email Notification, Email Notification
+
+Exercise Targets, Targets for the exercise
+
+
+M
+
+Michigan Nets, Michigan NTS Nets
+
+
+N
+
+National Traffic System, Driving Forces, Capabilities to be developed,
+Introduction
+
+      Familiarity with, NTS Familiarity
+
+      Structure of, The structure of NTS
+
+Net Discipline, Capabilities to be developed
+
+Net Interfaces, VHF Net Interfaces
+
+Net Manager
+
+      Planning, Introduction, District Interfaces
+
+Net Managers, Contact List
+
+Net Schedule, Structured Communications, Scheduled Nets
+
+Nets  
+
+      Area, The structure of NTS
+
+      ARES Interface with, District Interfaces
+
+      Interface with other nets, VHF Net Interfaces
+
+      Michigan, Michigan NTS Nets
+
+      Region, The structure of NTS
+
+      Section, The structure of NTS
+
+      Timeline, Scheduled Nets
+
+
+O
+
+Objectives
+
+      Communications Plan, District Communications Plan
+
+      NTS Familiarity, NTS Familiarity
+
+      Structured Communications, Structured Communications
+
+
+P
+
+pagers, Pagers
+
+Planning, Driving Forces
+
+      DECs, Introduction, District Interfaces
+
+      Need for, Introduction
+
+      Net Managers, Introduction, District Interfaces
+
+
+R
+
+Region Nets, The structure of NTS
+
+Repeater Systems, Repeater Systems
+
+
+S
+
+Section Nets, The structure of NTS
+
+Simplex, Targets for the exercise
+
+Simplex Systems, Simplex Systems
+
+
+T
+
+Text Messaging, Text Messaging
+
+Traffic Handling, Capabilities to be developed, Introduction
+
+Transcontinental Corps, The structure of NTS

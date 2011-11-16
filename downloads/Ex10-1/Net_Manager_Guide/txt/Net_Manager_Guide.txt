@@ -1,0 +1,840 @@
+Product SiteDocumentation Site
+
+mini-SET 10.1
+
+
+
+Net Manager Guide
+=================
+
+
+A guide to the upcoming mini-SET for Net Managers
+-------------------------------------------------
+
+
+[IMAGE]
+
+
+Michigan Section
+
+Amateur Radio Relay League
+
+
+
+Legal Notice
+============
+
+CopyrightÂ© 2010, the Michigan Section of the American Radio Relay League
+The text of and illustrations in this document are licensed by the
+Michigan Section of the American Radio Relay League under a Creative
+Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+The Michigan Section plans to have a number of exercises each year. This
+guide is intended to provide planning guidance for Net Managers preparing
+for the first of those exercises in 2010.
+
+------------------------------------------------------------------------
+
+1. Overview
+
+      1.1. Introduction
+
+      1.2. Driving Forces
+
+      1.3. Targets for the exercise
+
+      1.4. Capabilities to be developed
+
+2. Exercise Objectives
+
+      2.1. Introduction
+
+      2.2. Structured Communications
+
+      2.3. Net Response Plan
+
+      2.4. ARES Familiarity
+
+3. ARES
+
+      3.1. Introduction
+
+      3.2. ARES Structure
+
+4. Traffic Flow
+
+      4.1. Introduction
+
+      4.2. Traffic Flow
+
+      4.3. Net Schedule
+
+5. NTS Net Interfaces
+
+      5.1. Introduction
+
+      5.2. District Interfaces
+
+      5.3. Scheduled Nets
+
+      5.4. VHF Net Interfaces
+
+      5.5. Contact List
+
+6. Other SEOC Communications
+
+      6.1. Introduction
+
+      6.2. HF Phone
+
+      6.3. HF CW
+
+      6.4. HF Digital
+
+      6.5. VHF/UHF Phone
+
+      6.6. VHF Packet
+
+A. Revision History
+
+Index
+
+
+1.Â Overview
+------------
+
+
+1.1.Â Introduction
+
+Over the past several years, many people have asked for more exercises.
+This year the section hopes to have at least three, including the annual
+SET. The first of these is planned for April.
+
+
+1.2.Â Driving Forces
+
+The 2009 SET exposed several serious shortcomings in our level of
+readiness. The target of this exercise will be to help develop
+capabilities to fill those shortcomings.
+
+  *  Lack of leadership within nets
+
+  *  Lack of understanding of/interface to ARES
+
+  *  Overall lack of planning
+
+
+1.3.Â Targets for the exercise
+
+To address these needs, we hope to accomplish one basic target;
+communications from and to the State Emergency Operations Center using
+formalized, predefined circuits. Communications for the exercise will be
+accomplished using point-to-point phone circuits, both VHF and HF. CW and
+packet circuits will be available for those counties who wish to test
+direct communications to the SEOC, but the primary exercise objectives
+will be carried out over phone circuits.
+
+
+1.4.Â Capabilities to be developed
+
+Each net will need to develop some specific capabilities prior to the
+exercise:
+
+  *  A plan for action in response to emergency or unusual needs among
+    the various affiliated nets.
+
+  *  An understanding by the Section National Traffic System leadership
+    of the Amateur Radio Emergency Services and its possible needs in the
+    event of an incident.
+
+  *  A familiarity by NTS members of the individuals in leadership
+    positions within ARES and their capabilities and assets.
+
+
+2.Â Exercise Objectives
+-----------------------
+
+
+2.1.Â Introduction
+
+The point of any exercise should be to accomplish something. This section
+outlines some of the key objectives for the current exercise.
+
+
+2.2.Â Structured Communications
+
+The October 2009 SET had intended to demonstrate a structured flow of
+messages between the counties and the State EOC, along existing chain of
+command lines. (If you will recall, an earlier exercise along an
+incident-specific structure elicited some significant complaints.) The
+results were not encouraging. Only one of the section nets organized as
+expected, and few counties or Districts attempted to exploit the NTS
+structure. The exercise structure did leave the nets a lot of opportunity
+to apply their own creativity, but apparently the intent was
+insufficiently clear. For this exercise, net schedules and message paths
+will be detailed ahead of time. Each section net has a schedule and
+specified liaisons. Each District has specified liaisons. There will
+still need to be some thought applied to the interface between the
+District and the appropriate VHF net, but both responsible parties are
+known well ahead of time.
+
+
+2.3.Â Net Response Plan
+
+Over recent years, it appears that nets have lost the ability or
+incentive to be able to mobilize in response to an incident. Nets are
+accustomed to meeting at a specific time and frequency and somehow are
+not prepared to change. However, when an incident occurs, the National
+Traffic System is a vital part of the overall response. ARES units are
+structured to respond locally, and their communications capability is
+largely local. They require the services of NTS for longer haul
+communications, as well as to provide structure in the event of a heavy
+communications load. This exercise will only take a small step in the
+direction of giving the nets the skills needed. There will be more
+interfaces with the ARES organization, and an opportunity will be given
+for close leadership cooperation between ARES and NTS.
+
+
+2.4.Â ARES Familiarity
+
+Most net managers have little opportunity in ordinary circumstances to
+interface with ARES organizations. However, familiarity with the
+individuals involved and their capabilities is vital if NTS is to offer
+needed services in the event of an incident. This exercise will give NTS
+leaders some exposure to ARES leaders. Especially in the case of the VHF
+nets, they will need to work closely to be successful. This, of course,
+is not sufficient, but it is a start. Net managers should begin thinking
+about issues such as:
+
+  *  What might my net be called on to do in the event of some kind of
+    incident or emergency
+
+  *  How will I notify my members in the event of an unexpected net
+    activation
+
+  *  If I need to activate at a different time of day, will I know how to
+    respond to different band conditions
+
+  *  Do I know which net members might be available if we have a net
+    meeting at a time different than normal
+
+  *  For VHF nets, do I have a plan to respond in the event my repeater
+    is out of service
+
+These are only a few of the questions net managers should begin thinking
+about. This exercise will not answer these questions, but we hope to
+begin providing the insight necessary for the nets to begin grappling
+with them.
+
+
+3.Â ARES
+--------
+
+
+3.1.Â Introduction
+
+ARES is the "feet on the ground" side of ARPSC. NTS is the behind the
+scenes engine that moves messages. Because it is largely involved in
+local response, ARES is not often visible to NTS operators. However, in
+the Michigan Section we have approxmately 2,000 ARES members. It is a
+large, highly structured organization which works closely with the
+Michigan State Police, local emergency management, and many other public
+service and public safety organizations.
+
+
+3.2.Â ARES Structure
+
+ARES is organized along the State Police Districts. There are 11 District
+Emergency Coordinators reporting to the Section Emergency Coordinator.
+These DECs represent the seven State Police Districts and the four
+National Weather Service offices in Michigan. Each of Michigan's 83
+counties has an Emergency Coordinator who reports to the respective
+District Emergency Coordinator. These ECs and DECs often have assistants
+with specific responsibilities. SKYWARN is often closely associated with
+ARES, and many Assistant Emergency Coordinators serve as their county's
+SKYWARN coordinator. Each county has a local organization whose size and
+responsibilities vary widely depending on the size and needs of the
+county. In some rural counties the organization may consist of only two
+or three members, while a larger county may boast hundreds of members. At
+each level, ARES officials are aligned with government officials, and
+often work closely with them. The SEC works closely with the State Police
+Logistics Section Chief, the DECs work with MSP's District Coordinators,
+and the county ECs align with their individual county Emergency Manager.
+Whenever possible, the appointments are made jointly between the Section
+Manager and the appropriate government official. DECs serving NWS offices
+are aligned with that office's Warning Coordination Meterologist.
+
+
+4.Â Traffic Flow
+----------------
+
+
+4.1.Â Introduction
+
+In order to engage all the affiliated nets, and to also encourage the
+DECs to develop relationships with their local VHF net, traffic will be
+routed through all the nets. At the beginning of the exercise, the SEOC
+will transmit queries to each District through HF nets. These messages
+will flow through NTS to each District. The nature of the query will
+require that the District query each of it's counties. The result will
+then be pushed back through NTS ultimately arrivng at the SEOC via an HF
+net.
+
+
+4.2.Â Traffic Flow
+
+Four HF nets will meet in sequence receiving traffic from the SEOC. Each
+of these nets will include representatives from a VHF net. These reps
+will then take the traffic to the VHF net for delivery to the District.
+After composing a response, the District will deliver it's answer to that
+same VHF net, who in turn will send a representative to one of two HF
+nets meeting with the SEOC later in the morning. Traffic Flow Diagram
+Traffic Flow
+
+FigureÂ 1.Â Traffic Flow Diagram
+
+
+4.3.Â Net Schedule
+
+Each HF net has a specific time slot with the SEOC. It is presumed that
+the VHF net will meet following the HF meeting at the beginning of the
+exercise, and before the HF net at the end of the exercise. Net Schedule
+Net Schedule
+
+FigureÂ 2.Â Net Schedule
+
+
+5.Â NTS Net Interfaces
+----------------------
+
+
+5.1.Â Introduction
+
+At each level, representatives will need to interface with other nets or
+Districts. Interfaces between HF and VHF nets are common, and in many
+cases, well established. However, DECs will need to identify the
+appropriate nets and make plans to receive traffic from the net and
+return a response later.
+
+
+Planning is required - VHF Net managers should arrange well in advance
+for interfaces with the appropriate DEC.
+----------------------------------------------------------------------
+
+Â 
+
+
+5.2.Â District Interfaces
+
+Each District will interface with one VHF net. There will be an inbound
+and an outbound "session". However, this will not be a traditional net
+session. Since this is a simplex exercise, and the VHF nets typically
+meet on a repeater or linked system, the Net Manager and DEC will need to
+establish a simplex path or relay from the net to the District.
+
+District
+
+Contact Net
+
+Inbound Time
+
+Outbound Time
+
+1
+
+SEMTN
+
+0900
+
+1130
+
+2
+
+SEMTN
+
+0900
+
+1130
+
+3
+
+TMMTN
+
+0930
+
+1130
+
+5
+
+MVTN
+
+0830
+
+1100
+
+6
+
+MVTN
+
+0830
+
+1100
+
+7
+
+MVTN
+
+0830
+
+1100
+
+8
+
+NLEUP
+
+1000
+
+1130
+
+APX
+
+MVTN
+
+0830
+
+1100
+
+DTX
+
+SEMTN
+
+0900
+
+1130
+
+GRR
+
+MVTN
+
+0830
+
+1100
+
+MQT
+
+NLEUP
+
+1000
+
+1130
+
+TableÂ 1.Â District Interfaces
+
+
+VHF Net Managers Note: Since we will not be using repeaters, you will
+need to establish a relay between your net and the appropriate
+District(s).
+---------------------------------------------------------------------
+
+Â  Each DEC will need to work with the appropriate net manager well ahead
+of time to determine stations and schedules that will allow the traffic
+picked up by the net to be delivered to the District, and allow responses
+from the District to be routed back through the net. This is especially
+challenging for the VHF nets. Each VHF net will need to arrange contacts
+with multiple DECs. In addition to messages to each of the seven MSP
+Districts, there will also be traffic for the various NWS offices. While
+each DEC only has one net to be concerned with, the VHF nets have between
+one and seven DECs to interface with. Since some of the VHF nets cover a
+substantial area, and this is to be a simplex exercise, it may take a
+large number of relays to deliver the traffic. The DECs have at their
+disposal a large number of operators who may be able to assist, but by
+and large these operators have no traffic experience. Each of the net
+managers will need to provide substantial guidance and mentoring to these
+inexperienced operators.
+
+
+5.3.Â Scheduled Nets
+
+Since the SEOC must meet with seven HF nets over the course of the
+morning, the HF nets require a prearranged schedule. VHF net meetings may
+vary, but they will need to be close to the times below, given their
+interfaces with the HF nets.
+
+Time
+
+Net
+
+0800
+
+MITN picks up traffic from SEOC sends reps to MVTN
+
+0830
+
+MACS picks up traffic from SEOC sends reps to SEMTN
+
+0830
+
+MVTN delivers traffic to D5, 6, 7
+
+0900
+
+Wolverine picks up traffic from SEOC sends reps to TMMTN
+
+0900
+
+SEMTN delivers traffic to D1, 2
+
+0930
+
+UP Net picks up traffic from SEOC sends reps to NLEUP
+
+0930
+
+TMMTN delivers traffic to D3
+
+1000
+
+NLEUP delivers traffic to D8
+
+1100
+
+MVTN picks up traffic from D5, 6, 7, sends reps to GLETN
+
+1130
+
+GLETN meets delivers traffic to SEOC
+
+1130
+
+SEMTN picks up traffic from D1, 2 sends reps to QMN
+
+1130
+
+TMMTN picks up traffic from D3 sends reps to QMN
+
+1130
+
+NLEUP picks up traffic from D8 sends reps to QMN
+
+1200
+
+QMN meets delivers traffic to SEOC
+
+TableÂ 2.Â District Interfaces
+
+
+5.4.Â VHF Net Interfaces
+
+VHF Net Managers willl need to arrange liaisons with two HF nets, one for
+traffic flowing into the net and one for traffic leaving the net.
+
+VHF Net
+
+Inbound Net
+
+Outbound Net
+
+MVTN
+
+MITN
+
+GLETN
+
+NLEUP
+
+UP
+
+QMN
+
+SEMTN
+
+MACS
+
+QMN
+
+TMMTN
+
+Wolverine
+
+QMN
+
+TableÂ 3.Â VHF Net Interfaces
+
+
+5.5.Â Contact List
+
+The following contacts must be made during March to arrange liaisons, VHF
+relays, etc:
+
+Davis, Ted N8ZSA
+
+  *  WB8WKQ
+
+Duggan, Red WA8RLI
+
+  *  AC8AR
+
+Fleming, John K8UP
+
+  *  WB8WKQ
+
+Flickinger, Carl KB8FQJ
+
+  *  AC8AR
+
+Gage, Michael N8VLN
+
+  *  AC8AR
+
+Gagnon, Aileen WA8DHB
+
+  *  KG8NK
+
+Gebolis, Lou KG8NK
+
+  *  WA8DHB
+
+  *  K8AE
+
+  *  KI8AF
+
+Hanson, Greg KI8AF
+
+  *  KG8NK
+
+Miller, Jeff WB8WKQ
+
+  *  AC8AR
+
+  *  WB9JSR
+
+  *  K8AE
+
+  *  N8ZSA
+
+  *  K8YZA
+
+  *  K8UP
+
+Pullen, Joseph K8YZA
+
+  *  WB8WKQ
+
+Stinson, Chris KC8YTK
+
+  *  AC8AR
+
+Travis, Anne K8AE
+
+  *  KG8NK
+
+  *  K8MFK
+
+  *  WB8WKQ
+
+Tuscher, Joe N8OSL
+
+  *  K8MFK
+
+van der Mel, Tom KB8VEE
+
+  *  AC8AR
+
+Warczynski, Ron K9RON
+
+  *  K8MFK
+
+Warsalla, Frank K8MFK
+
+  *  K9RON
+
+  *  N8OSL
+
+  *  K8AE
+
+Wehmer, John WB9JSR
+
+  *  WB8WKQ
+
+Wiswasser, Jack WA8IAL
+
+  *  AC8AR
+
+Young, Jean AC8AR
+
+  *  WB8WKQ
+
+  *  KB8FQJ
+
+  *  KB8VEE
+
+  *  WA8RLI
+
+  *  N8VLN
+
+  *  KC8YTK
+
+  *  WA8IAL
+
+TableÂ 4.Â Contact Pairs
+
+
+6.Â Other SEOC Communications
+-----------------------------
+
+
+6.1.Â Introduction
+
+During any statewide exercise, each program often wants to test circuits
+from their local EOC to the State EOC. Limited opportunities will be
+available during this exercise.
+
+
+6.2.Â HF Phone
+
+Because we wish to engage all the HF nets, the HF phone capability of the
+SEOC will be exhausted during this exercise. Direct contact over HF phone
+from the individual counties is unwelcome for this exercise.
+
+
+6.3.Â HF CW
+
+To accomodate direct communications with individual counties, the SEOC
+will monitor 3.563 MHz CW from 9:00 AM to 11:00 AM during the exercise.
+
+
+6.4.Â HF Digital
+
+The SEOC will not be using HF digital modes during the exercise.
+
+
+6.5.Â VHF/UHF Phone
+
+This is a simplex exercise. As such, VHF phone connections will not be
+appropriate from most programs. To accomodate nearby programs or VHF/UHF
+relays, the SEOC will monitor 147.54 MHz and 446.00 MHz from 10:00 AM to
+11:00 AM.
+
+
+6.6.Â VHF Packet
+
+The SEOC will be available to receive formal traffic on
+seoc@seoc.ampr.org . Replies may or may not be timely. The station will
+also monitor CONV channel 911.
+
+
+A.Â Revision History
+--------------------
+
+Revision History
+
+Revision 1
+
+Fri Mar 05 2010
+
+John McDonough
+
+Initial revision
+
+
+Index
+-----
+
+
+A
+
+Amateur Radio Emergency Services, Capabilities to be developed,
+Introduction
+
+      Familiarity with, ARES Familiarity
+
+ARES, Driving Forces
+
+ARES Contacts, Capabilities to be developed
+
+
+C
+
+Communications Structure, Structured Communications
+
+Contacts, Contact List
+
+
+D
+
+DEC   
+
+      Planning, Introduction, District Interfaces
+
+DECs, Contact List
+
+
+E
+
+Emergency Plans, Capabilities to be developed
+
+Exercise Targets, Targets for the exercise
+
+
+N
+
+Net Interfaces, VHF Net Interfaces
+
+Net Leadership, Driving Forces
+
+Net Manager
+
+      Planning, Introduction, District Interfaces
+
+Net Managers, Contact List
+
+Net Schedule, Structured Communications, Scheduled Nets
+
+Nets  
+
+      ARES Interface with, District Interfaces
+
+      Interface with other nets, VHF Net Interfaces
+
+      Timeline, Scheduled Nets
+
+
+O
+
+Objectives
+
+      ARES Familiarity, ARES Familiarity
+
+      Response Plan, Net Response Plan
+
+      Structured Communications, Structured Communications
+
+
+P
+
+Planning, Driving Forces
+
+      DECs, Introduction, District Interfaces
+
+      Need for, Introduction
+
+      Net Managers, Introduction, District Interfaces
+
+
+S
+
+Simplex, Targets for the exercise
