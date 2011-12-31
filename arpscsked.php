@@ -39,22 +39,33 @@
 
   // This array is indexed by week number.  It contains the number of the
   // district responsible for net control, with 0 being the staff.
-  $ncs = array( 80,0,1,2,3,5,       // Jan
+  $ncs = array( 80,
+		0,2,3,5,6,    //Jan
+		0,7,8,1,
+		0,2,3,5,
+		0,-1,6,7,8,    // Apr
+		0,1,-1,2,
+		0,3,5,6,
+		0,7,8,1,2,    // Jul
+		0,3,5,6,
+		-1,0,7,8,1,
+		0,2,3,5,      // Oct
 		0,6,7,8,
-		0,1,2,3,
-		0,5,6,7,            // Apr
-		0,8,1,2,3,
-		0,5,6,7,
-		0,8,1,2,3,          // Jul
-		0,5,6,7,
-		0,8,1,2,
-		0,3,5,6,7,          // Oct
-		0,8,1,2,
-		0,3,5,6
+		0,1,2,3
 		);
+  $thisyear = 2012;
 
-  $now = mktime();
-  $thismonth = date("m");
+  $inmonth = $_GET['m'];
+  if ( $inmonth < 1 )
+    {
+      $now = mktime();
+      $thismonth = date("m");
+    }
+  else
+    {
+      $thismonth = $inmonth;
+      $now = mktime(12,0,0,$inmonth,1,$thisyear);
+    }
 
   $lastmonth = " ";
 
@@ -76,15 +87,20 @@
 	    }
 	  // Now show the month and day
 	  echo '      ' . $timeparts['month'] . " " . $timeparts['mday'] . " - ";
-	  // If the NCS is staff, say so, otherwise say "District <districtno>"
-	  if ( $thisncs == 0 )
-	    {
-	      echo "<span style=\"color:steelblue;\">Section Staff</span><br />\n";
-	    }
+	  // If no net, say so
+	  if ( $thisncs == -1 )
+	      echo "<span style=\"color:red;\">**No Net**</span><br />\n";
 	  else
-	    {
-	      echo "District <b>" . $thisncs . "</b><br />\n";
-	    }
+		// If the NCS is staff, say so, otherwise say "District <districtno>"
+		if ( $thisncs == 0 )
+		  {
+		    echo "<span style=\"color:steelblue;\">Section Staff</span><br />\n";
+		  }
+		else
+		  {
+		    echo "District <b>" . $thisncs . "</b><br />\n";
+		  }
+	    
 	}
       $now += 86400;	// Add one day to current date
     }
