@@ -5,6 +5,45 @@
 //    EClist displays the list of current contact information
 //    for ECs and DECs
 //
+
+function formatNumber ( $number )
+{
+  if ( strlen($number) != 10 )
+    {
+      return $number;
+    }
+  $string = "(" . substr($number,0,3) . ") " . substr($number,3,3) .
+    "-" . substr($number,6,4);
+  return $string;
+}
+
+function contactInfo( $db, $call )
+{
+  $contacts='';
+  $q3="SELECT ares_contact_type, contact, validity, A.type " .
+    "FROM ares_contact_info A, ares_contact_type B " .
+    "WHERE A.type = B.type AND A.call='" . $call . "'";
+  //echo "<p>" . $q3 . ",/p>\n";
+  $r3 = getResult($q3,$db);
+  while ( $row3 = getRow($r3,$db) )
+    {
+      $xx = $row3[1];
+      if ( $row3[3] < 4 )
+	{
+	  $xx = formatNumber( $row3[1] );
+	}
+      if ( $row3[2]==1 )
+	{
+	$contacts = $contacts . $row3[0] . ": <b>" . $xx . 
+	  "</b><br>";
+	}
+      else
+	$contacts = $contacts . $row3[0] . ": " . $xx . 
+	  "<br>";
+    }
+  echo $contacts;
+}
+
 {
   include('includes/session.inc');
   $title=_('Michigan ECs');
@@ -60,7 +99,15 @@
 	{
 	  echo "<br />" . $decname . ", " . $row1[3] . "</h2>\n";
 	}
-      echo "      </td>\n      <td width=\"97px\">\n        <img src=\"images/D" .
+      echo "      </td>\n";
+
+
+      echo "<td id=\"OsRow4\">";
+      echo contactInfo($db,$row1[3]);
+      echo "</td>\n";
+
+
+        echo "      <td width=\"97px\">\n        <img src=\"images/D" .
 	$row1[0] . ".gif\" width=\"97\" height=\"96\">\n      </td>\n    </table>\n";
       // If the district wasn't NWS, we want to find counties
       if ( $row1[0]<100 )
@@ -107,25 +154,28 @@
 		      $eccall = $ecname . ", " . $eccall;
 		    }
 		  // Pick up contact information
-		  $q3="SELECT ares_contact_type, contact, validity " .
-		    "FROM ares_contact_info A, ares_contact_type B " .
-		    "WHERE A.type = B.type AND A.call='" . $row2[2] . "'";
-		  $r3 = getResult($q3,$db);
-		  while ( $row3 = getRow($r3,$db) )
-		  {
-		    if ( $row3[2]==1 )
-			$contacts = $contacts . $row3[0] . ": <b>" . $row3[1] . 
-			  "</b><br>";
-		    else
-			$contacts = $contacts . $row3[0] . ": " . $row3[1] . 
-			  "<br>";
-		  }
+		  // $ctx = contactInfo( $row2[2] );
+		  /* $q3="SELECT ares_contact_type, contact, validity " . */
+		  /*   "FROM ares_contact_info A, ares_contact_type B " . */
+		  /*   "WHERE A.type = B.type AND A.call='" . $row2[2] . "'"; */
+		  /* $r3 = getResult($q3,$db); */
+		  /* while ( $row3 = getRow($r3,$db) ) */
+		  /* { */
+		  /*   if ( $row3[2]==1 ) */
+		  /* 	$contacts = $contacts . $row3[0] . ": <b>" . $row3[1] .  */
+		  /* 	  "</b><br>"; */
+		  /*   else */
+		  /* 	$contacts = $contacts . $row3[0] . ": " . $row3[1] .  */
+		  /* 	  "<br>"; */
+		  /* } */
 
 		}
 
 	      echo "      <td " . $class . ">" . $row2[0] . "</td>";
 	      echo "<td " . $class . ">" . $eccall . "</td>\n";
-	      echo "      <td " . $class . ">" . $contacts . "</td>\n";
+	      echo "      <td " . $class . ">";
+	      echo contactInfo($db,$row2[2]);
+	      echo "</td>\n";
 	      echo "      </tr>\n";
 	    }
 	  //echo "    </ul>\n";
