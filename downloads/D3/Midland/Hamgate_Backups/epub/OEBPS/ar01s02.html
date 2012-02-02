@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>2. Overview of the Backup Process</title><link rel="stylesheet" type="text/css" href="Common_Content/css/default.css" /><link rel="stylesheet" media="print" href="Common_Content/css/print.css" type="text/css" /><meta name="generator" content="publican 2.8" /><meta name="package" content="" /></head><body><div class="section"><div class="titlepage"><div><div><h1 class="title" id="id1026599">2. Overview of the Backup Process</h1></div></div></div><div class="para">
+			On a schedule determined by the <a class="xref" href="crontab.html">Appendix A, <em>crontab</em></a>, gzipped tar files are created for backup. These files are created locally, and then retrieved from the hamgate by a remote system.
+		</div><div class="para">
+			Configuration of the hamgate does not change frequently. However, it is useful to have reasonably frequent full backups in case some change was made that wasn't manually backed up.
+		</div><div class="para">
+			The backups are executed as follows:
+		</div><div class="para">
+			<div class="itemizedlist"><ul><li class="listitem"><div class="para">
+						Each night the messages on the hamgate are backed up (refer to <a class="xref" href="mailbackup.html">Appendix D, <em>/root/JNOSmailBackup2</em></a>).
+					</div></li><li class="listitem"><div class="para">
+						Every Monday, the entire <code class="filename">/jnos</code> directory tree is backed up (refer to <a class="xref" href="jnosbackup.html">Appendix C, <em>/root/JNOSbackup</em></a>). This directory tree includes all the configuration, data and programs specific to JNOS. This backup should allow for restoration of JNOS operation onto an existing Linux system.
+					</div></li><li class="listitem"><div class="para">
+						On the fourth of every month, the entire system is backed up (refer to <a class="xref" href="systembackup.html">Appendix B, <em>/root/SystemBackup</em></a>). This backup should allow for restoration of the entire system onto a blank system.
+					</div></li></ul></div>
+
+		</div><div class="para">
+			After the savesets have been created on the hangate, a cron job runs on a server at WB8RCR (refer to <a class="xref" href="Srvcrontab.html">Appendix E, <em>Server crontab</em></a> for the relevant fragment of that crontab). Other systems with the appropriate SSH keys could (and probably should) retrieve those tar files.
+		</div></div></body></html>

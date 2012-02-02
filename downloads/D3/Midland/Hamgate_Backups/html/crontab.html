@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>A. crontab</title><link rel="stylesheet" type="text/css" href="./Common_Content/css/default.css" /><meta name="generator" content="publican 2.8" /><meta name="package" content="Midland_ARPSC-Hamgate_Backups--en-US-0-0" /><link rel="home" href="index.html" title="Hamgate Backups" /><link rel="up" href="index.html" title="Hamgate Backups" /><link rel="prev" href="ar01s03.html" title="3. Disposition of the backups" /><link rel="next" href="systembackup.html" title="B. /root/SystemBackup" /></head><body class=""><p id="title"><a class="left" href="http://www.arrl-mi.org"><img src="Common_Content/images/image_left.png" alt="Product Site" /></a><a class="right" href="http://www.ares-mi.org"><img src="Common_Content/images/image_right.png" alt="Documentation Site" /></a></p><ul class="docnav"><li class="previous"><a accesskey="p" href="ar01s03.html"><strong>Prev</strong></a></li><li class="next"><a accesskey="n" href="systembackup.html"><strong>Next</strong></a></li></ul><div xml:lang="en-US" class="appendix" title="A. crontab" lang="en-US"><div class="titlepage"><div><div><h1 id="crontab" class="title">crontab</h1></div></div></div><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+# crontab for root
+mailto=root
+#
+#	Set the time every night
+#
+37 1 * * *		~/SetTimeCron.sh
+#
+#	Backup the /jnos tree every monday
+#
+16 4 * * 1		~/JNOSbackup
+#
+#	Backup the system on the fourth of the month
+#
+26 4 4 * *		~/SystemBackup
+#
+#	Backup JNOS mail every night
+#
+6 1 * * *		~/JNOSmailBackup2
+#
+#	Pick up root's mail every night
+#
+30 5 * * *		~/checkmail
+</pre>
+
+	</div></div><ul class="docnav"><li class="previous"><a accesskey="p" href="ar01s03.html"><strong>Prev</strong>3. Disposition of the backups</a></li><li class="up"><a accesskey="u" href="#"><strong>Up</strong></a></li><li class="home"><a accesskey="h" href="index.html"><strong>Home</strong></a></li><li class="next"><a accesskey="n" href="systembackup.html"><strong>Next</strong>B. /root/SystemBackup</a></li></ul></body></html>

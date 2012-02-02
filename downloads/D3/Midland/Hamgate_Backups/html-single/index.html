@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Hamgate Backups</title><link rel="stylesheet" type="text/css" href="./Common_Content/css/default.css" /><meta name="generator" content="publican 2.8" /><meta name="package" content="Midland_ARPSC-Hamgate_Backups--en-US-0-0" /><meta name="description" content="Midland ARPSC maintains hamgate.midland.ampr.org, a gateway between local RF packet traffic and the remainder of the global packet network. This document outlines the backup mechanism for that hamgate." /></head><body class=""><p id="title"><a class="left" href="http://www.arrl-mi.org"><img src="Common_Content/images/image_left.png" alt="Product Site" /></a><a class="right" href="http://www.ares-mi.org"><img src="Common_Content/images/image_right.png" alt="Documentation Site" /></a></p><div xml:lang="en-US" class="article" title="Hamgate Backups" lang="en-US"><div class="titlepage"><div><div class="producttitle"><span class="productname">Midland ARPSC</span> <span class="productnumber"></span></div><div><h1 id="id1173104" class="title">Hamgate Backups</h1></div><div><h2 class="subtitle">Backup Strategy for hamgate.midland</h2></div><div><h3 class="corpauthor">
+		<span class="inlinemediaobject"><img src="Common_Content/images/title_logo.png" /></span>
+
+	</h3></div><div><div xml:lang="en-US" class="authorgroup" lang="en-US"><div class="author"><h3 class="author"><span class="firstname">John</span> <span class="surname">McDonough</span></h3><div class="affiliation"><span class="orgname">Amateur Radio Public Service Corps</span> <span class="orgdiv">Michigan Section</span></div><code class="email"><a class="email" href="mailto:wb8rcr@arrl.net">wb8rcr@arrl.net</a></code></div></div></div><div><div id="id734057" class="legalnotice"><h1 class="legalnotice">Legal Notice</h1><div class="para">
+		Copyright© 2011, The Michigan Section of the Amateur Radio Relay League
+	</div><div class="para">
+		The text of and illustrations in this document are licensed by the Michigan Section of the American Radio Relay League under a Creative Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An explanation of CC-BY-SA is available at http://creativecommons.org/licenses/by-sa/3.0/. The original authors of this document designate the Michigan Section of the American Radio Relay League as the "Attribution Party" for purposes of CC-BY-SA. In accordance with CC-BY-SA, if you distribute this document or an adaptation of it, you must provide the URL for the original version.
+	</div><div class="para">
+		The Michigan Section, as the licensor of this document, waives the right to enforce, and agrees not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by applicable law.
+	</div><div class="para">
+		The ARRL Diamond and logo, the ARES logo and the ARPSC logo are registered trademarks of the American Radio Relay League in the United States and other countries.
+	</div><div class="para">
+		All other trademarks are the property of their respective owners.
+	</div></div></div><div><div class="abstract" title="Abstract"><h6>Abstract</h6><div class="para">
+			Midland ARPSC maintains <code class="filename">hamgate.midland.ampr.org</code>, a gateway between local RF packet traffic and the remainder of the global packet network. This document outlines the backup mechanism for that hamgate.
+		</div></div></div></div><hr /></div><div class="toc"><dl><dt><span class="section"><a href="#id1173117">1. Introduction</a></span></dt><dt><span class="section"><a href="#id565440">2. Overview of the Backup Process</a></span></dt><dt><span class="section"><a href="#id565819">3. Disposition of the backups</a></span></dt><dt><span class="appendix"><a href="#crontab">A. crontab</a></span></dt><dt><span class="appendix"><a href="#systembackup">B. /root/SystemBackup</a></span></dt><dt><span class="appendix"><a href="#jnosbackup">C. /root/JNOSbackup</a></span></dt><dt><span class="appendix"><a href="#mailbackup">D. /root/JNOSmailBackup2</a></span></dt><dt><span class="appendix"><a href="#Srvcrontab">E. Server crontab</a></span></dt><dt><span class="appendix"><a href="#appe-Hamgate_Backups-Revision_History">F. Revision History</a></span></dt></dl></div><div class="section" title="1. Introduction"><div class="titlepage"><div><div><h2 class="title" id="id1173117">1. Introduction</h2></div></div></div><div class="para">
+			Midland ARPSC maintains <code class="filename">hamgate.midland.ampr.org</code>, a gateway between local RF packet traffic and the remainder of the global packet network. The hamgate operates unattended in the penthouse of the Mid-Michigan Regional Medical Center. Almost all operation of the hamgate occurs remotely.
+		</div><div class="para">
+			Because the hamgate operates as infrastructure, it requires relatively little attention. One issue this causes is that few people are familiar with the internal operation of the hamgate. Because of this it is important that the hamgate be fully backed up in a transparent fashion, that these backups are kept in an easily useable format, and that a number of people have access to these backups.
+		</div></div><div class="section" title="2. Overview of the Backup Process"><div class="titlepage"><div><div><h2 class="title" id="id565440">2. Overview of the Backup Process</h2></div></div></div><div class="para">
+			On a schedule determined by the <a class="xref" href="#crontab" title="A. crontab">Appendix A, <em>crontab</em></a>, gzipped tar files are created for backup. These files are created locally, and then retrieved from the hamgate by a remote system.
+		</div><div class="para">
+			Configuration of the hamgate does not change frequently. However, it is useful to have reasonably frequent full backups in case some change was made that wasn't manually backed up.
+		</div><div class="para">
+			The backups are executed as follows:
+		</div><div class="para">
+			<div class="itemizedlist"><ul><li class="listitem"><div class="para">
+						Each night the messages on the hamgate are backed up (refer to <a class="xref" href="#mailbackup" title="D. /root/JNOSmailBackup2">Appendix D, <em>/root/JNOSmailBackup2</em></a>).
+					</div></li><li class="listitem"><div class="para">
+						Every Monday, the entire <code class="filename">/jnos</code> directory tree is backed up (refer to <a class="xref" href="#jnosbackup" title="C. /root/JNOSbackup">Appendix C, <em>/root/JNOSbackup</em></a>). This directory tree includes all the configuration, data and programs specific to JNOS. This backup should allow for restoration of JNOS operation onto an existing Linux system.
+					</div></li><li class="listitem"><div class="para">
+						On the fourth of every month, the entire system is backed up (refer to <a class="xref" href="#systembackup" title="B. /root/SystemBackup">Appendix B, <em>/root/SystemBackup</em></a>). This backup should allow for restoration of the entire system onto a blank system.
+					</div></li></ul></div>
+
+		</div><div class="para">
+			After the savesets have been created on the hangate, a cron job runs on a server at WB8RCR (refer to <a class="xref" href="#Srvcrontab" title="E. Server crontab">Appendix E, <em>Server crontab</em></a> for the relevant fragment of that crontab). Other systems with the appropriate SSH keys could (and probably should) retrieve those tar files.
+		</div></div><div class="section" title="3. Disposition of the backups"><div class="titlepage"><div><div><h2 class="title" id="id565819">3. Disposition of the backups</h2></div></div></div><div class="para">
+			The backups collect at WB8RCR and are not automatically purged. Periodically, some are deleted manually and others saved to optical media. As a minimum, all message files, several JNOS backups and two full backups are preserved on optical media for each year.
+		</div><div class="para">
+			In addition, a DVD containing at least one full backup and all the message backups is created on occasion and sent to either W8LSS or WB8FYR.
+		</div></div><div xml:lang="en-US" class="appendix" title="A. crontab" lang="en-US"><h2 class="title" id="crontab">A. crontab</h2><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+# crontab for root
+mailto=root
+#
+#	Set the time every night
+#
+37 1 * * *		~/SetTimeCron.sh
+#
+#	Backup the /jnos tree every monday
+#
+16 4 * * 1		~/JNOSbackup
+#
+#	Backup the system on the fourth of the month
+#
+26 4 4 * *		~/SystemBackup
+#
+#	Backup JNOS mail every night
+#
+6 1 * * *		~/JNOSmailBackup2
+#
+#	Pick up root's mail every night
+#
+30 5 * * *		~/checkmail
+</pre>
+
+	</div></div><div xml:lang="en-US" class="appendix" title="B. /root/SystemBackup" lang="en-US"><h2 class="title" id="systembackup">B. /root/SystemBackup</h2><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+#!/bin/sh
+SAVESET=`date -u "+HGmidland-%y%m%d.tgz"`
+echo $SAVESET
+cd /root
+echo "/dev" &gt;./skips
+echo "/sys" &gt;&gt;./skips
+echo "/media" &gt;&gt;./skips
+echo "/tmp" &gt;&gt;./skips
+echo "/var/run" &gt;&gt;./skips
+echo "/mnt" &gt;&gt;./skips
+echo "/opt" &gt;&gt;./skips
+echo "/proc" &gt;&gt;./skips
+echo "/lost+found" &gt;&gt;./skips
+echo "/root/themes" &gt;&gt;./skips
+echo "/root/RPMs" &gt;&gt;./skips
+echo "*.rpm" &gt;&gt;./skips
+echo "*gz" &gt;&gt;.skips
+echo "/backup" &gt;&gt;.skips
+rm -f /backup/HGm*
+tar -czp --ignore-failed-read -f /backup/$SAVESET -X ./skips /
+rm -f ./skips
+</pre>
+
+	</div></div><div xml:lang="en-US" class="appendix" title="C. /root/JNOSbackup" lang="en-US"><h2 class="title" id="jnosbackup">C. /root/JNOSbackup</h2><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+#!/bin/sh -x
+SAVESET=`date -u "+hgJNOS-%y%m%d.tgz"`
+echo $SAVESET
+rm -f /backup/hgJNOS*
+tar -czp --ignore-failed-read -f /backup/$SAVESET /jnos
+</pre>
+
+	</div></div><div xml:lang="en-US" class="appendix" title="D. /root/JNOSmailBackup2" lang="en-US"><h2 class="title" id="mailbackup">D. /root/JNOSmailBackup2</h2><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+#!/bin/sh -x
+SAVESET=`date -u "+JNOSmail-%y%m%d.tgz"`
+echo $SAVESET
+cd /backup
+rm -f JNOSmail*.tgz
+tar -czp --ignore-failed-read -f /backup/$SAVESET /jnos/spool/mail /jnos/spool/mqueue
+</pre>
+
+	</div></div><div xml:lang="en-US" class="appendix" title="E. Server crontab" lang="en-US"><h2 class="title" id="Srvcrontab">E. Server crontab</h2><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+#==============================================================================
+#                   H a m G a t e   B a c k u p s
+#==============================================================================
+#
+#	Fetch mail backup from hamgate.midland
+#
+20 1 * * *	 scp jjmcd@hgmidland:/backup/JNOSmail* /backup/stage/backup/hgmidland
+#
+#	Fetch JNOS backup from hamgate.midland on Monday
+#
+16 5 * * 1	scp jjmcd@hgmidland:/backup/hgJNOS* /backup/stage/backup/hgmidland
+#
+#	Fetch the full backup from hamgate.midland on the fifth
+#
+17 0 5 * *	scp jjmcd@hgmidland:/backup/HGmid* /backup/stage/backup/hgmidland
+#
+</pre>
+
+	</div></div><div xml:lang="en-US" class="appendix" title="F. Revision History" lang="en-US"><h2 class="title" id="appe-Hamgate_Backups-Revision_History">F. Revision History</h2><div class="para">
+		<div class="revhistory"><table border="0" width="100%" summary="Revision history"><tr><th align="left" valign="top" colspan="3"><strong>Revision History</strong></th></tr><tr><td align="left">Revision 1</td><td align="left">Fri Nov 25 2011</td><td align="left"><span class="author"><span class="firstname">John</span> <span class="surname">McDonough</span></span></td></tr><tr><td align="left" colspan="3">
+					<table border="0" summary="Simple list" class="simplelist"><tr><td>Initial draft</td></tr></table>
+
+				</td></tr></table></div>
+
+	</div></div></div></body></html>

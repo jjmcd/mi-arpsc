@@ -1,0 +1,360 @@
+Product SiteDocumentation Site
+
+ARPSC
+
+
+
+D3 Packet Test
+==============
+
+
+Observations at W8KEA
+---------------------
+
+
+[IMAGE]
+
+
+John McDonough
+
+WB8RCRwb8rcr@arrl.net
+
+
+
+Legal Notice
+============
+
+Copyright© 2012, the Michigan Section of the American Radio Relay League
+The text of and illustrations in this document are licensed by the
+Michigan Section of the American Radio Relay League under a Creative
+Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+This document summarizes the District 3 packet test as observed at W8KEA.
+
+------------------------------------------------------------------------
+
+1. Introduction
+
+2. Stations observed at W8KEA
+
+3. Traffic volume at W8KEA
+
+4. Individual Station Rates
+
+A. Revision History
+
+
+1. Introduction
+---------------
+
+On January 28, 2012, the Third District of the Michigan Amateur Radio
+Public Service Corps held a district-wide test of VHF packet. W8KEA is a
+high profile packet BBS located atop the Mid-Michigan Regional Medical
+Center. This is near the center of the District, and from that vantage
+point, the station can hear much of the traffic in the District. This
+document summarizes the packet traffic observed at W8KEA.
+
+
+2. Stations observed at W8KEA
+-----------------------------
+
+During the course of the exercise, which ran for two hours in the
+morning, thirty-nine unique SSIDs were observed transmitting packets. The
+table below lists the stations heard and the number of packets heard from
+each SSID during the two-hour period. Note that not all the stations in
+the table were participating in the test, but may have simply had
+digipeaters on the air during the test.
+
+Station
+
+Packets Heard
+
+EOC26
+
+5
+
+EOC73
+
+34
+
+K8BZ
+
+131
+
+K8BZ-1
+
+38
+
+KB8PGW
+
+1
+
+KB8TAR-14
+
+5
+
+KB8TAR-15
+
+85
+
+KC8BKG
+
+9
+
+KC8BKG-3
+
+1
+
+KC8BKG-4
+
+4
+
+KC8FCW
+
+85
+
+KC8FCW-1
+
+15
+
+KC8FCW-15
+
+26
+
+KC8FCW-4
+
+27
+
+KD8CLM-15
+
+5
+
+KD8HBK-1
+
+54
+
+KD8HBK-14
+
+125
+
+KD8KDP
+
+338
+
+KD8KDP-4
+
+86
+
+MICARO
+
+56
+
+N8ERL-10
+
+37
+
+N8ERL-11
+
+66
+
+N8ERL-4
+
+10
+
+NX8A-2
+
+291
+
+TAWAS
+
+553
+
+W8COP-6
+
+101
+
+W8KEA-3
+
+917
+
+W8KEA-4
+
+65
+
+W8LSS
+
+8
+
+W8LSS-4
+
+6
+
+WB8FYR-3
+
+75
+
+WB8FYR-4
+
+4
+
+WB8RCR-15
+
+36
+
+WB8RCR-3
+
+56
+
+WB8RCR-4
+
+12
+
+WB8WJV-8
+
+120
+
+WX8CSB
+
+424
+
+WX8CSB-1
+
+16
+
+WX8CSB-4
+
+23
+
+Table 1. Stations copied during packet test
+
+
+3. Traffic volume at W8KEA
+--------------------------
+
+During the course of the test, traffic built as more stations came on the
+air. By approximately 10:30 AM traffic leveled off, and held more or less
+constant until the end of the test when most stations secured. During the
+course of the drill, approximately 4000 packets were received at W8KEA.
+
+[IMAGE]
+
+[IMAGE]
+
+Table 2. Aggregate Rates
+
+
+4. Individual Station Rates
+---------------------------
+
+Individual stations had widely varying profiles. Some stations started
+late, others finished early. Most stations saw peak traffic toward the
+middle of the exercise. A surprising number peaked toward the end of the
+drill when many stations had secured.
+
+[IMAGE] EOC26
+
+[IMAGE] EOC73
+
+[IMAGE] K8BZ-1
+
+[IMAGE] K8BZ
+
+[IMAGE] KB8PGW
+
+[IMAGE] KB8TAR-14
+
+[IMAGE] KB8TAR-15
+
+[IMAGE] KC8BKG-3
+
+[IMAGE] KC8BKG-4
+
+[IMAGE] KC8BKG
+
+[IMAGE] KC8FCW-15
+
+[IMAGE] KC8FCW-1
+
+[IMAGE] KC8FCW-4
+
+[IMAGE] KC8FCW
+
+[IMAGE] KD8CLM-15
+
+[IMAGE] KD8HBK-14
+
+[IMAGE] KD8HBK-1
+
+[IMAGE] KD8KDP-4
+
+[IMAGE] KD8KDP
+
+[IMAGE] MICARO
+
+[IMAGE] N8ERL-10
+
+[IMAGE] N8ERL-11
+
+[IMAGE] N8ERL-4
+
+[IMAGE] NX8A-2
+
+[IMAGE] TAWAS
+
+[IMAGE] W8COP-6
+
+[IMAGE] W8KEA-3
+
+[IMAGE] W8KEA-4
+
+[IMAGE] W8LSS-4
+
+[IMAGE] W8LSS
+
+[IMAGE] WB8FYR-3
+
+[IMAGE] WB8FYR-4
+
+[IMAGE] WB8RCR-15
+
+[IMAGE] WB8RCR-3
+
+[IMAGE] WB8RCR-4
+
+[IMAGE] WB8WJV-8
+
+[IMAGE] WX8CSB-1
+
+[IMAGE] WX8CSB-4
+
+[IMAGE] WX8CSB
+
+Table 3. Individual Station Rates
+
+
+A. Revision History
+-------------------
+
+Revision History
+
+Revision 1
+
+Sun Jan 29 2012
+
+John McDonough
+
+Initial draft

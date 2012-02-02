@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Michigan District 3 Emergency Activations</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id3068867" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Michigan District 3 Emergency Activations</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id3228353" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>1. Introduction</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="index.html#id3228353"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3112654" playOrder="3">
+        <ncx:navLabel>
+          <ncx:text>2. Michigan Counties Within District 3</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ar01s02.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3352382" playOrder="4">
+        <ncx:navLabel>
+          <ncx:text>3. Frequencies to Be Used</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ar01s03.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id3620119" playOrder="5">
+        <ncx:navLabel>
+          <ncx:text>4. District 3 County Notification Procedures</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ar01s04.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id4548344" playOrder="6">
+        <ncx:navLabel>
+          <ncx:text>5. Emergency or Drill Net Conduct</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ar01s05.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id4548523" playOrder="7">
+        <ncx:navLabel>
+          <ncx:text>A. Revision History</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="appe-Michigan_District_3_Emergency_Activations-Revision_History.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

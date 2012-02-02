@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="articleid">
+  <metadata>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="articleid">_id3068867</dc:identifier>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Michigan District 3 Emergency Activations</dc:title>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">This document comprises the standard operating procedures for the third district of Michigan Section Amateur Radio Public Service Corps.</dc:description>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as=""/>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+  </metadata>
+  <manifest>
+    <item id="ncxtoc" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+    <item media-type="text/css" id="css" href="Common_Content/css/default.css"/>
+    <item media-type="text/css" id="print-css" href="Common_Content/css/print.css"/>
+    <item id="id3068867" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="id3126691" href="Common_Content/images/title_logo.png" media-type="image/png"/>
+    <item id="id3112654" href="ar01s02.html" media-type="application/xhtml+xml"/>
+    <item id="id3352382" href="ar01s03.html" media-type="application/xhtml+xml"/>
+    <item id="id3620119" href="ar01s04.html" media-type="application/xhtml+xml"/>
+    <item id="id4548344" href="ar01s05.html" media-type="application/xhtml+xml"/>
+    <item id="id4548523" href="appe-Michigan_District_3_Emergency_Activations-Revision_History.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncxtoc">
+    <itemref idref="id3068867"/>
+    <itemref idref="id3112654"/>
+    <itemref idref="id3352382"/>
+    <itemref idref="id3620119"/>
+    <itemref idref="id4548344"/>
+    <itemref idref="id4548523"/>
+  </spine>
+</package>

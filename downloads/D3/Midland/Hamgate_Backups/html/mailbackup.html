@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>D. /root/JNOSmailBackup2</title><link rel="stylesheet" type="text/css" href="./Common_Content/css/default.css" /><meta name="generator" content="publican 2.8" /><meta name="package" content="Midland_ARPSC-Hamgate_Backups--en-US-0-0" /><link rel="home" href="index.html" title="Hamgate Backups" /><link rel="up" href="index.html" title="Hamgate Backups" /><link rel="prev" href="jnosbackup.html" title="C. /root/JNOSbackup" /><link rel="next" href="Srvcrontab.html" title="E. Server crontab" /></head><body class=""><p id="title"><a class="left" href="http://www.arrl-mi.org"><img src="Common_Content/images/image_left.png" alt="Product Site" /></a><a class="right" href="http://www.ares-mi.org"><img src="Common_Content/images/image_right.png" alt="Documentation Site" /></a></p><ul class="docnav"><li class="previous"><a accesskey="p" href="jnosbackup.html"><strong>Prev</strong></a></li><li class="next"><a accesskey="n" href="Srvcrontab.html"><strong>Next</strong></a></li></ul><div xml:lang="en-US" class="appendix" title="D. /root/JNOSmailBackup2" lang="en-US"><div class="titlepage"><div><div><h1 id="mailbackup" class="title">/root/JNOSmailBackup2</h1></div></div></div><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+#!/bin/sh -x
+SAVESET=`date -u "+JNOSmail-%y%m%d.tgz"`
+echo $SAVESET
+cd /backup
+rm -f JNOSmail*.tgz
+tar -czp --ignore-failed-read -f /backup/$SAVESET /jnos/spool/mail /jnos/spool/mqueue
+</pre>
+
+	</div></div><ul class="docnav"><li class="previous"><a accesskey="p" href="jnosbackup.html"><strong>Prev</strong>C. /root/JNOSbackup</a></li><li class="up"><a accesskey="u" href="#"><strong>Up</strong></a></li><li class="home"><a accesskey="h" href="index.html"><strong>Home</strong></a></li><li class="next"><a accesskey="n" href="Srvcrontab.html"><strong>Next</strong>E. Server crontab</a></li></ul></body></html>

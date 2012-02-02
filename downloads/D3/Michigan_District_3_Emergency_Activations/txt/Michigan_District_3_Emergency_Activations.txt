@@ -1,0 +1,251 @@
+Product SiteDocumentation Site
+
+ARPSC
+
+
+
+Michigan District 3 Emergency Activations
+=========================================
+
+
+Standard operating procedures for District 3
+--------------------------------------------
+
+
+[IMAGE]
+
+
+Joseph Tuscher
+
+Michigan Section District 3jt14888@aol.com
+
+
+
+Legal Notice
+============
+
+CopyrightÂ© 2012, the Michigan Section of the American Radio Relay League
+The text of and illustrations in this document are licensed by the
+Michigan Section of the American Radio Relay League under a Creative
+Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+This document comprises the standard operating procedures for the third
+district of Michigan Section Amateur Radio Public Service Corps.
+
+------------------------------------------------------------------------
+
+1. Introduction
+
+2. Michigan Counties Within District 3
+
+3. Frequencies to Be Used
+
+4. District 3 County Notification Procedures
+
+5. Emergency or Drill Net Conduct
+
+A. Revision History
+
+
+1.Â Introduction
+----------------
+
+This document shall be a written set of regulations that will govern
+Amateur Radio operating procedures within Michigan District 3 during
+emergency activations. The following procedures for emergency
+communications, drills and tests shall be adhered to. All Amateur Radio
+operators shall be properly licensed under the Federal Communications
+Commission (FCC) Part 97 Rules and Regulations, and shall operate within
+these rules.
+
+
+2.Â Michigan Counties Within District 3
+---------------------------------------
+
+County
+
+County
+
+County
+
+Alcona - 147.040 PL 123.0
+
+Arenac - 147.940 PL 103.5
+
+Bay - 147.360
+
+Genesee - 147.260 PL 100.0
+
+Gladwin - 147.180
+
+Huron - 146.880
+
+Iosco - 147.140
+
+Lapeer - 146.620
+
+Midland - 147.000 no PL
+
+Ogemaw - 146.940
+
+Oscoda - 147.140
+
+Saginaw - 147.240
+
+Sanilac - 146.860
+
+Tuscola- 146.660
+
+Â 
+
+TableÂ 1.Â District Three Counties
+
+
+Each of the counties within District 3 has an ARRL Emergency Coordinator
+(EC).
+
+
+3.Â Frequencies to Be Used
+--------------------------
+
+The following frequencies are to be used in order, listed below:
+
+  1.  145.310 Bay City Repeater (-600) (PL=131.8)
+
+  2.  146.940 (NORTH)
+
+  3.  147.440 (SIMPLEX)
+
+  4.  3.932 (CONTACT FREQ.)
+
+The above frequencies are to be used for county-to-county communications
+only. Each county within District 3 may use their own appointed
+frequencies as directed by their EC. At the discretion of the District
+EC, a Net Control Station (NCS) may be appointed to handle large volumes
+of traffic that may be generated on the above frequencies, depending on
+the size of the drill or event.
+
+
+4.Â District 3 County Notification Procedures
+---------------------------------------------
+
+Each county within District 3 shall appoint a liaison to monitor the
+District 3 Net requesting assistance for the drill or emergency
+communications net. Each county within District 3 shall submit a list of
+contact persons to the DEC.
+
+
+5.Â Emergency or Drill Net Conduct
+----------------------------------
+
+Our conduct and manners on the radio are the standards by which many
+people judge the attitude, quality, and the efficiency of each Amateur
+Radio communications net. Stating Your Traffic: Stating the nature of
+your traffic helps the Net Control Station (NCS) determine the priority
+of incoming communications. (Emergency, Priority, Routine) Transmitting
+Lengthy Messages: Communications outside of District 3 shall be in NTS
+traffic format. All messages shall follow the NTS format, of 25 words or
+less. The person sending the message shall read the message as written.
+Do not change the wording of any message. Phonetic Alphabet: The Phonetic
+Alphabet should be used for spelling out unusual names and/or station
+call signs and locations. The names used after each letter has been found
+to be the most understandable over the air. They should always be given
+as:
+
+AÂ -Â Alpha
+
+BÂ -Â Bravo
+
+CÂ -Â Charlie
+
+DÂ -Â Delta
+
+EÂ -Â Echo
+
+FÂ -Â Foxtrot
+
+GÂ -Â Golf
+
+HÂ -Â Hotel
+
+IÂ -Â India
+
+JÂ -Â Juliet
+
+KÂ -Â Kilo
+
+LÂ -Â Lima
+
+MÂ -Â Mike
+
+NÂ -Â November
+
+OÂ -Â Oscar
+
+PÂ -Â Papa
+
+QÂ -Â Quebec
+
+RÂ -Â Romeo
+
+SÂ -Â Sierra
+
+TÂ -Â Tango
+
+UÂ -Â Uniform
+
+VÂ -Â Victor
+
+WÂ -Â Whiskey
+
+XÂ -Â X-ray
+
+YÂ -Â Yankee
+
+ZÂ -Â Zulu
+
+Â 
+
+Â 
+
+Â 
+
+Â 
+
+TableÂ 2.Â Phonetic Alphabet
+
+
+A.Â Revision History
+--------------------
+
+Revision History
+
+Revision 0-1
+
+Thu Feb 2 2012
+
+Joseph Tuscher
+
+Initial draft
+
+Revision 0-0
+
+Thu Feb 2 2012
+
+John McDonough
+
+Initial creation of book by publican

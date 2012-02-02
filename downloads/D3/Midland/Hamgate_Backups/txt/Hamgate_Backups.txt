@@ -1,0 +1,229 @@
+Product SiteDocumentation Site
+
+Midland ARPSC
+
+
+
+Hamgate Backups
+===============
+
+
+Backup Strategy for hamgate.midland
+-----------------------------------
+
+
+John McDonough
+
+Amateur Radio Public Service Corps Michigan Sectionwb8rcr@arrl.net
+
+
+
+Legal Notice
+============
+
+Copyright© 2011, The Michigan Section of the Amateur Radio Relay League
+The text of and illustrations in this document are licensed by the
+Michigan Section of the American Radio Relay League under a Creative
+Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+Midland ARPSC maintains hamgate.midland.ampr.org, a gateway between local
+RF packet traffic and the remainder of the global packet network. This
+document outlines the backup mechanism for that hamgate.
+
+------------------------------------------------------------------------
+
+1. Introduction
+
+2. Overview of the Backup Process
+
+3. Disposition of the backups
+
+A. crontab
+
+B. /root/SystemBackup
+
+C. /root/JNOSbackup
+
+D. /root/JNOSmailBackup2
+
+E. Server crontab
+
+F. Revision History
+
+
+1. Introduction
+---------------
+
+Midland ARPSC maintains hamgate.midland.ampr.org, a gateway between local
+RF packet traffic and the remainder of the global packet network. The
+hamgate operates unattended in the penthouse of the Mid-Michigan Regional
+Medical Center. Almost all operation of the hamgate occurs remotely.
+Because the hamgate operates as infrastructure, it requires relatively
+little attention. One issue this causes is that few people are familiar
+with the internal operation of the hamgate. Because of this it is
+important that the hamgate be fully backed up in a transparent fashion,
+that these backups are kept in an easily useable format, and that a
+number of people have access to these backups.
+
+
+2. Overview of the Backup Process
+---------------------------------
+
+On a schedule determined by the Appendix A, crontab, gzipped tar files
+are created for backup. These files are created locally, and then
+retrieved from the hamgate by a remote system. Configuration of the
+hamgate does not change frequently. However, it is useful to have
+reasonably frequent full backups in case some change was made that wasn't
+manually backed up. The backups are executed as follows:
+
+  *  Each night the messages on the hamgate are backed up (refer to
+    Appendix D, /root/JNOSmailBackup2).
+
+  *  Every Monday, the entire /jnos directory tree is backed up (refer to
+    Appendix C, /root/JNOSbackup). This directory tree includes all the
+    configuration, data and programs specific to JNOS. This backup should
+    allow for restoration of JNOS operation onto an existing Linux
+    system.
+
+  *  On the fourth of every month, the entire system is backed up (refer
+    to Appendix B, /root/SystemBackup). This backup should allow for
+    restoration of the entire system onto a blank system.
+
+After the savesets have been created on the hangate, a cron job runs on a
+server at WB8RCR (refer to Appendix E, Server crontab for the relevant
+fragment of that crontab). Other systems with the appropriate SSH keys
+could (and probably should) retrieve those tar files.
+
+
+3. Disposition of the backups
+-----------------------------
+
+The backups collect at WB8RCR and are not automatically purged.
+Periodically, some are deleted manually and others saved to optical
+media. As a minimum, all message files, several JNOS backups and two full
+backups are preserved on optical media for each year. In addition, a DVD
+containing at least one full backup and all the message backups is
+created on occasion and sent to either W8LSS or WB8FYR.
+
+
+A. crontab
+----------
+
+# crontab for root
+mailto=root
+#
+#       Set the time every night
+#
+37 1 * * *              ~/SetTimeCron.sh
+#
+#       Backup the /jnos tree every monday
+#
+16 4 * * 1              ~/JNOSbackup
+#
+#       Backup the system on the fourth of the month
+#
+26 4 4 * *              ~/SystemBackup
+#
+#       Backup JNOS mail every night
+#
+6 1 * * *               ~/JNOSmailBackup2
+#
+#       Pick up root's mail every night
+#
+30 5 * * *              ~/checkmail
+
+
+B. /root/SystemBackup
+---------------------
+
+#!/bin/sh
+SAVESET=`date -u "+HGmidland-%y%m%d.tgz"`
+echo $SAVESET
+cd /root
+echo "/dev" >./skips
+echo "/sys" >>./skips
+echo "/media" >>./skips
+echo "/tmp" >>./skips
+echo "/var/run" >>./skips
+echo "/mnt" >>./skips
+echo "/opt" >>./skips
+echo "/proc" >>./skips
+echo "/lost+found" >>./skips
+echo "/root/themes" >>./skips
+echo "/root/RPMs" >>./skips
+echo "*.rpm" >>./skips
+echo "*gz" >>.skips
+echo "/backup" >>.skips
+rm -f /backup/HGm*
+tar -czp --ignore-failed-read -f /backup/$SAVESET -X ./skips /
+rm -f ./skips
+
+
+C. /root/JNOSbackup
+-------------------
+
+#!/bin/sh -x
+SAVESET=`date -u "+hgJNOS-%y%m%d.tgz"`
+echo $SAVESET
+rm -f /backup/hgJNOS*
+tar -czp --ignore-failed-read -f /backup/$SAVESET /jnos
+
+
+D. /root/JNOSmailBackup2
+------------------------
+
+#!/bin/sh -x
+SAVESET=`date -u "+JNOSmail-%y%m%d.tgz"`
+echo $SAVESET
+cd /backup
+rm -f JNOSmail*.tgz
+tar -czp --ignore-failed-read -f /backup/$SAVESET /jnos/spool/mail /jnos/spool/mqueue
+
+
+E. Server crontab
+-----------------
+
+#==============================================================================
+#                   H a m G a t e   B a c k u p s
+#==============================================================================
+#
+#       Fetch mail backup from hamgate.midland
+#
+20 1 * * *       scp jjmcd@hgmidland:/backup/JNOSmail* /backup/stage/backup/hgmidland
+#
+#       Fetch JNOS backup from hamgate.midland on Monday
+#
+16 5 * * 1      scp jjmcd@hgmidland:/backup/hgJNOS* /backup/stage/backup/hgmidland
+#
+#       Fetch the full backup from hamgate.midland on the fifth
+#
+17 0 5 * *      scp jjmcd@hgmidland:/backup/HGmid* /backup/stage/backup/hgmidland
+#
+
+
+F. Revision History
+-------------------
+
+Revision History
+
+Revision 1
+
+Fri Nov 25 2011
+
+John McDonough
+
+Initial draft

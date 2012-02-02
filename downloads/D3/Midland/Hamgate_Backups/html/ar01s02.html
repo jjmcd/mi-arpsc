@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>2. Overview of the Backup Process</title><link rel="stylesheet" type="text/css" href="./Common_Content/css/default.css" /><meta name="generator" content="publican 2.8" /><meta name="package" content="Midland_ARPSC-Hamgate_Backups--en-US-0-0" /><link rel="home" href="index.html" title="Hamgate Backups" /><link rel="up" href="index.html" title="Hamgate Backups" /><link rel="prev" href="index.html" title="Hamgate Backups" /><link rel="next" href="ar01s03.html" title="3. Disposition of the backups" /></head><body class=""><p id="title"><a class="left" href="http://www.arrl-mi.org"><img src="Common_Content/images/image_left.png" alt="Product Site" /></a><a class="right" href="http://www.ares-mi.org"><img src="Common_Content/images/image_right.png" alt="Documentation Site" /></a></p><ul class="docnav"><li class="previous"><a accesskey="p" href="index.html"><strong>Prev</strong></a></li><li class="next"><a accesskey="n" href="ar01s03.html"><strong>Next</strong></a></li></ul><div class="section" title="2. Overview of the Backup Process"><div class="titlepage"><div><div><h2 class="title" id="id398900">2. Overview of the Backup Process</h2></div></div></div><div class="para">
+			On a schedule determined by the <a class="xref" href="crontab.html" title="A. crontab">Appendix A, <em>crontab</em></a>, gzipped tar files are created for backup. These files are created locally, and then retrieved from the hamgate by a remote system.
+		</div><div class="para">
+			Configuration of the hamgate does not change frequently. However, it is useful to have reasonably frequent full backups in case some change was made that wasn't manually backed up.
+		</div><div class="para">
+			The backups are executed as follows:
+		</div><div class="para">
+			<div class="itemizedlist"><ul><li class="listitem"><div class="para">
+						Each night the messages on the hamgate are backed up (refer to <a class="xref" href="mailbackup.html" title="D. /root/JNOSmailBackup2">Appendix D, <em>/root/JNOSmailBackup2</em></a>).
+					</div></li><li class="listitem"><div class="para">
+						Every Monday, the entire <code class="filename">/jnos</code> directory tree is backed up (refer to <a class="xref" href="jnosbackup.html" title="C. /root/JNOSbackup">Appendix C, <em>/root/JNOSbackup</em></a>). This directory tree includes all the configuration, data and programs specific to JNOS. This backup should allow for restoration of JNOS operation onto an existing Linux system.
+					</div></li><li class="listitem"><div class="para">
+						On the fourth of every month, the entire system is backed up (refer to <a class="xref" href="systembackup.html" title="B. /root/SystemBackup">Appendix B, <em>/root/SystemBackup</em></a>). This backup should allow for restoration of the entire system onto a blank system.
+					</div></li></ul></div>
+
+		</div><div class="para">
+			After the savesets have been created on the hangate, a cron job runs on a server at WB8RCR (refer to <a class="xref" href="Srvcrontab.html" title="E. Server crontab">Appendix E, <em>Server crontab</em></a> for the relevant fragment of that crontab). Other systems with the appropriate SSH keys could (and probably should) retrieve those tar files.
+		</div></div><ul class="docnav"><li class="previous"><a accesskey="p" href="index.html"><strong>Prev</strong>Hamgate Backups</a></li><li class="up"><a accesskey="u" href="#"><strong>Up</strong></a></li><li class="home"><a accesskey="h" href="index.html"><strong>Home</strong></a></li><li class="next"><a accesskey="n" href="ar01s03.html"><strong>Next</strong>3. Disposition of the backups</a></li></ul></body></html>

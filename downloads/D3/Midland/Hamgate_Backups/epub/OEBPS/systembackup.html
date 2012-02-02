@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>B. /root/SystemBackup</title><link rel="stylesheet" type="text/css" href="Common_Content/css/default.css" /><link rel="stylesheet" media="print" href="Common_Content/css/print.css" type="text/css" /><meta name="generator" content="publican 2.8" /><meta name="package" content="" /></head><body><div class="appendix" id="systembackup"><div class="titlepage"><div><div><h1 class="title">/root/SystemBackup</h1></div></div></div><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+#!/bin/sh
+SAVESET=`date -u "+HGmidland-%y%m%d.tgz"`
+echo $SAVESET
+cd /root
+echo "/dev" &gt;./skips
+echo "/sys" &gt;&gt;./skips
+echo "/media" &gt;&gt;./skips
+echo "/tmp" &gt;&gt;./skips
+echo "/var/run" &gt;&gt;./skips
+echo "/mnt" &gt;&gt;./skips
+echo "/opt" &gt;&gt;./skips
+echo "/proc" &gt;&gt;./skips
+echo "/lost+found" &gt;&gt;./skips
+echo "/root/themes" &gt;&gt;./skips
+echo "/root/RPMs" &gt;&gt;./skips
+echo "*.rpm" &gt;&gt;./skips
+echo "*gz" &gt;&gt;.skips
+echo "/backup" &gt;&gt;.skips
+rm -f /backup/HGm*
+tar -czp --ignore-failed-read -f /backup/$SAVESET -X ./skips /
+rm -f ./skips
+</pre>
+
+	</div></div></body></html>

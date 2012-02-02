@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>B. /root/SystemBackup</title><link rel="stylesheet" type="text/css" href="./Common_Content/css/default.css" /><meta name="generator" content="publican 2.8" /><meta name="package" content="Midland_ARPSC-Hamgate_Backups--en-US-0-0" /><link rel="home" href="index.html" title="Hamgate Backups" /><link rel="up" href="index.html" title="Hamgate Backups" /><link rel="prev" href="crontab.html" title="A. crontab" /><link rel="next" href="jnosbackup.html" title="C. /root/JNOSbackup" /></head><body class=""><p id="title"><a class="left" href="http://www.arrl-mi.org"><img src="Common_Content/images/image_left.png" alt="Product Site" /></a><a class="right" href="http://www.ares-mi.org"><img src="Common_Content/images/image_right.png" alt="Documentation Site" /></a></p><ul class="docnav"><li class="previous"><a accesskey="p" href="crontab.html"><strong>Prev</strong></a></li><li class="next"><a accesskey="n" href="jnosbackup.html"><strong>Next</strong></a></li></ul><div xml:lang="en-US" class="appendix" title="B. /root/SystemBackup" lang="en-US"><div class="titlepage"><div><div><h1 id="systembackup" class="title">/root/SystemBackup</h1></div></div></div><div class="para">
+		 
+	</div><div class="para">
+		
+<pre class="screen">
+#!/bin/sh
+SAVESET=`date -u "+HGmidland-%y%m%d.tgz"`
+echo $SAVESET
+cd /root
+echo "/dev" &gt;./skips
+echo "/sys" &gt;&gt;./skips
+echo "/media" &gt;&gt;./skips
+echo "/tmp" &gt;&gt;./skips
+echo "/var/run" &gt;&gt;./skips
+echo "/mnt" &gt;&gt;./skips
+echo "/opt" &gt;&gt;./skips
+echo "/proc" &gt;&gt;./skips
+echo "/lost+found" &gt;&gt;./skips
+echo "/root/themes" &gt;&gt;./skips
+echo "/root/RPMs" &gt;&gt;./skips
+echo "*.rpm" &gt;&gt;./skips
+echo "*gz" &gt;&gt;.skips
+echo "/backup" &gt;&gt;.skips
+rm -f /backup/HGm*
+tar -czp --ignore-failed-read -f /backup/$SAVESET -X ./skips /
+rm -f ./skips
+</pre>
+
+	</div></div><ul class="docnav"><li class="previous"><a accesskey="p" href="crontab.html"><strong>Prev</strong>A. crontab</a></li><li class="up"><a accesskey="u" href="#"><strong>Up</strong></a></li><li class="home"><a accesskey="h" href="index.html"><strong>Home</strong></a></li><li class="next"><a accesskey="n" href="jnosbackup.html"><strong>Next</strong>C. /root/JNOSbackup</a></li></ul></body></html>
