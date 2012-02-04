@@ -393,12 +393,13 @@ function footer($start,$max,$revstring)
     echo "        </td>\n";
     echo "      </tr>\n";
     echo "    </table>\n";
+    echo "    <p><div align=\"right\"><g:plusone size=\"small\" annotation=\"inline\"></g:plusone></div></br>\n";
     if ( $start != "" )
 	echo "    Requested: " . $start . "<br />\n";
     if ( $max != "" )
 	echo "    Most recent data: " . $max . "<br />\n";
     echo "    Source " . $revstring . "<br />\n";
-    echo "    copyright &copy; 2007-2011, Michigan Section, American Radio Relay League\n";
+    echo "    copyright &copy; 2007-2011, Michigan Section, American Radio Relay League</p>\n";
     echo "  </div>\n";
 
 }
@@ -544,6 +545,13 @@ function ARESheader( $title, $keywords )
   <link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
   <!--<style type="text/css" media="all">@import "css/bluemarine.css";</style>-->
   <script type="text/javascript"> </script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 </head>
 
 <body>
