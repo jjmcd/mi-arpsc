@@ -84,15 +84,17 @@ Michigan.&quot;</i>
 </ul>
 </p>
 
-		<h1>MIARPSC Guidelines Document</h1>
+		<h1>2011 ARRL Simulated Emergency Test</h1>
 <p>
-Over approximately the past year, the DECs and a number of ECs have been working on a document to help focus who we are and what we do.  This has been a long hard road, but the result has been worth it.  After many edits, we have a document that the ARPSC leadership and the Michigan State Police leadership can all agree to.  This document is now available <a href="downloads/ARPSC_Mich_Guidelines.pdf">here</a>.<p>We will discuss this document at the upcoming EC meeting.  Those ECs wishing to roll it out to their programs before the EC meeting might want to take advantage of the <a href="downloads/Presentation_ARPSC_Guidelines.ppt">PowerPoint Presentation</a> that has also been prepared.  <i><b>Warning:</b> PowerPoint, Word and Excel documents can contain active content.  Whenever you download one of these documents or receive it in an email, you should always scan it for viruses before opening.</i><p>
 
-		<h1>EC Meeting</h1>
+The After-Action Report / Improvement Plan (AAR/IP) for the 2011 SET is <i>finally</i> 
+available in the <a href="Library.php" target="Library">Library</a>.  Follow the
+"Collection Here" link on the Library main page.
+</p>
 <p>
-A synopsis of the EC meeting which was held on October 27th is available
-<a href="txtblk.php?topic=10210">here</a>.
-<p>
+By FEMA guidelines, AARs are <u>For Official Use Only</u> so the document is protected 
+by password.  Contact the SEC to obtain a password.
+</p>
 
 
 
@@ -108,7 +110,7 @@ A synopsis of the EC meeting which was held on October 27th is available
 <?php
     sectLeaders($db);
     footer($starttime,$maxdate,
-      "\$Revision: 1.1 $ - \$Date: 2007-11-07 07:44:55-05 $");
+      "\$Revision: 1.2 $ - \$Date: 2012-02-04 17:02:35-04 $");
 ?>
 </div>
 </body>
