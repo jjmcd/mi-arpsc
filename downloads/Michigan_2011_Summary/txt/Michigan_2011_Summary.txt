@@ -1,0 +1,846 @@
+Product SiteDocumentation Site
+
+ARPSC
+
+
+
+Michigan 2011 Summary
+=====================
+
+
+An overview of the 2011 program year
+------------------------------------
+
+
+[IMAGE]
+
+
+John McDonough
+
+American Radio Relay League Michigan Sectionwb8rcr@arrl.net
+
+
+
+Legal Notice
+============
+
+Copyright© 2012, The Michigan Section of the American Radio Relay League
+The text of and illustrations in this document are licensed by the
+Michigan Section of the American Radio Relay League under a Creative
+Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+Working with state and local governments, as well as a wide variety of
+non-governmental agencies, Michigan amateurs participate in a wide range
+of public service and emergency preparedness activities. This report
+outlines the efforts of the 2011 calendar year.
+
+------------------------------------------------------------------------
+
+1. Overview
+
+2. Amateur Radio Emergency Service
+
+      2.1. Organization
+
+3. National Traffic System
+
+      3.1. Organization
+
+4. Individual Amateur Reporting
+
+      4.1. Public Service Honor Roll
+
+      4.2. Station Activity Reports
+
+      4.3. Brass Pounder's League
+
+5. Exercises
+
+      5.1. State-sponsored exercises
+
+      5.2. Section Exercises
+
+      5.3. 2012 Exercise Plans
+
+6. Internet-based Media
+
+      6.1. Electronic Mail
+
+      6.2. Web
+
+      6.3. Online Social Groups
+
+      6.4. Microblogging
+
+      6.5. Online Meetings
+
+      6.6. Wiki
+
+7. Year over year comparisons
+
+      7.1. ARES
+
+      7.2. NTS
+
+A. Revision History
+
+
+1. Overview
+-----------
+
+The Michigan Amateur Radio Public Service Corps (ARPSC) is an
+organization of over 2,000 amateur radio operators who participate in
+public service and emergency response activities. These include such
+things as providing communications for various walks and runs, as well as
+reporting storm damage, participating in search and rescue efforts, and
+providing backup communications for public safety officers. There are two
+primary programs, the Amateur Radio Emergency Services (ARES) and the
+National Traffic System (NTS). ARES provides "feet on the ground" for
+various events and incidents, while NTS provides a communications
+infrastructure that moves formal messages across the state and across the
+nation. There are two other programs, associated with ARES, which do not
+report independently. These are RACES and SKYWARN. RACES consists of
+those ARES members who have been approved by their local government to
+operate in critical areas such as incident scenes or Emergency Operations
+Centers. This approval generally requires a degree of training and a
+background check. The Michigan Section and the Michigan State Police have
+published suggested RACES qualifications, but the responsibility for
+vetting RACES members rests with the local Emergency Management
+Coordinator. Most counties follow the guidelines closely. SKYWARN members
+provide ground weather observations to their local jurisdictions and to
+the National Weather Service. SKYWARN members do not have to be ARES
+members, but almost always are, and most counties run SKYWARN programs as
+part of their ARES programs. SKYWARN observers are trained by the
+National Weather Service. Together, Michigan amateurs reported over
+138,000 volunteer hours during 2011 representing a contribution of almost
+$3 million [1]. This is up substantially over 2010 (88,368 hours).
+
+
+2. Amateur Radio Emergency Service
+----------------------------------
+
+ARES represents the largest program. ARES has a program in each Michigan
+county, managed by an Emergency Coordinator who works closely with the
+Emergency Management Director of the county to provide backup
+communications to the local jurisdiction. Because Michigan counties are
+so varied, the ARES organizations within those counties are quite varied.
+Although their primary customer is typically the county Emergency
+Management organization, they may also work with the local Red Cross,
+Salvation Army, and other NGOs. In some counties, the liaison with the
+fire departments or Sheriff's office is especially close. Each county has
+different needs, and the ARES organization attempts to meet those needs.
+In Michigan, and especially southern Michigan, severe weather is common,
+and in many cases, the greatest effort is expended with weather related
+activities. Amateurs spot bad weather and report to their National
+Weather Service office when bad weather is approaching, and following
+severe weather, are often involved in recovery operations. Late spring
+and early summer tend to be the time when damaging weather is
+encountered, and this is also the time that many organizations hold runs,
+walks and other events for which amateurs frequently provide
+communications. Hence, the peak in the middle of the year in the graph
+below: Michigan ARES Hours FSD-212 Results
+
+Figure 1. Michigan ARES Hours
+
+
+Michigan ARES programs reported 105,106 hours in 2011, over 24,000 of
+them occuring in May and June. Individual county reports are available at
+http://ares-mi.org/arpsc_ecrept.php. Links on the page allow viewing of
+individual county detail as well as previous reporting periods.
+
+
+2.1. Organization
+
+The Michigan State Police divides the state into 7 Districts, and
+appoints a District Coordinator for each. ARES has a District Emergency
+Coordinator for each of those districts, who works with the District
+coordinator. In addition, the Section appoints a District Emergency
+Coordinator for each of the National Weather Service offices in the
+state. This NWS DEC works with the office's Warning Coordination
+Meteorologist to provide training to SKYWARN members and implement
+circuits that permit field observations to be transmitted to the NWS
+office effectively. These DECs are as follows:
+
+District
+
+DEC Call
+
+DEC Name
+
+1
+
+K8YZA
+
+Joe Pullen
+
+2
+
+WF5X
+
+Randy Love
+
+3
+
+N8OSL
+
+Joe Tuscher
+
+5
+
+KB8FQJ
+
+Carl Flickinger
+
+6
+
+KB8VEE
+
+Tom van der Mel
+
+7
+
+WA8RLI
+
+Red Duggan
+
+8
+
+KG8NK
+
+Lou Gembolis
+
+APX
+
+WD8DX
+
+Jeff Morey
+
+DTX
+
+N8ZSA
+
+Ted Davis
+
+GRR
+
+N8VLN
+
+Michael Gage
+
+MQT
+
+KI8AF
+
+Greg Hanson
+
+Table 1. District Emergency Coordinators
+
+
+Each DEC coordinates a staff of Emergency Coordinators, one per county,
+who work with local emergency management to provide needed capabilities
+to the county. In addition, the Section Emergency Coordinator maintains a
+small staff to help organize the section. These assistant SECs are:
+
+Role
+
+ASEC Call
+
+ASEC Name
+
+SEOC Alternate
+
+N8ERF
+
+Dr. Dennis Klipa
+
+SEOC Station Manager
+
+K8RDN
+
+Robert Berger
+
+Training and Exercises
+
+NX8A
+
+John (Jack) Hutcheson
+
+Table 2. Assistant Section Emergency Coordinators
+
+
+3. National Traffic System
+--------------------------
+
+Michigan's National Traffic System consists of amateurs who send messages
+(called "traffic") around the Section and around the nation. These
+amateurs are organized into a group of on the air nets that meet
+frequently with the intent of passing messages. These are the "unsung
+heros" of ARPSC; many practice their skills every day, but they operate
+behind the scenes, out of the eye of the served agencies and the public.
+The individual nets report monthly. Michigan nets send approximately 1000
+messages a month. In 2011, they reported 17,053 messages passed. Not all
+traffic is reported, although the large number of non-reporting nets
+probably pass a small fraction of the messages. The chart below shows the
+performance across the year: Affiliated Net Reporting NTS Results
+
+Figure 2. Affiliated Net Reporting
+
+
+Detailed reports for the most recent month are available at
+http://nts-mi.org/netreport.php. Links on the page allow for viewing of
+previous reports or individual net history. Michigan amateurs also
+participate in other nets. The Eighth Region net takes messages destined
+for out of state addresses, and collects traffic bound for Michigan to
+pass to Michigan representatives who will then carry those messages to
+the Michigan nets. The Eastern Area Net interfaces with the Region nets
+to move traffic among the Regions in the Eastern Area. The
+Transcontinental Corps arranges to move traffic between the Areas.
+Michigan amateurs participate in all of these, however that effort is not
+reflected in Michigan reporting.
+
+
+3.1. Organization
+
+The bulk of the traffic is passed through nine affiliated nets. Each net
+has an appointed net manager, responsible for arranging net controls and
+liaisons to other nets, and for reporting monthly to the Section Traffic
+Manager. The affiliated nets and their net managers are:
+
+Net
+
+Call
+
+Net Manager
+
+Great Lakes Emergency and Traffic Net
+
+K8VFZ
+
+Grant Watson
+
+Michigan Amateur Communications System
+
+WB9JSR
+
+John Wehmer
+
+Michigan ARPSC Net
+
+WB8RCR
+
+John McDonough
+
+Michigan Digital Traffic Net
+
+N8FVM
+
+Ed Bassett
+
+Michigan Traffic Net
+
+WB8WKQ
+
+Jeff Miller
+
+Michigan VHF Traffic Net
+
+AC8AR
+
+Flora Jean Young
+
+QMN, The Michigan Net
+
+K8AE
+
+Anne Travis
+
+Southeast Michigan Traffic Net
+
+WB8WKQ
+
+Jeff Miller
+
+Thumb and Mid-Michigan Traffic Net
+
+K8VFZ
+
+Grant Watson
+
+Upper Peninsula Net
+
+WA8DHB
+
+Aileen Gagnon
+
+Table 3. Net Managers
+
+
+To be eligible for affiliation, a net must report regularly and maintain
+liaison with other National Traffic System nets. In addition, there are
+perhaps 40 other nets operating within the state, approximately ten of
+which report regularly. The STM has a small number of assistants who
+engage in projects such as liaison with other entities, training, and
+administrative duties:
+
+Call
+
+ASTM
+
+KB8RCR
+
+Ryan Lughermo
+
+WD8USA
+
+Joe Bell
+
+Table 4. Assistant Section Traffic Managers
+
+
+4. Individual Amateur Reporting
+-------------------------------
+
+In addition to reporting by Emergency Coordinators and Net Managers,
+individual amateurs are also encouraged to make reports. There are three
+reports from individuals; Public Service Honor Roll, Station Activity
+Report, and Brass Pounder's League.
+
+
+4.1. Public Service Honor Roll
+
+The Public Service Honor Roll reporting combines activity in a number of
+categories. Stations get "points" for net checkins, traffic, Section
+level appointments, public service oriented web or other digital systems,
+and hours spent in public or emergency service. If a station reports 70
+points within a month, that station is listed in QST, the amateur radio
+journal. If a station is listed for 12 consecutive months, or for 18
+months out of 24, the League will issue a certificate. PSHR reporting for
+2011 has been relatively flat across the year. The summer months tend to
+be higher due to bad weather and various public service events.
+Public Service Honor Roll Reporting PSHR Results
+
+Figure 3. Public Service Honor Roll Reporting
+
+
+4.2. Station Activity Reports
+
+Stations handling traffic are encouraged to submit Station Activity
+Reports (SAR) indicating the amount of traffic handled. 42 stations
+reported during 2011, up from 31 in 2010. Since most of the traffic is
+handled by relatively few stations, and those stations tend to be the
+stations that report, the traffic totals reported are quite high.
+Stations handling a lot of traffic tend to be those stations that act as
+liaisons to Region or Area nets, so even though the number of stations
+reporting is quite small, the amount of traffic reported is considerably
+larger than the totals from net reports, which include only messages
+passed on Michigan nets. For 2011, Michigan stations individually
+reported 42,157 messages. Station Activity Reports SAR Results
+
+Figure 4. Station Activity Reports
+
+
+4.3. Brass Pounder's League
+
+Stations reporting 500 messages passed in a single month, or a total of
+100 originations plus deliveries are eligible for Brass Pounder's league.
+This requires substantial dedication, and only a few stations achieve
+this award. The stations qualifying in 2011 were:
+
+Call
+
+Name
+
+Total
+
+WB9JSR
+
+John Wehmer
+
+9473
+
+WB8WKQ
+
+Jeff Miller
+
+6665
+
+K8LJG
+
+John Kroll
+
+1666
+
+K8RDN
+
+Bob Berger
+
+583
+
+Table 5. Brass Pounder's League
+
+
+5. Exercises
+------------
+
+Local programs participate in numerous local and District-wide exercises
+on a regular basis. There are also a number of statewide exercises in
+which the Section participates.
+
+
+5.1. State-sponsored exercises
+
+The State of Michigan performs a number of drills and exercises each
+year, most commonly concerned with nuclear power plants. During these
+drills and exercises, the State EOC station is activated, the SEC or his
+delegate participates in the EOC, and programs in the affected counties
+are activated.
+
+Date
+
+Exercise
+
+Counties
+
+January 21
+
+D. C. Cook Drill #1
+
+Berrien
+
+February 15
+
+D. C. Cook Drill #2
+
+Berrien
+
+March 1
+
+D. C. Cook Full-scale Exercise
+
+Berrien
+
+May 17
+
+New Madrid Aftermath TTX/FE
+
+All
+
+Table 6. Michigan State Drills and Exercises
+
+
+5.2. Section Exercises
+
+The Section also organizes statewide exercises each year. Section
+exercises, unlike State-sponsored exercises, tend to be functional,
+exercising primarily communications skills, and are developed to attempt
+to engage all the counties within the state. The Section has continued to
+work on the ARES/NTS interface and held two drills in 2011 to develop
+that skill. A Section-wide exercise was held in conjunction with the
+State's New Madrid Aftermath exercise, and the annual SET was also used
+to develop that skill. In addition, also in conjunction with NMA, A drill
+was held with the State of Indiana to exercise sending a specific form
+between state EOCs. Only a relatively few stations participated in that
+drill, which also involved Michigan Army MARS and Indiana Navy MARS. One
+objective for 2011 was to make better use of FEMA's HSEEP for exercises.
+The Indiana drill moved us quite far in that direction, and the October
+SET followed the FEMA procedures quite closely.
+
+
+5.3. 2012 Exercise Plans
+
+Emergency Coordinators have consistently asked for more statewide drills,
+with the most common request being for four per year. However, the FEMA
+HSEEP process proved to be quite burdensome, but also valuable. It seems
+unrealistic to expect the staff to prepare more than two exercises per
+year. For the 2012 cycle, our goals are as follows:
+
+Timeframe
+
+  *  2012
+
+Present Problems
+
+  *  Interface with State Agencies is weak or nonexistent
+
+  *  Little knowledge of contacting other state EOCs
+
+  *  Documentation of plans and procedures is badly lacking
+
+Long Range Goal
+
+  *  Serve effectively as a partner to State Agencies as well as local
+    agencies.
+
+Functional Objectives
+
+  *  Develop relationships with some State Agencies
+
+  *  Develop multiple circuits to nearby state EOCs
+
+  *  Continue to develop HSEEP skills
+
+Table 7. 2011 Objectives
+
+
+The plan for 2012 is as follows:
+
+Ex12-1 2Q2012
+
+  * Exercise: Functional Drill
+
+  * For: Section
+
+  * Purpose: Develop digital skills
+
+  * Rationale: It has been some time since we exercised HF Digital
+
+Ex12-2 4Q2012
+
+  * Exercise: Functional Drill
+
+  * For: Section
+
+  * Purpose: Exercise IP from 2011 SET
+
+  * Rationale: The 2011 SET led to a well considered improvement plan. A
+    year later it would be good to get a checkpoint on progress on that
+    improvement plan.
+
+Table 8. Planned 2011 Exercises
+
+
+6. Internet-based Media
+-----------------------
+
+The section utilizes a number of electronic media to communicate with
+members and potential members.
+
+
+6.1. Electronic Mail
+
+The Section Emergency Coordinator maintains an email list of all
+Emergency Coordinators and District Emergency coordinators and uses this
+as a primary means of direct communications with the ECs. The Section
+Traffic Manager maintains a similar list of Net Managers.
+
+
+6.2. Web
+
+ARPSC maintains two web sites, one for ARES and one for NTS. There is
+also a Section web site for more general information, and a web site
+maintained by the Digiral Radio Group.
+
+Site
+
+URL
+
+Content
+
+Michigan Section
+
+http://arrl-mi.org
+
+Section news of general interest to amateurs in the Michigan Section
+
+Amateur Radio Emergency Services
+
+http://ares-mi.org
+
+Reference information of interest to ARES members, as well as performance
+data
+
+National Traffic System
+
+http://www.nts-mi.org
+
+Reference information of interest to NTS members, as well as performance
+data
+
+Digital Radio Group
+
+http://www.mi-drg.org
+
+Reference information concerning various digital modes, especially
+packet.
+
+Table 9. Web Sites
+
+
+The screenshot below shows an example page from the ares-mi.org site.
+mi-arpsc Website ARPSC website
+
+Figure 5. mi-arpsc Website
+
+
+In addition to the Section sites, many Districts and Nets also maintain
+web sites. In early 2011, the web provider lost the mi-nts.org domain
+name which had been registered through the provider. mi-arpsc.org was a
+subdomain of mi-nts.org. The result was that both websites were down for
+some time. The SEC purchased the ares-mi.org and nts-mi.org domain names
+and moved these to a new server. mi-arpsc.org was redirected to
+ares-mi.org. The new web provider offers some features lacking in the
+earlier site, however, it is lacking a feature which had been used to
+provide RSS feeds for the web sites. The RSS feed has not yet been
+restored.
+
+
+6.3. Online Social Groups
+
+The Section also maintains two Yahoo groups, the MIARPSC group is
+available to all Michigan amateurs, and is often useful for a number of
+discussions. The MIARPSC-DEC group is private to DECs and ADECs, and is
+used for discussions within a smaller group. As with websites, many
+Districts and nets have found it helpful to maintain their own groups,
+most of these also on Yahoo.
+
+
+6.4. Microblogging
+
+The section maintains two microblogging accounts; miarpsc on identi.ca
+and mi_arpsc on twitter.com. "Tweets" or "dents" are sent to these sites
+periodically to remind followers of various upcoming events. Both sites
+get exactly the same feed. There is also a page on the mi-arpsc web site,
+http://www.ares-mi.org/arpsc_tweets.php where those who do not follow
+either microblogging site may view the feed. ARPSC Twitter Feed Twitter
+Feed
+
+Figure 6. ARPSC Twitter Feed
+
+
+The section tries to keep the volume to a few tweets a week to prevent
+followers from feeling that the feed is too burdensome. Many of the
+tweets use the #hamr hash tag, causing those that follow amateur radio
+tweets to also see the messages.
+
+
+6.5. Online Meetings
+
+Meetings within smaller groups are often held remotely. Simple phone
+conferences are frequently used. In addition, Vyew allows documents to be
+shared online during these phone conferences. An example of an online
+meeting in Vyew is shown below: Example Online Meeting Vyew
+
+Figure 7. Example Online Meeting
+
+
+6.6. Wiki
+
+The section also maintains a wiki which is used by the ARPSC leadership
+to develop certain plans and strategies. A wiki allows all participants
+to contribute asynchronously to a "document", which in many cases can be
+helpful. Example Wiki Page Wiki Page
+
+Figure 8. Example Wiki Page
+
+
+The wiki is maintained on github which keeps a historical record and
+allows easy rollback of changes if necessary.
+
+
+7. Year over year comparisons
+-----------------------------
+
+It can be interesting to compare the current year to previous years, both
+to spot longer term trends as well as pick up causes of variations which
+may be used for improvements and remediation.
+
+
+7.1. ARES
+
+ARES hours across the emergency and public service categories are
+relatively flat. As might be expected, emergency hours tend to be higher
+in bad weather years. It is interesting that public service hours tend to
+track emergency hours; perhaps indicating that active years also lead to
+more reporting. Active years also tend to show an increase in drills. Not
+only do active years encourage interest, but bad weather damages amateur
+radio infrastructure as well, and programs tend to hold drills to test
+newly repaired or installed equipment. The spike in Drills for 2011
+should not be a surprise. Both the New Madrid Aftermath exercise and the
+SET involved more effort and more amateurs than most previous drills.
+ARES hours by category FSD-212 Results
+
+Figure 9. ARES hours by category
+
+
+7.2. NTS
+
+The number of checkins experienced by the nets in the section has
+remained relatively flat (notice that the entire Y axis only covers a
+range of about 25%). It is not clear what caused the depression of
+2007-2008. The drop for 2011 is probably somewhat permanent. The
+Wolverine Net had been an NTS affiliated traffic net. Over the years the
+traffic has dwindled, and last year that net asked to drop its
+affiliation with NTS, and along with it, their reporting. In addition,
+the Northern Lower Eastern Upper Peninsula net has been without
+leadership, and hence, without reporting. Net Checkins Net Reports
+
+Figure 10. Net Checkins
+
+
+Traffic, however, has trended relentlessly upward. The steeper slope of
+traffic reported by individuals, as compared to that reported by nets, is
+probably due to two causes:
+
+  1.  KB8RCR has been actively encouraging reporting, especially
+    individual reporting. The number of amateurs reporting their station
+    activity has increased significantly over the past few years.
+
+  2.  More and more Michigan amateurs are becoming involved in Region and
+    Area nets, and even in the Transcontinental Corps. These tend to be
+    very high traffic stations, and much of their traffic does not appear
+    on Michigan nets.
+
+Traffic Traffic
+
+Figure 11. Traffic
+
+
+A. Revision History
+-------------------
+
+Revision History
+
+Revision 1.0
+
+Wed Feb 29 2012
+
+John McDonough
+
+Remove draft tag
+
+Revision 0.2
+
+Tue Feb 28 2012
+
+John McDonough
+
+Initial draft completed
+
+Revision 0.1
+
+Mon Feb 27 2012
+
+John McDonough
+
+Initial creation of book by publican
+
+
+------------------------------------------------------------------------
+
+[1] $2.95 million based on the Independent Sector value of $21.36 per
+volunteer hour for 2010. 2011 value was not yet available at the time of
+this writing.
