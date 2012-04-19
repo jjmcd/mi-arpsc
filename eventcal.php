@@ -35,11 +35,17 @@
   $enddate = strftime("%Y-%m-%d",$then);
   // Will want to remember when month changes
   $prevmonth = " ";
+  $ifall = $_GET['all'];
 
   // Get the events for the next 90 days
   $s1 = "SELECT `eventdate`, `eventtext`, `url`, `flag` FROM " .
     "`arpsc_events` WHERE `eventdate`>'" . $searchdate . "' AND " .
     "`eventdate`<'" . $enddate . "' ORDER BY `eventdate`";
+  if ( !strcmp($ifall,"yes") )
+  $s1 = "SELECT `eventdate`, `eventtext`, `url`, `flag` FROM " .
+    "`arpsc_events` WHERE `eventdate`>'" . $searchdate . 
+    "' ORDER BY `eventdate`";
+
   $r1 = getResult($s1,$db);
 
   // Loop through the events in the database
@@ -64,7 +70,7 @@
       // If there is no URL, just display the event name
       if ( $row1[2] == '' )
 	{
-	  echo $row1[1];
+	  echo "<span " . $st . " >" .  $row1[1] . "</span>";
 	}
       // Otherwise display the name as a link to the URL
       else
