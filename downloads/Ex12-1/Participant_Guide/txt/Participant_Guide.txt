@@ -1,0 +1,216 @@
+Product SiteDocumentation Site
+
+Exercise 12-1
+
+
+
+Participant Guide
+=================
+
+
+Spring 2012 Digital Drill
+-------------------------
+
+
+[IMAGE]
+
+
+John McDonough
+
+American Radio Relay League Michigan SectionDude.McPants@example.com
+
+
+
+Legal Notice
+============
+
+Copyright© 2012, Michigan Section of the American Radio Relay League The
+text of and illustrations in this document are licensed by the Michigan
+Section of the American Radio Relay League under a Creative Commons
+Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An
+explanation of CC-BY-SA is available at
+http://creativecommons.org/licenses/by-sa/3.0/. The original authors of
+this document designate the Michigan Section of the American Radio Relay
+League as the "Attribution Party" for purposes of CC-BY-SA. In accordance
+with CC-BY-SA, if you distribute this document or an adaptation of it,
+you must provide the URL for the original version. The Michigan Section,
+as the licensor of this document, waives the right to enforce, and agrees
+not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by
+applicable law. The ARRL Diamond and logo, the ARES logo and the ARPSC
+logo are registered trademarks of the American Radio Relay League in the
+United States and other countries. All other trademarks are the property
+of their respective owners.
+
+Abstract
+
+On May 12, 2012, the Michigan Section will conduct a statewide digital
+drill. This document provides an introduction to that drill for
+participants.
+
+------------------------------------------------------------------------
+
+1. Introduction
+
+2. Scenario
+
+3. Conduct
+
+A. Operational Specifics
+
+      A.1. Operating Mode
+
+      A.2. Operating Frequency
+
+      A.3. Forms used
+
+B. Revision History
+
+
+1. Introduction
+---------------
+
+On May 12 the section will conduct a statewide digital drill. Unlike
+recent exercises, the drill will be aimed at ARES programs with no
+planned NTS participation. However, Districts may choose to enlist the
+aid of their designated NTS net. This is intended to be a very simple
+exercise to test digital capabilities. There should be plenty of time for
+each county to conduct local exercises practicing those skills important
+to that jurisdiction.
+
+
+2. Scenario
+-----------
+
+Critical infrastructure at scattered locations around the state is
+failing for no obvious reason. Individuals in many key positions are
+failing to appear at work and have been impossible to contact. There are
+rumors of illness but no verification. The Michigan Department of
+Community Health has identified two cases of the H5N1 virus in the state,
+one in Oceana county and the other in Emmett county. These cases do not
+appear to be related. However, these two areas have also been affected by
+spotty infrastructure failures. Reported Incidents Michigan map showing
+report locations
+
+Figure 1. Reported Incidents
+
+
+Because there seems to be no apparent pattern to the problems across the
+state, there is some suspicion that this is somehow related to a hostile
+action, but it is important to note that this is only a suspicion. To
+ensure the availability of auxiliary communications resources, the
+Section Emergency Coordinator is attempting to identify all available
+resources across the state, and obtain contact information for these
+resources that does not rely on commercial infrastructure. Because it is
+unknown whether some hostile action is involved, all transmissions should
+contain only required information with no explanations. Information
+transmitted should contain minimum information which may be of use to an
+adversary.
+
+
+3. Conduct
+----------
+
+At approximately 0800 local on May 12, the State Emergency Operations
+Center will send a query requesting specific details of resources to each
+District. The District is expected to pass this query along to each
+county for their response. The individual counties may respond directly
+to the SEOC, or may instead pass the response to the DEC or his delegate
+to relay to the SEOC. Message Flow flow of traffic
+
+Figure 2. Message Flow
+
+
+The SEOC will operate MT-63/1K at 3.584 MHz center frequency. Should the
+F2 critical frequency exceed 9 MHz or the D layer absorption exceed 6dB
+at 3.5 MHz, the SEOC will move to 7.036 MHz center frequency. All traffic
+to and from the SEOC will be in MT-63/1K, flmsg wrapped. All traffic will
+use the appropriate ICS forms. In addition to the original query, the
+SEOC may learn more as the situation evolves, and will notify the
+Districts via the same method. Districts should continue to monitor the
+SEOC frequency during the exercise. Individual counties are encouraged to
+include local activities designed to exercise specific skills needed for
+that county. It is possible that some counties may experience injects
+which do not come directly from the SEOC. The exercise will complete at
+1200 local. Individual jurisdictions may, of course, choose to continue
+activities past that time.
+
+
+A. Operational Specifics
+------------------------
+
+
+A.1. Operating Mode
+
+  *  MT-63
+
+  *  1K Wide
+
+  *  64 bit (long) interleave
+
+
+A.2. Operating Frequency
+
+  *  Dial frequency: 3583 kHz
+
+  *  Radio Mode: Upper sideband
+
+  *  Center Frequency: 3584 kHz (+/- QRM)
+
+  *  Alternate Center Frequency: 7036 kHz
+
+Important settings fldigi
+
+Figure A.1. Important settings
+
+
+A.3. Forms used
+
+  *  ICS-205a
+
+  *  ICS-213
+
+  *  Others as needed
+
+Example 205a fldigi
+
+Figure A.2. Example 205a
+
+
+B. Revision History
+-------------------
+
+Revision History
+
+Revision 1.0
+
+Wed Apr 25 2012
+
+John McDonough
+
+Remove draft status
+
+Distribute
+
+Revision 0.2
+
+Wed Apr 25 2012
+
+John McDonough
+
+Minor typographical corrections
+
+Revision 0.1
+
+Tue Apr 24 2012
+
+John McDonough
+
+First draft
+
+Revision 0.0
+
+Mon Apr 23 2012
+
+John McDonough
+
+Initial creation of book by publican
