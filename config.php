@@ -42,8 +42,8 @@ $dbType = 'mysql';
 $DatabaseName = 'mi-nts_org_-_website';
 
 // sql user & password
-$dbuser = 'wb8rcraaaaaaaaaa';
-$dbpassword = 'wb8rcr';
+$dbuser = 'mi_nts_db_user';
+$dbpassword = 'slartybaardfarst';
 
 //The maximum time that a login session can be idle before automatic logout
 //time is in seconds  3600 seconds in an hour

@@ -34,7 +34,7 @@ $SQL="SELECT A.`x`,A.`y`,A.`frequency`,B.`district`,A.`valid` " .
 $res=getResult($SQL,$db);
 
 // Print the frequencies on the image
-while( $row = getRow( $res, $db ) )
+while( $row = getRow( $res ) )
   {
     // Only valid data
     if ( $row[4] )

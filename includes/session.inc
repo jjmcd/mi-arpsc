@@ -1,8 +1,8 @@
 <?php
-/* $Revision: 2.0 $ */
+/* $Revision: 1.1 $ */
  
     
-#include('config.php');
+include('config.php');
         
 if (isset($SessionSavePath)){
 	session_save_path($SessionSavePath);
@@ -38,11 +38,5 @@ function getMsg($msg,$type='info',$prefix=''){
 	return '<FONT COLOR="' . $Colour . '"><B>' . $prefix . '</B> : ' .$msg . '</FONT>';
 }//getMsg
 
-$cr1="YXJwc2NkYmFkbWlu";
-$cr2="Rm9yZFByZWZlY3Q2NA==";
-$cr3="YXJwc2NkYnVzZXI=";
-$cr4="d2E4ZWZrV2I4cmNy";
-$cr5="YXJwc2NkYmFkbWlu";
-$cr6="YXJwc2NkYmFkbWluLmRiLjc2MTA2NDAuaG9zdGVkcmVzb3VyY2UuY29t";
 
 ?>

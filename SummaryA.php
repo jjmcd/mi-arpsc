@@ -92,6 +92,9 @@ echo "    <table width=\"90%\">\n";
 
 $monthlongnames = array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
 $class=$s1;
+$total212=0;
+$totalem=0;
+$totalps=0;
 echo "      <tr><th>Period</th><th>Public Service</th><th>Emergency</th><th>Total Hours</th></tr>\n";
 for ($i=0; $i<12; $i++)
 {
@@ -103,8 +106,12 @@ for ($i=0; $i<12; $i++)
     echo "        <td " . $class . ">" . (int)($emghours[$i]) . "</td>\n";
     echo "        <td " . $class . ">" . (int)($totalhours[$i]) . "</td>\n";
     echo "      </tr>\n";
+    $totalps = $totalps + (int)($pshours[$i]);
+    $totalem = $totalps + (int)($emghours[$i]);
+    $total212 = $total212 + $totalhours[$i];
 }
 echo "    </table>\n";
+echo "<p>em = $totalem, ps = $totalps, Total = $total212 </p>\n";
 echo "    <p>&nbsp;</p>\n";
 echo "    <img src=\"sum212gl.php?period=" . $p9 . "\">\n";
 
@@ -121,6 +128,7 @@ echo "      underestimates those hours.</p>\n";
 echo "  <center>\n";
 echo "    <table width=\"90%\">\n";
 echo "      <tr><th>Period</th><th>Checkins</th><th>Messages</th><th>Time</th><th>Sessions</th><th>Total Hours</th></tr>\n";
+$totalnet=0;
 for ($i=0; $i<12; $i++)
 {
     $period = $p1 + $i;
@@ -158,8 +166,10 @@ for ($i=0; $i<12; $i++)
     echo "        <td " . $class . ">" . $sessions . "</td>\n";
     echo "        <td " . $class . ">" . (int)($manhours+0.5) . "</td>\n";
     echo "      </tr>\n";
+    $totalnet = $totalnet + $manhours;
 }
 echo "    </table>\n";
+echo "<p>Total = $totalnet</p>\n";
 echo "    <p>&nbsp;</p>\n";
 echo "    <img src=\"sumnetgl.php?period=" . $p9 . "\">\n";
 
@@ -180,6 +190,7 @@ echo "      have been included by ECs in the FSD-212 results.</p>\n";
 echo "  <center>\n";
 echo "    <table width=\"90%\">\n";
 echo "      <tr><th>Period</th><th>Public Service Hrs</th><th>Emergency Ops Hrs</th><th>Total Score</th></tr>\n";
+$totalpshr = 0;
 for ($i=0; $i<12; $i++)
 {
     $period = $p1 + $i;
@@ -204,8 +215,10 @@ for ($i=0; $i<12; $i++)
     echo "        <td " . $class . ">" . (int)($unplan/5) . "</td>\n";
     echo "        <td " . $class . ">" . (int)($score) . "</td>\n";
     echo "      </tr>\n";
+    $totalpshr = $totalpshr +  (int)($plan/5) + (int)($unplan/5);
 }
 echo "    </table>\n";
+echo "<p>Total = $totalpshr</p>\n";
 echo "    <p>&nbsp;</p>\n";
 echo "    <img src=\"sumpshrgl.php?period=" . $p9 . "\">\n";
 
@@ -285,6 +298,9 @@ else
 echo "    </table>\n";
 echo "    <p>&nbsp;</p>\n";
 echo "    </center>";
+$grand = (int)($total212 + $totalnet + $totalpshr + 0.5);
+$dollars = (int)($grand * 18.11 + 0.5);
+echo "<p><b>Grand total = $grand, dollar value = \$$dollars</b></p>\n";
 echo "  </div>\n\n";
 
 sectLeaders($db);

@@ -18,7 +18,7 @@ $starttime = strftime("%A, %B %d %Y, %H:%M");
 // Open the database
 $db = mysql_connect($host , $dbuser, $dbpassword);
 mysql_select_db($DatabaseName,$db);
-
+$hourvalue=21.79;
 // $period=92;
 
     // Get the requested period, if blank choose the latest
@@ -118,7 +118,7 @@ while ( $row1 = getRow($r1,$db) )
     if ( $row5 = getRow($r5,$db) )
 	{
 		    $hours = $row5[2]+$row5[4]+$row5[6]+$row5[8];
-		    $value = $hours * 18.11;
+		    $value = $hours * hourvalue;
 		    $aresmem=$row5[0];
 		    $netsess=$row5[1];
 		    $nethrs= $row5[2];
@@ -144,8 +144,14 @@ while ( $row1 = getRow($r1,$db) )
 	    if ( $row3 = getRow($r3,$db) )
 		{
 		    $hours = $row3[2]+$row3[4]+$row3[6]+$row3[8];
-		    $value = $hours * 18.11;
+		    $value = $hours * $hourvalue;
 		    $lastperiod = $period-1;
+		$qb="SELECT MAX(`PERIOD`) FROM `arpsc_ecrept` WHERE `county`='"
+		 . $row2[1] . "' AND `PERIOD`<" . $period;
+		$rb=getResult($qb,$db);
+		//$lastperiod=$rb;
+		$rob=getRow($rb,$db);
+		$lastperiod=$rob[0];
 		    $q4="SELECT `aresmem` FROM `arpsc_ecrept` WHERE `county`='" . $row2[1] . 
 			"' AND `period`=" . $lastperiod;
 		    $r4=getResult($q4,$db);
@@ -194,7 +200,7 @@ while ( $row1 = getRow($r1,$db) )
 		}
 	}
     $manhrs = $nethrs + $pshrs + $emhrs + $adhrs;
-    $value = $manhrs * 18.11;
+    $value = $manhrs * $hourvalue;
     echo "\t<tr>\n";
     echo "\t\t<td " . $s1 . ">" . $district . " </td>\n";
     echo "\t\t<td " . $s1 . ">" . " " . " </td>\n";
@@ -281,7 +287,7 @@ while ( $row1 = getRow($r1,$db) )
 		    if ( $row3 = getRow($r3,$db) )
 			{
 			    $hours = $row3[2]+$row3[4]+$row3[6]+$row3[8];
-			    $value = $hours * 18.11;
+			    $value = $hours * $hourvalue;
 			    $lastperiod = $period-1;
 			    $q4="SELECT `aresmem` FROM `arpsc_ecrept` WHERE `county`='" . $row2[1] . 
 				"' AND `period`=" . $lastperiod;
@@ -325,7 +331,7 @@ while ( $row1 = getRow($r1,$db) )
 			}
 		    else
 			{
-			  if ( $row2[0]=='Arenac' )
+/*===>			  if ( $row2[0]=='Arenac' )
 			    {
 			      if ( $district != $olddistrict )
 				{
@@ -336,6 +342,7 @@ while ( $row1 = getRow($r1,$db) )
 			      echo "\t\t<td " . $s1L . " colspan=\"10\">" . "w/Ogemaw" . "</td>\n";
 			      echo "\t</tr>\n";
 			    }
+=====*/
 			  /*
 			  else if ( $row2[0]=='Clare' )
 			    {
@@ -349,7 +356,7 @@ while ( $row1 = getRow($r1,$db) )
 			      echo "\t</tr>\n";
 			    }
 			  */
-			  else
+			  /*====else====*/
 			    {
 			      echo "\t<tr>\n";
 			      if ( $district != $olddistrict )
@@ -372,7 +379,7 @@ while ( $row1 = getRow($r1,$db) )
 	    if ( $row5 = getRow($r5,$db) )
 		{
 			    $hours = $row5[2]+$row5[4]+$row5[6]+$row5[8];
-			    $value = $hours * 18.11;
+			    $value = $hours * $hourvalue;
 			    echo "\t\t<td " . $s1 . ">Staff</td>\n";
 			    echo "\t\t<td " . $s1 . ">" . round($hours) . "</td>\n";
 			    echo "\t\t<td " . $s1 . ">$" . round($value) . "</td>\n";

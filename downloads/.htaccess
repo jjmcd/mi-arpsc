@@ -1,4 +1,4 @@
-AuthUserFile /var/chroot/home/content/40/7610640/arpsc.restrict
+AuthUserFile /var/www/html/arpsc/protected/.htpasswd
 AuthGroupFile /dev/null
 AuthName arpsc
 AuthType Basic

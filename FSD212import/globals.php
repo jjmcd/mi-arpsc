@@ -26,7 +26,7 @@
         //! Allowed csv file types
         $GLOBALS['allowedcsvfiletypes'] = array ("csv","txt");
         //! Allowed csv mime types
-        $GLOBALS['allowedcsvmimetypes'] = array ("text/csv","text/plain","application/vnd.ms-excel");
+$GLOBALS['allowedcsvmimetypes'] = array ("text/csv","text/plain","application/vnd.ms-excel","application/octet-stream");
         //$GLOBALS['uploaderror'];
         //! Remember whether there was an error uploading
         global $uploaderror;

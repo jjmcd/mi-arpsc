@@ -27,7 +27,7 @@
 <?php
 
   // Identify districts
-  $q1='SELECT `districtkey`, `district_code`, `arpsc_district`, `deccall` from `arpsc_districts` ' .
+  $q1='SELECT `districtkey`, `district_code`, `arpsc_district`, `deccall`,`acting` from `arpsc_districts` ' .
      ' WHERE `districtkey`<199 ORDER BY `district_code`';
   $r1=getResult($q1,$db);
 
@@ -37,6 +37,9 @@
       // Pick up name of DEC
       $qdec="SELECT `name` FROM `calldirectory` WHERE `callsign`='" . $row1[3] . "'";
       $decname = '';
+      $decacting = '';
+      if ( $row1[4]==1 )
+	$decacting = "*";
       $rdec = getResult($qdec,$db);
       // Display DEC name along with district map
       echo "    <table width=\"100%\">\n      <td>\n";
@@ -57,7 +60,7 @@
 	}
       else
 	{
-	  echo "<br />" . $decname . ", " . $row1[3] . "</h2>\n";
+	  echo "<br />" . $decname . ", " . $row1[3] . $decacting . "</h2>\n";
 	}
       echo "      </td>\n      <td width=\"97px\">\n        <img src=\"images/D" .
 	$row1[0] . ".gif\" width=\"97\" height=\"96\">\n      </td>\n    </table>\n";
@@ -65,7 +68,7 @@
       if ( $row1[0]<100 )
 	{
 	  echo "    <ul>\n";
-	  $q2="SELECT `countyname`, `countycode`, `eccall` FROM `arpsc_counties` WHERE `district`='" .
+	  $q2="SELECT `countyname`, `countycode`, `eccall`, `acting` FROM `arpsc_counties` WHERE `district`='" .
 	    $row1[0] . "' ORDER BY `countyname`";
 
 	  $r2=getResult($q2,$db);
@@ -92,13 +95,16 @@
 		      $eccall = $ecname . ", " . $eccall;
 		    }
 		}
-
-	      echo "      <b>" . $row2[0] . " - " . $eccall . "</b><br />\n";
+	      $acting = '';
+	      if ( $row2[3]=='1' )
+		$acting = "*";
+	      echo "      <b>" . $row2[0] . " - " . $eccall . $acting .  "</b><br />\n";
 	    }
 	  echo "    </ul>\n";
 	}
     }
 
+  echo "* = Acting<br />\n";
   echo "  </div>\n";
   sectLeaders($db);
   footer($starttime,$maxdate,

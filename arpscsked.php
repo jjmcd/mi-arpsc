@@ -40,20 +40,20 @@
   // This array is indexed by week number.  It contains the number of the
   // district responsible for net control, with 0 being the staff.
   $ncs = array( 80,
-		0,2,3,5,6,    //Jan
-		0,7,8,1,
-		0,2,3,5,
-		0,-1,6,7,8,    // Apr
-		0,1,-1,2,
-		0,3,5,6,
-		0,7,8,1,2,    // Jul
-		0,3,5,6,
-		-1,0,7,8,1,
-		0,2,3,5,      // Oct
+		0,2,3,5,    //Jan
 		0,6,7,8,
-		0,1,2,3
+		0,1,2,3,-1,
+		0,5,6,7,    // Apr
+		0,8,-1,1,
+		0,2,3,5,6,
+		0,7,8,1,    // Jul
+		0,2,3,5,
+		-1,0,6,7,8,
+		0,1,2,3,      // Oct
+		0,5,6,7,
+		0,8,1,2,3
 		);
-  $thisyear = 2012;
+  $thisyear = 2013;
 
   $inmonth = $_GET['m'];
   if ( $inmonth < 1 )

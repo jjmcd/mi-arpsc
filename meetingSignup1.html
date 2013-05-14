@@ -1,0 +1,423 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Meeting Signup</title>
+  <meta name="KEYWORDS" content="ARES Michigan Section ARPSC" />
+  <style type="text/css" media="all">@import "css/arrl3c.css";</style>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.arrl-mi.org/?q=rss.xml" />
+  <link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+  <!--<style type="text/css" media="all">@import "css/bluemarine.css";</style>-->
+  <script type="text/javascript"> </script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</head>
+
+<body>
+<div id="container">
+  <div id="masthead">
+    <table border="0" cellpadding="0" cellspacing="0" id="header" width="100%">
+      <tr>
+        <td id="logo1"></td>
+        <td id="logo2" width="200px">
+          <a href="/" title="Home"><img src="images/arrlmi.gif" alt="Home" /></a>
+        </td>
+        <td id="logo3"><h1 class='site-name'><a href="/" title="Home">Michigan Section ARES</a></h1>
+          <div class='site-slogan'>part of the Amateur Radio Public Service Corps</div><br />&nbsp;
+        </td>
+        <td id="logo4" width="125px">
+          <img align="right" src="images/ares.gif" alt="NTS" />
+        </td>
+      </tr>
+    </table>
+  </div>
+<!-- =================Onexit ARESheader============= -->
+
+<!-- ONENTRY leftBar -->
+  <div id="navbar">
+    <h2 class="title"><a href="index.php">Home</a></h2>
+    <ul>
+      <li><a href="updates.php">Site updates</a></li>
+    </ul>
+    <p><hr size="1" /></p>
+    <h2 class="title">News</h2>
+    <ul>
+      <li><a href="arpsc_tweets.php">Twitter timeline</a></li>
+      <li><a href="AlertTweets.php">Alerts</a></li>
+    </ul>
+    <p><hr size="1" /></p>
+    <h2 class="title">Performance</h2>
+    <ul>
+      <li><a href="arpsc_ecrept.php">FSD-212 Results</a></li>
+      <li><a href="Summary.php">12-month summary</a></li>
+    </ul>
+    <p><hr size="1" /></p>
+    <h2 class="title">Initiatives</h2>
+    <ul>
+      <li><a href="txtblk.php?topic=10340">Spring 2012 Exercise</a></li>
+      <li><a href="txtblk.php?topic=10330">2011 SET</a></li>
+    </ul>
+    <p><hr size="1" /></p>
+    <h2 class="title">Policies</h2>
+    <p><hr size="1" /></p>
+    <h2 class="title">Reference</h2>
+    <ul>
+      <li><a href="EClist.php">EC's and DEC's</a></li>
+      <li><a href="arpscsked.php">ARPSC Net Control Schedule</a></li>
+      <li><a href="eventcal.php">Calendar of Events</a></li>
+      <li><a href="txtblk.php?topic=14100">State EOC</a></li>
+      <li><a href="netinfo.php?order=netfullname">Michigan Nets</a></li>
+      <li><a href="txtblk.php?topic=10199">Thoughts and Training</a></li>
+      <li><a href="txtblk.php?topic=13000">Job Descriptions</a></li>
+      <li><a href="freqMap.php">County Frequencies</a></li>
+      <li><a href="txtblk.php?topic=12100">District Maps</a></li>
+      <li><a href="txtblk.php?topic=10900">Downloads</a></li>
+    </ul>
+    <p><hr size="1" /></p>
+    <h2 class="title">Resources</h2>
+    <ul>
+      <li class="out"><a href="http://www.remote.arrl.org/sections/?sect=MI">Michigan Section</a></li>
+      <li class="out"><a href="http://nts-mi.org">Michigan Section NTS</a></li>
+      <li class="out"><a href="http://www.mi-drg.org">Digital Radio Group</a></li>
+      <li><a href="txtblk.php?topic=12300">Section Photo Page</a></li>
+      <li><a href="txtblk.php?topic=10990">Links</a></li>
+    </ul>
+    <p><hr size="1" /></p>
+  </div>
+<!-- ONEXIT leftBar -->
+    <div id="main">
+<script type="text/javascript" language="javascript">
+function isEmailAddr(elem)
+{
+    var str = elem.value;
+    str = str.toLowerCase();
+    if (str.indexOf("@") > 1)
+    {
+	var addr = str.substring(0,str.indexOf("@"));
+	var domain = str.substring(str.indexOf("@") + 1,str.length);
+	if (domain.indexOf(".") == -1)
+        {
+            alert("Verify the domain portion of the email address.");
+            return false;
+        }
+        for ( var i=0; i<addr.length; i++ )
+        {
+            oneChar = addr.charAt(i).charCodeAt(0);
+            if ((i==0 && (oneChar==45 || oneChar==46)) ||
+                (i==addr.length-1 && oneChar==46))
+            {
+                alert("Verify the user name portion of the email address.");
+                return false;
+            }
+            if ( oneChar==45 || oneChar==46 || oneChar==95 ||
+                 (oneChar>47 && oneChar<58) || (oneChar>96 && oneChar<123))
+            {
+                continue;
+            }
+            else
+            {
+                alert("Verify the user name portion of the email address.");
+                return false;
+            }
+	}
+        for ( i=0; i<domain.length; i++ )
+        {
+            oneChar = domain.charAt(i).charCodeAt(0);
+            if ((i==0 && (oneChar==45 || oneChar==46)) ||
+                ((i==domain.length-1 || i==domain.length-2) && oneChar==46))
+            {
+                alert("Verify the domain portion of the email address.");
+                return false;
+            }
+            if (oneChar==45 || oneChar==46 || oneChar==95 ||
+                (oneChar>47 && oneChar<58) || (oneChar>96 && oneChar<123))
+            {
+                continue;
+            }
+            else
+            {
+                alert("Verify the domain portion of the email address.");
+                return false;
+            }
+        }
+        return true;
+    }
+    alert("The email address may not be formatted correctly. Please verify.");
+    return false;
+}
+function isNotEmpty(elem) 
+{
+    var str = elem.value;
+    var re = /.+/;
+    if (!str.match(re))
+    {
+	alert("Please fill in the required field.");
+	return false; 
+    } 
+    else 
+    { 
+	return true; 
+    } 
+}
+function validateForm( form )
+{
+    if (isNotEmpty(form.call))
+    {
+	if (isNotEmpty(form.email))
+        {
+	    if (isEmailAddr(form.email)) 
+	    {
+		return true;
+	    }
+	}
+    }
+    return false;
+}
+</script>
+      <p><h1><center>Online Meeting Signup</center></h1></p>
+      <center>
+      <h1>Digital Strategies #1</h1>
+      <p>Session #4 - 2013-02-20 20:00:00</p>
+        <form name="slot" method="post" action="meetingSignup2.php?mid=1&seq=4" 
+	      onsubmit="return validateForm(this)">
+          <table width="90%">
+            <tr>
+              <th align="right">Call &nbsp; </th>
+              <td align="left">
+                <input type="text" size="12" name="call" 
+		       onchange="isNotEmpty(this)" />
+              </td>
+            </tr>
+            <tr>
+              <th align="right">email &nbsp; </th>
+              <td align="left">
+                <input type="text" size="40" name="email" onchange="isNotEmpty(this)" />
+              </td>
+            </tr>
+          </table>
+          <p><input type="submit" value="Submit"></p>
+        </form>
+      </center>
+    </div>
+<!-- =================Onentry sectLeaders============= -->
+  <div id="staff">
+    <h2 class="title">Contact Section Leaders</h2>
+      <p><strong>Section Manager</strong><br />
+	Larry Camp, WB8R<br />
+	71 Oakdale Lane<br />
+	Coldwater, MI 49036<br />
+	517-278-0406<br />
+	517-617-4883<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,119,98,56,114,64,97,114,114,108,46,110,101,116,34,62,119,98,56,114,64,97,114,114,108,46,110,101,116,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#119;&#98;&#56;&#114;&#64;&#97;&#114;&#114;&#108;&#46;&#110;&#101;&#116;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>ASM Training</strong><br />
+	Daniel M Romanchik, KB6NU<br />
+	1325 Orkney Dr<br />
+	Ann Arbor, MI 48103-2966<br />
+	734-930-6564<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,107,98,54,110,117,64,119,56,112,103,119,46,111,114,103,34,62,107,98,54,110,117,64,119,56,112,103,119,46,111,114,103,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#107;&#98;&#54;&#110;&#117;&#64;&#119;&#56;&#112;&#103;&#119;&#46;&#111;&#114;&#103;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>ASM Digital</strong><br />
+	John J. Nugent, WB8TKL<br />
+	1316 Oak Street<br />
+	Ypsilanti, MI 48198<br />
+	734-484-5105<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,106,106,110,64,110,117,103,101,46,99,111,109,34,62,106,106,110,64,110,117,103,101,46,99,111,109,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#106;&#106;&#110;&#64;&#110;&#117;&#103;&#101;&#46;&#99;&#111;&#109;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>Affiliated Club Coordinator</strong><br />
+	H. S. (Scott) Bicknell, W1BIC<br />
+	1164 Concord Rd<br />
+	Rochester Hills, MI 48309<br />
+	248-375-0624<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,119,49,98,105,99,64,97,114,114,108,46,110,101,116,34,62,119,49,98,105,99,64,97,114,114,108,46,110,101,116,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#119;&#49;&#98;&#105;&#99;&#64;&#97;&#114;&#114;&#108;&#46;&#110;&#101;&#116;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>Official Observer Coordinator</strong><br />
+	Ken Coughlin, N8KC<br />
+	53762 Kristin Ct<br />
+	Shelby Twp., MI 48316<br />
+	248-652-1187<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,110,56,107,99,64,97,114,114,108,46,110,101,116,34,62,110,56,107,99,64,97,114,114,108,46,110,101,116,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#110;&#56;&#107;&#99;&#64;&#97;&#114;&#114;&#108;&#46;&#110;&#101;&#116;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>Public Information Coordinator</strong><br />
+	Patrick W. Mullet, KC8RTW<br />
+	171 E. Orchard Ave.<br />
+	Shepherd, MI 48883<br />
+	989-695-0136<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,107,99,56,114,116,119,64,97,114,114,108,46,110,101,116,34,62,107,99,56,114,116,119,64,97,114,114,108,46,110,101,116,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#107;&#99;&#56;&#114;&#116;&#119;&#64;&#97;&#114;&#114;&#108;&#46;&#110;&#101;&#116;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>Section Emergency Coordinator</strong><br />
+	John J Mc Donough, WB8RCR<br />
+	2211 Laurel Ln<br />
+	Midland, MI 48642-3820<br />
+	989-430-4855<br />
+	989-631-0178<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,119,98,56,114,99,114,64,97,114,114,108,46,110,101,116,34,62,119,98,56,114,99,114,64,97,114,114,108,46,110,101,116,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#119;&#98;&#56;&#114;&#99;&#114;&#64;&#97;&#114;&#114;&#108;&#46;&#110;&#101;&#116;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>Section Traffic Manager</strong><br />
+	John J Mc Donough, WB8RCR<br />
+	2211 Laurel Ln<br />
+	Midland, MI 48642-3820<br />
+	989-430-4855<br />
+	989-631-0178<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,119,98,56,114,99,114,64,97,114,114,108,46,110,101,116,34,62,119,98,56,114,99,114,64,97,114,114,108,46,110,101,116,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#119;&#98;&#56;&#114;&#99;&#114;&#64;&#97;&#114;&#114;&#108;&#46;&#110;&#101;&#116;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>State Government Liaison</strong><br />
+	Edward L Hude, WA8QJE<br />
+	114 S College Rd<br />
+	Mason, MI 48854-9786<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,119,97,56,113,106,101,64,97,114,114,108,46,110,101,116,34,62,119,97,56,113,106,101,64,97,114,114,108,46,110,101,116,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#119;&#97;&#56;&#113;&#106;&#101;&#64;&#97;&#114;&#114;&#108;&#46;&#110;&#101;&#116;
+</noscript>
+	</strong><br />
+      </p>
+      <p><strong>Technical Coordinator</strong><br />
+	W Wallace Murray, KE8HR<br />
+	1403 S Hill Rd<br />
+	Milford, MI 48381-2854<br />
+	<strong>
+<script type="text/javascript" language="javascript">
+<!--
+  {
+    document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,107,101,56,104,114,64,97,114,114,108,46,110,101,116,34,62,107,101,56,104,114,64,97,114,114,108,46,110,101,116,60,47,97,62));
+  }
+//-->
+</script>
+<noscript>
+&#107;&#101;&#56;&#104;&#114;&#64;&#97;&#114;&#114;&#108;&#46;&#110;&#101;&#116;
+</noscript>
+	</strong><br />
+      </p>
+  </div>
+<!-- =================Onexit sectLeaders============= -->
+
+  <div id="footer">
+    <center><img src="images/When-All-Else-Fails-2.gif"></center>
+    <p>&nbsp;</p>
+    <table width=100%>
+      <tr>
+        <td width=33%>
+          <center>
+              Solar Flux:<br /><img src="http://www.n3kl.org/sun/images/status.gif?">
+          </center>
+        </td>
+        <td width=33%>
+          <center>
+              Geomagnetic Field:<br /><img src="http://www.n3kl.org/sun/images/kpstatus.gif?">
+          </center>
+        </td>
+        <td>
+          <center>
+              <img src="http://www.dhs.gov/threat_level/current_new.gif">
+          </center>
+        </td>
+      </tr>
+    </table>
+    <p><div align="right"><g:plusone size="small" annotation="inline"></g:plusone></div></br>
+    Requested: Tuesday, February 05 2013, 09:35<br />
+    Source $Revision: 1.1 $ - $Date: 2013-02-04 19:07:00-04 $<br />
+    copyright &copy; 2007-2011, Michigan Section, American Radio Relay League</p>
+  </div>
+</div>
+</body>
+</html>

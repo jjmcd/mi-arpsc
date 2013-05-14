@@ -19,7 +19,7 @@ function tweets( $provider, $background, $color, $links, $height, $tback, $tfore
   echo "	version: 2,\n";
   echo "	type: 'profile',\n";
   echo "	rpp: 8,\n";
-  echo "	interval: 6000,\n";
+  echo "	interval: 3000,\n";
   echo "        title: '" . $providername . "',\n";
   echo "        subject: '" . $provider . "',\n";
   echo "	width: 450,\n";
@@ -112,6 +112,73 @@ new TWTR.Widget({
 
 ?>
       </center>
+<hr />
+<!--
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 250,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#333333',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#000000',
+      color: '#ffffff',
+      links: '#4aed05'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('NTASAlerts').start();
+</script>
+
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 250,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#333333',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#000000',
+      color: '#ffffff',
+      links: '#4aed05'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('wb8rcr').start();
+</script>
+-->
+<hr />
 
   </div>
 <?php

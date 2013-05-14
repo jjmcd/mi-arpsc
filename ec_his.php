@@ -123,7 +123,7 @@ while ( $row1 = getRow($r1,$db) )
 		$reports[$index] = $reports[$index] + 1;
 	    }
 
-	    if ( $row2[0]=='Arenac' )
+	    if ( $row2[0]=='NotArenac' )
 	    {
 		if ( $district != $olddistrict )
 		{
@@ -133,9 +133,9 @@ while ( $row1 = getRow($r1,$db) )
 		echo "\t\t<td " . $s1S . ">" . $row2[0] . " </td>\n";
 		echo "\t\t<td " . $s1L . " colspan=\"18\">" . "w/Ogemaw" . "</td>\n";
 		echo "\t</tr>\n";
-	    }
-	    else if ( $row2[0]=='Clare' )
-	    {
+		//	    }
+		//	    else if ( $row2[0]=='Clare' )
+		//	    {
 		if ( $district != $olddistrict )
 		{
 		    echo "\t\t<td " . $s1B . " rowspan=\"" . $lc . "\">" . $district . " </td>\n";

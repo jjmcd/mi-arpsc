@@ -38,7 +38,7 @@
     echo "          <th>Frequency</th>\n";
     echo "          <th>Updated</th>\n";
     echo "        </tr>\n";
-while ( $row = getRow( $res, $db ) )
+    while ( $row = getRow( $res ) )
       {
 	echo "        <tr>\n";
 	echo "          <td>" . $row[3] . "</td>\n";

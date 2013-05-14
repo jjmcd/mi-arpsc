@@ -1,7 +1,5 @@
 <?php
 
-// $Id: miscFunctions.inc,v 1.7 2008-01-22 15:51:31-05 jjmcd Exp jjmcd $
-
 function leftBar($db)
 {
     echo "<!-- ONENTRY leftBar -->\n";
@@ -66,7 +64,82 @@ function leftBar($db)
 	}
 	if ( $ulprinted )
 	    echo "    </ul>\n";
-	echo "    <p><hr size=\"1\"></p>\n";
+	echo "    <p><hr size=\"1\" /></p>\n";
+    }
+    echo "  </div>\n";
+    echo "<!-- ONEXIT leftBar -->\n";
+}
+
+function ARESleftBar($db)
+{
+    echo "<!-- ONENTRY leftBar -->\n";
+    $SQL = 'SELECT nbid,buttontext,sequence,pageid ' .
+           'FROM anavbar_heads ' .
+           'ORDER BY sequence';
+    $result=mysql_query($SQL,$db);
+
+    if (mysql_errno($db) != 0 )
+    {
+	prnMsg($ErrorMessage.'<BR>' . mysql_error($db),'error', _('Database Error')); 
+    }
+
+    echo '  <div id="navbar">' . "\n";
+
+    while ( $myrow = mysql_fetch_row($result) )
+    {
+	if (mysql_errno($db) != 0 )
+	{
+	    prnMsg($ErrorMessage.'<br />' . mysql_error($db),'error', _('Database Error'));
+	}
+	$SQL2='SELECT url FROM webpages WHERE pageID=' . $myrow[3];
+	$result2=mysql_query($SQL2,$db);
+	if (mysql_errno($db) != 0 )
+	{
+	    prnMsg($ErrorMessage.'<br />' . mysql_error($db),'error', _('Database Error')); 
+	}
+	if ( $myrow2=mysql_fetch_row($result2) )
+	    echo '    <h2 class="title"><a href="'. $myrow2[0] . '">' . $myrow[1] .
+	    "</a></h2>\n";
+	else
+	    echo '    <h2 class="title">' . $myrow[1] . "</h2>\n";
+
+	// Now get the navbar_subs result
+	$SQL2 = 'SELECT buttontext,pageid' .
+              ' FROM anavbar_subs' .
+              ' WHERE nbid=' . $myrow[0] . 
+              ' ORDER BY sequence';
+	$result2=mysql_query($SQL2,$db);
+	if (mysql_errno($db) != 0 ){
+	    prnMsg($ErrorMessage.'<br />' . mysql_error($db),'error', _('Database Error'));
+	}
+        $ulprinted = 0;
+	while ($myrow2 = mysql_fetch_row($result2))
+	{
+	    $SQL3='SELECT url FROM webpages WHERE pageID=' . $myrow2[1];
+	    $result3=mysql_query($SQL3,$db);
+	    if (mysql_errno($db) != 0 )
+	    {
+		prnMsg($ErrorMessage.'<br />' . mysql_error($db),'error', _('Database Error')); 
+	    }
+            if ( !$ulprinted )
+	    {
+		echo "    <ul>\n";
+		$ulprinted = 1;
+	    }
+	    if ( $myrow3=mysql_fetch_row($result3) )
+	    {
+		$class = '';
+		if ( substr($myrow3[0],0,4) == 'http' )
+		    $class=' class="out"';
+		echo '      <li' . $class . '><a href="'. $myrow3[0] . '">' . $myrow2[0] . "</a></li>\n";
+	    }
+	    else
+		echo '      <li>' . $myrow2[0] . "</li>\n";
+
+	}
+	if ( $ulprinted )
+	    echo "    </ul>\n";
+	echo "    <p><hr size=\"1\" /></p>\n";
     }
     echo "  </div>\n";
     echo "<!-- ONEXIT leftBar -->\n";
@@ -236,7 +309,7 @@ function Show_Nets(&$db,&$SQL) {
 
     echo '</TABLE>' . "\n";
 
-echo "<P>Latest data:" . $maxdate . "<HR></P>\n";
+echo "<P>Latest data:" . $maxdate . "<hr /></P>\n";
 }
 
 // Return a result set from the database
@@ -284,9 +357,9 @@ function dateLinks($period,$table,$db)
 		{
 		    // Get the date from period, convert, and display as link
 		    $SQL = "SELECT lastday FROM periods WHERE periodno = " . $newperiod;
-		    $displaydate = convertDateShort(singleResult($SQL,$db));
-		    echo '&nbsp;<a class="month" href="' . $table . ".php?period=" . $newperiod . "\">[ "
-			. $displaydate . " ]</a>\n";
+		    $displaydate = convertDate(singleResult($SQL,$db));
+		    echo '&nbsp;<a class="month" href="' . $table . ".php?period=" . $newperiod . "\"> "
+			. $displaydate . " </a>\n";
 		}
 	    }
 	}
@@ -295,7 +368,7 @@ function dateLinks($period,$table,$db)
 function footer($start,$max,$revstring)
 {
     echo "  <div id=\"footer\">\n";
-    echo "    <center><img src=\"http://www.mi-arpsc.org/When-All-Else-Fails-2.gif\">" .
+    echo "    <center><img src=\"images/When-All-Else-Fails-2.gif\">" .
 	"</center>\n";
     echo "    <p>&nbsp;</p>\n";
     echo "    <table width=100%>\n";
@@ -319,10 +392,11 @@ function footer($start,$max,$revstring)
     if ( $max != "" )
 	echo "    Most recent data: " . $max . "<br />\n";
     echo "    Source " . $revstring . "<br />\n";
-    echo "    copyright &copy; 2007, Michigan Section, American Radio Relay League\n";
+    echo "    copyright &copy; 2007-2011, Michigan Section, American Radio Relay League\n";
     echo "  </div>\n";
 
 }
+
 
 function genInts( $string )
 {
@@ -354,8 +428,8 @@ function sectLeaders($db)
 {
 echo "<!-- =================Onentry sectLeaders============= -->\n";
 ?>
-<div id="staff">
-<h2 class="title">Contact Section Leaders</h2>
+  <div id="staff">
+    <h2 class="title">Contact Section Leaders</h2>
 <?php
 
     $q1='SELECT A.title, B.name, B.call, B.addr1, B.addr2, B.city, B.state, B.zip, B.id' .
@@ -366,10 +440,10 @@ echo "<!-- =================Onentry sectLeaders============= -->\n";
 
     while ( $myrow = getRow($r1,$db) )
     {
-	echo '<p><strong>' . $myrow[0] . '</strong><br />' . "\n";
-	echo $myrow[1] . ', ' . $myrow[2] . "<br />\n";
-	echo $myrow[3] . "<br />\n";
-	echo $myrow[5] . ', ' . $myrow[6] . ' ' . $myrow[7] . "<br />\n";
+	echo '      <p><strong>' . $myrow[0] . '</strong><br />' . "\n";
+	echo "\t" . $myrow[1] . ', ' . $myrow[2] . "<br />\n";
+	echo "\t" . $myrow[3] . "<br />\n";
+	echo "\t" . $myrow[5] . ', ' . $myrow[6] . ' ' . $myrow[7] . "<br />\n";
 	$q2='SELECT type, value, seq' .
           ' FROM arpsc_contact' .
           ' WHERE id=' . $myrow[8] .
@@ -381,25 +455,24 @@ echo "<!-- =================Onentry sectLeaders============= -->\n";
 	  {
 		if ( $myrow2[0] == 30 )
 		{
-		  echo "<strong>";
+		  echo "\t<strong>";
 		  genInts($myrow2[1]);
-		  echo "</strong><br />\n";
+		  echo "\t</strong><br />\n";
 		}
 		else
 		{
-		  echo $myrow2[1] . "<br />\n";
+		  echo "\t" . $myrow2[1] . "<br />\n";
 		}
 	  }
 	}
-      echo "</p>\n";
+      echo "      </p>\n";
     }
 
 
 ?>
-
-</div>
+  </div>
 <?php
-echo "<!-- =================Onexit sectLeaders============= -->\n";
+echo "<!-- =================Onexit sectLeaders============= -->\n\n";
 }
 
 function NTSheader( $title, $keywords )
@@ -477,7 +550,7 @@ function ARESheader( $title, $keywords )
           <a href="/" title="Home"><img src="images/arrlmi.gif" alt="Home" /></a>
         </td>
         <td id="logo3"><h1 class='site-name'><a href="/" title="Home">Michigan Section ARES</a></h1>
-          <div class='site-slogan'>part of the Amateur Radio Public Service Corps</div><br>&nbsp;
+          <div class='site-slogan'>part of the Amateur Radio Public Service Corps</div><br />&nbsp;
         </td>
         <td id="logo4" width="125px">
           <img align="right" src="images/ares.gif" alt="NTS" />
@@ -486,38 +559,7 @@ function ARESheader( $title, $keywords )
     </table>
   </div>
 <?php
-echo "<!-- =================Onexit ARESheader============= -->\n";
-}
-
-function passwd( $pass, $pass2 )
-{
-    return base64_decode( $pass );
-}
-
-function openDatabase( $dppF )
-{
-      $host = base64_decode($dppF[0]);
-      $dbuser = base64_decode($dppF[1]);
-      $dbpassword = base64_decode($dppF[2]);
-
-//    print "<p>----&gt;<b>" . $dppF[0] . "</b>&lt;----</p>\n";
-//    print "<p>----&gt;<b>" . $dppF[1] . "</b>&lt;----</p>\n";
-//    print "<p>----&gt;<b>" . $dppF[2] . "</b>&lt;----</p>\n";
-
-    $db = mysql_connect( $host, $dbuser, $dbpassword );
-
-    return $db;
-}
-
-function myInit( $aa0, $aa1, $aa2, $aa3 )
-{
-    $db = mysql_connect(
-	base64_decode($aa0),
-	base64_decode($aa1),
-	base64_decode($aa2)
-				);
-    mysql_select_db(base64_decode($aa3),$db);
-    return $db;
+echo "<!-- =================Onexit ARESheader============= -->\n\n";
 }
 
 ?>
